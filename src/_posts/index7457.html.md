@@ -1,0 +1,120 @@
+[](index.html "AF.54"){.home-link}
+
+AF.54 {#af.54 .site-title}
+=====
+
+ {#section .site-description}
+
+Menu
+
+[Vai al contenuto](#content "Vai al contenuto"){.screen-reader-text .skip-link}
+
+-   [Home](index.html)
+-   [Progetti](index.html)
+    -   [Progetti 2016-2020](index86ea.html?page_id=388)
+    -   [Progetti 2011-2015](indexea29.html?page_id=474)
+    -   [Progetti 2006-2010](index9b8d.html?page_id=525)
+    -   [Progetti 2001-2005](index3429.html?page_id=494)
+    -   [Progetti 1993-2000](index5532.html?page_id=559)
+-   [Contributi](index376e.html?cat=13)
+    -   [Articoli](index305b.html?page_id=438)
+    -   [Presentazioni](index3fd7.html?page_id=441)
+    -   [Libri](indexb842.html?page_id=450)
+    -   [Mostre](index85de.html?page_id=1066)
+-   [Prodotti](indexb5e7.html?cat=15)
+    -   [Report, Brevetti](indexfea7.html?page_id=1069)
+    -   [Data Base](index7175.html?page_id=1072)
+    -   [Software](index1a36.html?page_id=1075)
+-   [Attività](index852a.html?page_id=410)
+-   [Curatela](index5b3e.html?page_id=416)
+-   [Editoria](index1597.html?page_id=419)
+-   [Formazione](index7f00.html?page_id=422)
+-   [Mansioni](index7fa5.html?cat=138)
+    -   [Incarichi](indexfc67.html?page_id=1050)
+    -   [Funzioni](index5cc7.html?page_id=1061)
+    -   [Collaborazioni](index5edb.html?page_id=1083)
+    -   [Titoli](indexa54c.html?page_id=1239)
+    -   [Missioni principali](indexe97a.html?page_id=1804)
+-   [Congressi](index9c1c.html?page_id=425)
+
+Ricerca per:
+
+Archivi tag: Emissario {#archivi-tag-emissario .archive-title}
+======================
+
+[Progetto Marsica 2018 -- 2020](indexc757.html?p=2151) {#progetto-marsica-2018-2020 .entry-title}
+======================================================
+
+[28 novembre 2018](indexc757.html?p=2151 "Permalink a Progetto Marsica 2018 – 2020")[Progetti](index0b40.html?cat=9)[Abruzzo](indexbf18.html?tag=abruzzo), [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [CNR](index47bd.html?tag=cnr), [Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino), [IGAG](index1e12.html?tag=igag), [IMC](indexa2f2.html?tag=imc)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+
+L'Emissario del Fucino sarà oggetto di nuove indagini che contribuiranno allo studio delle strutture ipogee dell'opera idraulica e al miglioramento della gestione delle acque irrigue. Queste due linee guida sono alla base dell'accordo, tra il Consorzio di Bonifica Ovest / Bacino Liri Garigliano e il CNR, in particolare l'Istituto di Metodologie Chimiche (IMC) e l'Istituto di Geologia Ambientale e Geoingegneria (IGAG), entrambi con una pluriennale esperienza nel settore delle nuove metodologie applicate allo studio, alla conservazione e alla valorizzazione dei beni culturali e ambientali. L'antica struttura idraulica, realizzata 150 anni fa su una precedente, articolata opera di epoca romana e oggi affidata in gestione dalla Regione Abruzzo al Consorzio di Bonifica Ovest,  consente l'irrigazione dei terreni agricoli della pianura del Fucino e sarà monitorata sotto diversi aspetti che verranno via via concordati tra i Soggetti interessati e con la Soprintendenza per i Beni Architettonici e Paesaggistici per l'Abruzzo. Tra le numerose attività in programma vi sono: i rilievi topografici e fotografici relativi all'emissario; la misurazione della concentrazione del gas radon, in aria e in acqua, negli ambienti sotterranei di drenaggio delle acque; la misurazione, nel tempo, della temperatura e dell'umidità degli ambienti sotterranei del collettore principale del Fucino e delle sue pertinenze significative; le analisi di sostanze biologicamente attive (polifenoli, vitamine, fitosteroli) ed il loro recupero dagli scarti agricoli; l'implementazione di un Sistema Informativo Geografico (GIS) dedicato;  la raccolta di informazioni di tipo geologico e idrologico-idrogeologico, quali ad esempio: rete di canali, sorgenti, pozzi, misure piezometriche, misure chimico fisiche; la elaborazione di informazioni sulla pericolosità sismica e sulla presenza e caratterizzazione delle faglie attive presenti nell'area.
+
+[Progetto CARISPAQ Emissario Fucino 2017](index461a.html?p=854) {#progetto-carispaq-emissario-fucino-2017 .entry-title}
+===============================================================
+
+[19 marzo 2017](index461a.html?p=854 "Permalink a Progetto CARISPAQ Emissario Fucino 2017")[Progetti](index0b40.html?cat=9)[Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+
+**Progetto CARISPAQ Emissario Fucino 2017**\
+L'aspetto principale dell'iniziativa sarà la conoscenza visiva di una straordinaria opera idraulica, definita la più importante del mondo antico, altrimenti poco o nulla apprezzata a causa di oggettive difficoltà strutturali che rendono piuttosto complessa, per ora, la possibilità di visita diretta. Il secondo aspetto riguarda la valorizzazione storico culturale di una struttura archeologica con particolare riferimento ai giovani e giovanissimi attraverso giornate dedicate all'iniziativa da svolgersi presso le scuole locali. Il terzo aspetto, collegato con la missione statutaria dell'Ente, consiste nel suscitare l'interesse dei giovani alle attività di ricerca e monitoraggio condotte, in modo che possano prendere in considerazione per il futuro percorso educativo le discipline relative. Infine, in maniera indiretta, l'iniziativa si propone di sollecitare le autorità preposte ad operare per una reale valorizzazione dell'opera a fini turistici; infatti sarebbe per la regione un grande richiamo di valore internazionale poter offrire visite guidate in un contesto che coniuga aspetti naturalistici, storici e architettonici unici nel suo genere.
+
+[Leggi Progetto CARISPAQ Emissario Fucino 2017 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CARISPAQ-Emissario-Fucino-2017-RID.pdf)
+
+[Progetto CARISPAQ Emissario 2016](indexfe6b.html?p=850) {#progetto-carispaq-emissario-2016 .entry-title}
+========================================================
+
+[19 marzo 2017](indexfe6b.html?p=850 "Permalink a Progetto CARISPAQ Emissario 2016")[Progetti](index0b40.html?cat=9)[Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+
+**Progetto CARISPAQ Emissario 2016**\
+Il collettore sotterraneo del Fucino è senza dubbio una delle opere idrauliche più significative dell'antichità ed è stato creato, nel I sec. d.C. per regimare le acque lacustri prive di un emissario naturale. Deterioratosi per mancanza di manutenzione già nel V sec. venne completamente ristrutturato nella metà dell'800 per drenare e bonificare completamente l'antico lago con un'opera ingegneristica al tempo considerata seconda solo alla realizzazione del Canale di Suez. Il tracciato della galleria, perfettamente conservato ed ispezionabile, è tuttavia poco o nulla conosciuto anche e questa iniziativa intende rendere fruibile, attraverso le immagini, la conoscenza di una eccezionale opera di ingegneria idraulica della Marsica, della sua storia e della sua cultura. \
+Il progetto intende realizzare una mostra itinerante che possa permettere una completa ed esaustiva conoscenza visiva dell'intera opera idraulica ipogea, mediante la esposizione di una galleria di immagini, corredate da opportune didascalie. Questa realizzazione potrà essere facilmente trasportata e montata provvisoriamente nelle scuole, in centri commerciali, nel corso di manifestazioni culturali ed in qualsiasi altro sito al fine di rendere visibile, almeno per immagini, il sito archeologico costituito dal complesso dell'emissario e fornire informazioni sulla sua consistenza e configurazione.
+
+[Leggi Progetto CARISPAQ Emissario 2016 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CARISPAQ-Emissario-2016-RID.pdf)
+
+[\_Emissario del Fucino 2011-2018](index4efb.html?p=405) {#emissario-del-fucino-2011-2018 .entry-title}
+========================================================
+
+In Costruzione
+
+[Chat del 8 marzo 2017](index4efb.html?p=405 "Permalink a _Emissario del Fucino 2011-2018")[Progetti](index0b40.html?cat=9)[Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+
+### Foto {#foto .widget-title}
+
+-   [Foto indice](indexaa27.html?page_id=1256)
+
+### Tag {#tag .widget-title}
+
+[Abruzzo](indexbf18.html?tag=abruzzo "2 argomenti"){.tag-link-99} [AIC](indexfd92.html?tag=aic "4 argomenti"){.tag-link-82} [Ambiente](indexa6a7.html?tag=ambiente "6 argomenti"){.tag-link-175} [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari "22 argomenti"){.tag-link-186} [Arsenale](index6e38.html?tag=arsenale "2 argomenti"){.tag-link-115} [Bejarjomand](index93d3.html?tag=bejarjomand "1 argomento"){.tag-link-34} [Beni Culturali](index883e.html?tag=beni-culturali "14 argomenti"){.tag-link-72} [Cina](index26c3.html?tag=cina "2 argomenti"){.tag-link-71} [CNR](index47bd.html?tag=cnr "7 argomenti"){.tag-link-87} [Cultural Heritage](index49c7.html?tag=cultural-heritage "2 argomenti"){.tag-link-79} [Dipartimento](index79d6.html?tag=dipartimento "2 argomenti"){.tag-link-131} [Distretto Tecnologico](index057d.html?tag=distretto-tecnologico "2 argomenti"){.tag-link-69} [EACH](index42c8.html?tag=each "2 argomenti"){.tag-link-57} [Eachmed](indexcf6e.html?tag=eachmed "3 argomenti"){.tag-link-101} [Editoria](indexd50c.html?tag=editoria "1 argomento"){.tag-link-148} [Emissario](index7457.html?tag=emissario "4 argomenti"){.tag-link-134} [FIRB](index7342.html?tag=firb "3 argomenti"){.tag-link-38} [Formazione](index52c4.html?tag=formazione "3 argomenti"){.tag-link-96} [Foto](index2e63.html?tag=foto "2 argomenti"){.tag-link-201} [Fucino](index11b4.html?tag=fucino "5 argomenti"){.tag-link-100} [Giordania](index338b.html?tag=giordania "4 argomenti"){.tag-link-35} [H2020](index3914.html?tag=h2020 "10 argomenti"){.tag-link-119} [Immigrazione](index32ae.html?tag=immigrazione "4 argomenti"){.tag-link-85} [Imprese](index514c.html?tag=imprese "5 argomenti"){.tag-link-56} [Iran](index4241.html?tag=iran "5 argomenti"){.tag-link-25} [Kavir](index3aaa.html?tag=kavir "1 argomento"){.tag-link-32} [Kemeshk](index0773.html?tag=kemeshk "1 argomento"){.tag-link-31} [Kepha](index724b.html?tag=kepha "2 argomenti"){.tag-link-188} [Marsica](index6ce2.html?tag=marsica "5 argomenti"){.tag-link-98} [MIUR](index0aa1.html?tag=miur "3 argomenti"){.tag-link-53} [MNEMO](index7027.html?tag=mnemo "3 argomenti"){.tag-link-84} [Museo](index304a.html?tag=museo "2 argomenti"){.tag-link-91} [PFBC](indexc5dc.html?tag=pfbc "1 argomento"){.tag-link-149} [PON](index0011.html?tag=pon "4 argomenti"){.tag-link-74} [Portale Anagrafe](indexe42c.html?tag=portale-anagrafe "2 argomenti"){.tag-link-102} [PRIN](index9cf1.html?tag=prin "2 argomenti"){.tag-link-103} [Qanat](index339d.html?tag=qanat "6 argomenti"){.tag-link-26} [Radon](index68d2.html?tag=radon "3 argomenti"){.tag-link-30} [Scuola](index2953.html?tag=scuola "2 argomenti"){.tag-link-153} [Shahrood](index6549.html?tag=shahrood "2 argomenti"){.tag-link-33} [Showbak](indexde02.html?tag=showbak "4 argomenti"){.tag-link-36} [Sicilia](index4efa.html?tag=sicilia "2 argomenti"){.tag-link-193} [Territorio](indexfff4.html?tag=territorio "4 argomenti"){.tag-link-176} [UE](index3f45.html?tag=ue "12 argomenti"){.tag-link-58} [Venezia](index05f5.html?tag=venezia "8 argomenti"){.tag-link-111}
+
+### Categorie {#categorie .widget-title}
+
+-   [Articoli](indexe788.html?cat=139) (1)
+-   [Contributi](index376e.html?cat=13) (1)
+-   [Editoria](indexcf7d.html?cat=137) (1)
+-   [Formazione](indexc055.html?cat=17) (1)
+-   [Foto](index335b.html?cat=155) (2)
+-   [Funzioni](index8cc5.html?cat=143) (1)
+-   [Progetti](index0b40.html?cat=9) (87)
+
+### Contenuti (954) {#contenuti-954 .widget-title}
+
+Progetti 112\
+Contributi Articoli 32\
+Contributi Presentazioni 36\
+Contributi Libri 8\
+Contributi Mostre 8\
+Prodotti Report 22\
+Prodotti Data Base 21\
+Prodotti Software 14\
+Attività 12\
+Curatela 26\
+Editoria 48\
+Formazione 5\
+Mansioni Incarichi 38\
+Mansioni Funzioni 8\
+Mansioni Collaborazioni 192\
+Mansioni Titoli 5\
+Missioni principali 148\
+Congressi 94\
+Foto 215
+
+[Orgogliosamente motorizzato da WordPress](http://wordpress.org/ "Piattaforma semantica di pubblicazione personale")
