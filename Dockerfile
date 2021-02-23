@@ -15,26 +15,26 @@ RUN apk add --update --no-cache \
   npm \
   && update-ca-certificates
 
-ARG UNAME=builder
-ARG UID=1000
-ARG GID=1000
+# ARG UNAME=builder
+# ARG UID=1000
+# ARG GID=1000
 
-RUN addgroup \
-  --gid "${GID}" \
-  "${UNAME}" \
-  && adduser \
-  --disabled-password \
-  --gecos "" \
-  --ingroup "${UNAME}" \
-  --shell /bin/ash \
-  --uid "$UID" \
-  "${UNAME}"
+# RUN addgroup \
+#   --gid "${GID}" \
+#   "${UNAME}" \
+#   && adduser \
+#   --disabled-password \
+#   --gecos "" \
+#   --ingroup "${UNAME}" \
+#   --shell /bin/ash \
+#   --uid "$UID" \
+#   "${UNAME}"
 
 ENV NODE_DEPENDENCIES_PATH=/usr
 WORKDIR "${NODE_DEPENDENCIES_PATH}"
-RUN chown -R ${UID}:${GID} "${NODE_DEPENDENCIES_PATH}"
+# RUN chown -R ${UID}:${GID} "${NODE_DEPENDENCIES_PATH}"
 
-USER "${UNAME}"
+# USER "${UNAME}"
 
 COPY package.json package.json
 COPY package-lock.json package-lock.json
@@ -51,10 +51,10 @@ COPY Gemfile.lock Gemfile.lock
 RUN \
   gem install bundler:$(< Gemfile grep bundler | awk -F "'" '{print $4}') \
   && bundle config set --local system 'true' \
-  && bundle install \
+  && bundle install --retry 10 \
   && rm Gemfile Gemfile.lock
 
-ENV NODE_PATH="${NODE_DEPENDENCIES_PATH}"/node_modules
+ENV NODE_PATH="${NODE_DEPENDENCIES_PATH}/node_modules"
 ENV PATH="${NODE_PATH}/.bin":"${PATH}"
 
 ENTRYPOINT ["npx", "--no-install", "gulp"]

@@ -8,8 +8,6 @@ IMAGE_ID := "ferrarimarco/personal-website:latest"
 .PHONY: build-docker-image
 build-docker-image: ## Build the Docker image
 	docker build \
-		--build-arg UID="$(shell id -u)" \
-		--build-arg GID="$(shell id -g)" \
 		-t "$(IMAGE_ID)" .
 
 .PHONY: test
@@ -26,6 +24,7 @@ endif
 .PHONY: build-serve-dev
 build-serve-dev: build-docker-image ## Build and serve a development version of the website with LiveReload support
 	docker run --rm -t $(DOCKER_FLAGS) \
+		--network host \
 		-v ""$(CURDIR)":/usr/app" \
 		-p 3000:3000 \
 		-p 3001:3001 \
@@ -35,6 +34,7 @@ build-serve-dev: build-docker-image ## Build and serve a development version of 
 .PHONY: build-serve-prod
 build-serve-prod: build-docker-image ## Build and serve a production version of the website with LiveReload support
 	docker run --rm -t $(DOCKER_FLAGS) \
+		--network host \
 		-v ""$(CURDIR)":/usr/app" \
 		-p 3000:3000 \
 		-p 3001:3001 \
@@ -44,6 +44,7 @@ build-serve-prod: build-docker-image ## Build and serve a production version of 
 .PHONY: build-prod
 build-prod: build-docker-image test ## Build a production version of the website
 	docker run --rm -t $(DOCKER_FLAGS) \
+		--network host \
 		-v ""$(CURDIR)":/usr/app" \
 		-w /usr/app \
 		"$(IMAGE_ID)" build --prod
@@ -51,15 +52,26 @@ build-prod: build-docker-image test ## Build a production version of the website
 .PHONY: build-prod-serve-dest
 build-prod-serve-dest: build-docker-image ## Build and serve (from the destination directory) a production version of the website with LiveReload support
 	docker run --rm -t $(DOCKER_FLAGS) \
+		--network host \
 		-v ""$(CURDIR)":/usr/app" \
 		-p 3000:3000 \
 		-p 3001:3001 \
 		-w /usr/app \
 		"$(IMAGE_ID)" build-serve-dest --prod
 
+.PHONY: shell
+shell: build-docker-image ## Open a shell in the running container
+	docker run --rm -t $(DOCKER_FLAGS) \
+		--entrypoint /bin/ash \
+		--network host \
+		-v ""$(CURDIR)":/usr/app" \
+		-w /usr/app \
+		"$(IMAGE_ID)"
+
 .PHONY: jekyll-doctor
 jekyll-doctor: build-docker-image ## Run jekyll doctor
 	docker run --rm -t $(DOCKER_FLAGS) \
+		--network host \
 		-v ""$(CURDIR)":/usr/app" \
 		-w /usr/app \
 		"$(IMAGE_ID)" check
