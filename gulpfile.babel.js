@@ -250,6 +250,13 @@ gulp.task('images', () =>
     .pipe($.size({ title: 'images' }))
 )
 
+// 'gulp docs' -- copies your docs to the temporary assets directory
+gulp.task('docs', () =>
+  gulp.src('src/assets/docs/**/*')
+    .pipe(gulp.dest(paths.assetsBuilt + '/assets/docs'))
+    .pipe($.size({ title: 'docs' }))
+)
+
 // 'gulp favicon' -- copies your favicon to the temporary assets directory
 gulp.task('favicon', () =>
   gulp.src('src/assets/favicon.ico')
@@ -267,7 +274,7 @@ gulp.task('copy:assets', () =>
 // 'gulp assets --prod' -- cleans out your assets and rebuilds them with production settings
 gulp.task('assets', gulp.series(
   gulp.series('clean:assets'),
-  gulp.parallel('styles', 'scripts', 'images', 'favicon'),
+  gulp.parallel('styles', 'scripts', 'images', 'favicon', 'docs'),
   gulp.series('copy:assets')
 ))
 
