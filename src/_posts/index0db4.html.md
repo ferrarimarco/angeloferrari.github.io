@@ -1,3 +1,0 @@
-[](index5cc7.html?page_id=1061)
-
-### Click here\...
