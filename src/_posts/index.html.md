@@ -1,3 +1,46 @@
+
+
+=====
+
+ 
+
+Menu
+
+
+
+-   [Home](index.html)
+-   [Progetti](index.html)
+    -   [Progetti 2016-2020](index86ea.html?page_id=388)
+    -   [Progetti 2011-2015](indexea29.html?page_id=474)
+    -   [Progetti 2006-2010](index9b8d.html?page_id=525)
+    -   [Progetti 2001-2005](index3429.html?page_id=494)
+    -   [Progetti 1993-2000](index5532.html?page_id=559)
+-   [Contributi](index376e.html?cat=13)
+    -   [Articoli](index305b.html?page_id=438)
+    -   [Presentazioni](index3fd7.html?page_id=441)
+    -   [Libri](indexb842.html?page_id=450)
+    -   [Mostre](index85de.html?page_id=1066)
+-   [Prodotti](indexb5e7.html?cat=15)
+    -   [Report, Brevetti](indexfea7.html?page_id=1069)
+    -   [Data Base](index7175.html?page_id=1072)
+    -   [Software](index1a36.html?page_id=1075)
+-   [Attività](index852a.html?page_id=410)
+-   [Curatela](index5b3e.html?page_id=416)
+-   [Editoria](index1597.html?page_id=419)
+-   [Formazione](index7f00.html?page_id=422)
+-   [Mansioni](index7fa5.html?cat=138)
+    -   [Incarichi](indexfc67.html?page_id=1050)
+    -   [Funzioni](index5cc7.html?page_id=1061)
+    -   [Collaborazioni](index5edb.html?page_id=1083)
+    -   [Titoli](indexa54c.html?page_id=1239)
+    -   [Missioni principali](indexe97a.html?page_id=1804)
+-   [Congressi](index9c1c.html?page_id=425)
+
+Ricerca per:
+
+Angelo Ferrari {#angelo-ferrari .entry-title}
+==============
+
     Scientific Technologist of the National Research Council
     Research Area of Rome 1
     Institute for Biological Systems (ISB)

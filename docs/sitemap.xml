@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://angeloferrari.it/blog/progetti/1998/01/01/miur-parnaso-1998/</loc>
+<lastmod>1998-01-01T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://angeloferrari.it/blog/progetti/2017/03/12/miur-immigrati-2008/</loc>
 <lastmod>2017-03-12T00:00:00+00:00</lastmod>
 </url>
@@ -23,6 +27,12 @@
 </url>
 <url>
 <loc>https://angeloferrari.it/blog/archive/category/progetti/</loc>
+</url>
+<url>
+<loc>https://angeloferrari.it/blog/archive/1998/</loc>
+</url>
+<url>
+<loc>https://angeloferrari.it/blog/archive/1998/01/</loc>
 </url>
 <url>
 <loc>https://angeloferrari.it/blog/archive/2017/</loc>
