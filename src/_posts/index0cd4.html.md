@@ -1,6 +1,3 @@
-Archivi tag: Egitto {#archivi-tag-egitto .archive-title}
-===================
-
 [Progetto GRANT Cairo 2009](index2b8b.html?p=600) {#progetto-grant-cairo-2009 .entry-title}
 =================================================
 
