@@ -1,6 +1,3 @@
-Archivi tag: Agricoltura {#archivi-tag-agricoltura .archive-title}
-========================
-
 [GIORDANIA 2009-2018](indexe8d3.html?p=378) {#giordania-2009-2018 .entry-title}
 ===========================================
 

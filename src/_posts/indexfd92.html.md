@@ -1,6 +1,3 @@
-Archivi tag: AIC {#archivi-tag-aic .archive-title}
-================
-
 [Progetto MNEMO](index05e8.html?p=1860) {#progetto-mnemo .entry-title}
 =======================================
 

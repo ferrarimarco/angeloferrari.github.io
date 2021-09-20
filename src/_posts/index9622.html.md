@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto Ninpha 2003](indexd21a.html?p=1648) {#progetto-ninpha-2003 .entry-title}
 =============================================
 

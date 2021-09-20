@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto UNCCEM Percorsi della fede 2004](indexa818.html?p=654) {#progetto-unccem-percorsi-della-fede-2004 .entry-title}
 ================================================================
 

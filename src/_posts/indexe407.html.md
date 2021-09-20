@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto FIRB Portale Internet sui beni culturali cinesi e italiani 2007](index0ced.html?p=586) {#progetto-firb-portale-internet-sui-beni-culturali-cinesi-e-italiani-2007 .entry-title}
 ================================================================================================
 

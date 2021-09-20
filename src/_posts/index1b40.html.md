@@ -1,6 +1,3 @@
-Archivi tag: FANTOM X {#archivi-tag-fantom-x .archive-title}
-=====================
-
 [Progetto H2020 FANTOM X 2015](indexe98c.html?p=802) {#progetto-h2020-fantom-x-2015 .entry-title}
 ====================================================
 

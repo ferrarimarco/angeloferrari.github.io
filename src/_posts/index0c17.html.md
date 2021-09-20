@@ -1,6 +1,3 @@
-Archivi tag: Hub {#archivi-tag-hub .archive-title}
-================
-
 [Progetto IUAV Venezia 2003](index66f9.html?p=729) {#progetto-iuav-venezia-2003 .entry-title}
 ==================================================
 

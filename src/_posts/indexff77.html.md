@@ -1,6 +1,3 @@
-Archivi tag: Multimediale {#archivi-tag-multimediale .archive-title}
-=========================
-
 [Progetto Palazzo Grassi Venezia 2001](indexe10c.html?p=1640) {#progetto-palazzo-grassi-venezia-2001 .entry-title}
 =============================================================
 

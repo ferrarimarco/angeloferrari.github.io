@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto EUR Civiltà Italiana 2005](index5d09.html?p=704) {#progetto-eur-civiltà-italiana-2005 .entry-title}
 ==========================================================
 

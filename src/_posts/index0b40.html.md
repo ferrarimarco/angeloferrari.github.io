@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto Marsica 2018 -- 2020](indexc757.html?p=2151) {#progetto-marsica-2018-2020 .entry-title}
 ======================================================
 

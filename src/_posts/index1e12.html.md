@@ -1,6 +1,3 @@
-Archivi tag: IGAG {#archivi-tag-igag .archive-title}
-=================
-
 [Progetto Marsica 2018 -- 2020](indexc757.html?p=2151) {#progetto-marsica-2018-2020 .entry-title}
 ======================================================
 

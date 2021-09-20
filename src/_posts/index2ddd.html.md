@@ -1,6 +1,3 @@
-Archivi tag: Foresta fossile {#archivi-tag-foresta-fossile .archive-title}
-============================
-
 [Progetto DUNAROBBA 2000](indexa890.html?p=1672) {#progetto-dunarobba-2000 .entry-title}
 ================================================
 

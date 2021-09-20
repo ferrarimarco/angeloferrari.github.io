@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto ARCHAEO SURVEY 2005](index5b8d.html?p=498) {#progetto-archaeo-survey-2005 .entry-title}
 ====================================================
 

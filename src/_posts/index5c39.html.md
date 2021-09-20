@@ -1,7 +1,5 @@
 AF.54 » Mestieri
 
-http://www.angeloferrari.it Sun, 26 Apr 2020 16:18:24 +0000 it-IT hourly 1 https://wordpress.org/?v=4.1.32
-
 Progetto San Servolo Venezia 2004
 
 http://www.angeloferrari.it/?p=1644 http://www.angeloferrari.it/?p=1644\#comments Tue, 16 Oct 2018 16:54:29 +0000 angelo Progetti Angelo Ferrari Mestieri San Servolo Venezia http://www.angeloferrari.it/?p=1644 Progetto San Servolo Venezia 2004 Accordo tra Il Progetto Finalizzato Beni Culturali del CNR, L'Università di  Venezia IUAV e il Centro Europeo di Venezia per i Mestieri della Conservazione del Patrimonio Architettonico. La finalià dell'intesa consiste nella istallazione nei locali del Centro europeo di San Servolo dell'European Hub Center del portale Eachmed di proprietà del PFNC-CNR. \<p\>\<span style=\"color: \#993300;\"\>\<strong\>Progetto San Servolo Venezia 2004\</strong\>\</span\>\</p\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>Accordo tra Il Progetto Finalizzato Beni Culturali del CNR, L'Università di  Venezia IUAV e il Centro Europeo di Venezia per i Mestieri della Conservazione del Patrimonio Architettonico. La finalià dell'intesa consiste nella istallazione nei locali del Centro europeo di San Servolo dell'European Hub Center del portale Eachmed di proprietà del PFNC-CNR.\</span\>\</p\> http://www.angeloferrari.it/?feed=rss2&p=1644 0

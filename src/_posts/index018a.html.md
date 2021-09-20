@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto FIRB EuroMed Cooperation 2005](index9f0a.html?p=371) {#progetto-firb-euromed-cooperation-2005 .entry-title}
 ==============================================================
 

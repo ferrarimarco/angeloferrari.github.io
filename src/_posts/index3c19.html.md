@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto Archivio Antropologico 2012](index2487.html?p=846) {#progetto-archivio-antropologico-2012 .entry-title}
 ============================================================
 

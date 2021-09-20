@@ -1,6 +1,3 @@
-Archivi categoria: Progetti {#archivi-categoria-progetti .archive-title}
-===========================
-
 [Progetto H2020 EUROPEAN FACADES 2015](index8ae4.html?p=798) {#progetto-h2020-european-facades-2015 .entry-title}
 ============================================================
 
