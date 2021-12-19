@@ -10,6 +10,7 @@ Ipotesi per lo studio e ricostruzione di antichi paesaggi della Marsica attraver
 
 [![Caracciolo Piani Palentini RIDb](wp-content/uploads/2017/03/Caracciolo-Piani-Palentini-RIDb.jpg){.alignnone .size-full .wp-image-861 width="1000" height="435"}](wp-content/uploads/2017/03/Caracciolo-Piani-Palentini-RIDb.jpg)
 
- 
+
 
 [← Progetto AIC 2013](index9117.html?p=858) [Progetto MIUR AgriCult 2015 →](indexbefb.html?p=867)
+

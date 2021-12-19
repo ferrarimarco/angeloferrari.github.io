@@ -17,7 +17,7 @@ Università di Catania, CRIBECUM, Centro ricerche sulle cause di degrado per il 
 CNR, Progetto F9inalizzato beni Culturali\
 ANRP Fondazione nazionale ricordo e progresso, Roma\
 Tematiche generali:\
-Conoscenza e studio dei manufatti sotto il profilo storico e umanistico. Metodologie e tecniche analitiche, anche diagnostiche, per la caratterizzazione dei manufatti, la conoscenza dei materiali e dei fenomeni di inquinamento. Monitoraggio micro e macro climatico in ambienti circoscritti (musei, Biblioteche, ecc.). Inquinamento atmosferico e degrado delle opere d'arte, edifici e ambienti storici; analisi delle cause del degrado. Valutazione dell'idoneità dei prodotti per il restauro, tramite la raccolta di notizie storiche da fonti bibliografiche e di archivio, per la costituzione di una banca dati. Studi di fattibilità di impianti per garantire le condizioni ambientali necessarie per una corretta conservazione. Tecniche di simulazione numerica applicata alla conservazione delle opere d'arte. Utilizzo di sistemi geografici informativi per la pianificazione energetico ambientale.\
+Conoscenza e studio dei manufatti sotto il profilo storico e umanistico. Metodologie e tecniche analitiche, anche diagnostiche, per la caratterizzazione dei manufatti, la conoscenza dei materiali e dei fenomeni di inquinamento. Monitoraggio micro e macro climatico in ambienti circoscritti (musei, Biblioteche, ecc.). Inquinamento atmosferico e degrado delle opere d'arte, edifici e ambienti storici; analisi delle cause del degrado. Valutazione dell'idoneità dei prodotti per il restauro, tramite la raccolta di notizie storiche da fonti bibliografiche e di archivio, per la costituzione di una banca dati. Studi di fattibilità di impianti per garantire le condizioni ambientali necessarie per una corretta conservazione. Tecniche di simulazione numerica applicata alla conservazione delle opere d'arte. Utilizzo di sistemi geografici informativi per la pianificazione energetico ambientale.\
 Controllo del degrado e tecniche di georeferenziazione.
 
 [Progetto DUNAROBBA 2000](indexa890.html?p=1672) {#progetto-dunarobba-2000 .entry-title}
@@ -44,35 +44,36 @@ La foresta fossile di Dunarobba costituisce una grande opportunità di interesse
 
 [16 ottobre 2018](index2136.html?p=1661 "Permalink a Progetto MONTI SICANI 2004")[Progetti](index0b40.html?cat=9)[Ambiente](indexa6a7.html?tag=ambiente), [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Monti Sicani](indexbb66.html?tag=monti-sicani), [Sicilia](index4efa.html?tag=sicilia), [Territorio](indexfff4.html?tag=territorio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-**Progetto MONTI SICANI 2004**\
+**Progetto MONTI SICANI 2004**\
 Creazione di un Distretto culturale ed ambientale dei Monti Sicani nella Sicilia occidentale.\
 Il progetto prevede la costituzione del Centro per la valorizzazione del patrimonio ambientale e di quello culturale dell'area dei Monti Sicani attraverso la ricerca archeologica nel territorio comunale per la valorizzazione e fruizione ai fini turistici dei beni culturali locali. I Comuni interessati sono Valderice, Ghibellina e Vita, nella Provincia di Trapani.\
 I partner del Progetto sono l'Istituto Superiore per le tecniche di conservazione dei beni culturali e dell'Ambiente "Antonino De Stefano" ISAD e il Progetto Finalizzato del CNR.
 
 [Ambiente, uomo e territorio 2010-2016](index3f97.html?p=383) {#ambiente-uomo-e-territorio-2010-2016 .entry-title}
-=============================================================
+=======
 
 [7 marzo 2017](index3f97.html?p=383 "Permalink a Ambiente, uomo e territorio 2010-2016")[Progetti](index0b40.html?cat=9)[Ambiente](indexa6a7.html?tag=ambiente), [CNR](index47bd.html?tag=cnr), [Commessa](index3b4b.html?tag=commessa), [Territorio](indexfff4.html?tag=territorio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-#### **Ambiente, uomo e territorio:** nuove metodologie per lo studio e la valorizzazione dei beni culturali in aree desertiche CNR -- INT.P10.011
+#### **Ambiente, uomo e territorio:** nuove metodologie per lo studio e la valorizzazione dei beni culturali in aree desertiche CNR -- INT.P10.011
 
     Progetto 2010-2016
     Angelo Ferrari - Ezio Burri
-      
+
     Consiglio Nazionale delle Ricerche
     Istituto di Metodologie Chimiche
-      
+
     Dipartimento
     Scienze umane e sociali, patrimonio culturale
-      
+
     Progetto Interdipartimentale
-    Cultura e Territorio (INT.P10)
+    Cultura e Territorio (INT.P10)
 
     CNR Commessa INT.P10.011
     Ambiente, uomo e territorio, nuove metodologie per lo studio e la   valorizzazione dei beni culturali in aree desertiche
-      
+
     CNR Modulo INT.P10.011.001
     Metodologie per lo studio, ai fini della valorizzazione, dei beni culturali in regioni aride, datazioni, rilevamento radon
-      
+
     CNR Modulo INT.P10.011.002
     Relazioni tra beni culturali e territorio in ambienti aridi: idrogeologi
+

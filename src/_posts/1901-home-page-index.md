@@ -1,12 +1,17 @@
+---
+layout: post
+date: 9999-01-01
+title:
+description:
+cat:
+tag:
+    - cnr
+    - angelo ferrari
+    - beni culturali
+---
 
 
 =====
-
- 
-
-Menu
-
-
 
 -   [Home](index.html)
 -   [Progetti](index.html)
@@ -36,39 +41,45 @@ Menu
     -   [Missioni principali](indexe97a.html?page_id=1804)
 -   [Congressi](index9c1c.html?page_id=425)
 
-Ricerca per:
 
-Angelo Ferrari {#angelo-ferrari .entry-title}
+Angelo Ferrari
 ==============
 
-    Scientific Technologist of the National Research Council
-    Research Area of Rome 1
+    Associated with the National Research Council (CNR)
+    Rome 1 Research Area
     Institute for Biological Systems (ISB)
+
+    Professor at the University of L'Aquila
+    Course of Study: Protection and enhancement of cultural and environmental heritage
 
     SKILLS
     Protection and enhancement of the cultural and environmental heritage.
 
-    RESEARCH ACTIVITY
+    RESEARCH ACTIVITY (2003-2021)
     Environment, man and land: new methods for the study and the promotion of cultural heritage in desert areas. Databases for the diffusion of innovative technologies in the field of cultural heritage.
 
-    IRAN
+    IRAN (2008-2021)
     Head of the Archeological and Cultural Heritage Mission in North-West Iran (Semnan region) for the Italian Ministry of Foreign Affairs and the Italian National Research Council.
 
-    UZBEKISTAN
+    UZBEKISTAN (2009.2011)
     Head of the Archeological and Cultural Heritage Mission in Uzbekistan (Nurata region) for the Italian Ministry of Foreign Affairs and the Italian National Research Council.
 
-    GIORDANIA
+    GIORDANIA (2009-2021)
     Member of the Cultural and Environmental Heritage Development Mission in the Transjordan region (Showbak area).
 
-    IRAN
+    IRAN (2017-2021)
     Collaborates with the UNESCO - IMC National Research Council program on the study of Yazd qanats.
 
-    ABRUZZO
+    ABRUZZO (2008-2021)
     Member of the Environmental Analysis and Cultural Heritage Development Mission in the Abruzzo region.
 
 
 
     RECENT PUBLICATIONS
+
+    • 2021 QANAT DIMENTICATI Ma'An, Udhruh, Uweinid, E. Burri, A. Del Bon, A. Ferrari, P. ragni.
+
+    • 2020 LIMES Fortificazioni romane in Giordania, Ferrari A. Burri E., Cannarella C. Del Bon A., Ferrari V., Piccioni V., Ragni P., Rosati R.
 
     • 2018 Montalto, ipotesi su un insediamento arcaico in Italia centrale, Angelo Ferrari.
 
@@ -90,10 +101,10 @@ Angelo Ferrari {#angelo-ferrari .entry-title}
 
     • 2013 The Samnite area between Abruzzo and Molise (Italy), in Journal of cultural heritage; Elsevier, Paris, A . Ferrari.
 
-    • 2013 Indagini sugli ipogei artificiali nel castello di Shawbak e nelle aree limitrofe, Giordania meridionale, (Investigation on artificial underground caves in the Castle of Shawbak and on the nearby areas, Southern Jordan), Temporis Signa, Centro italiano di studi sull’Alto Medioevo, Spoleto, E. Burri, A. Ferrari, P. Ragni, A. Del Bon, M. Mancini, G. Albino, P. Di Paolo, M. Meneghini.
+    • 2013 Indagini sugli ipogei artificiali nel castello di Showbak e nelle aree limitrofe, Giordania meridionale, (Investigation on artificial underground caves in the Castle of Shawbak and on the nearby areas, Southern Jordan), Temporis Signa, Centro italiano di studi sull’Alto Medioevo, Spoleto, E. Burri, A. Ferrari, P. Ragni, A. Del Bon, M. Mancini, G. Albino, P. Di Paolo, M. Meneghini.
 
     • 2011 Tecnologie innovative per una valorizzazione culturale del parco archeologico dei cunicoli di Claudio, CARSA Edizioni, Pescara, A. Ferrari.
 
     • 2010 Cultural Heritage between landscape evolution and monument restoration. Italy case study: L'Aquila and neighbouring area earthquake, in Proceedings Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin, Cairo, A. Ferrari, E. Burri.
 
- 
+

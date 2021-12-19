@@ -33,7 +33,7 @@ Ezio Burri, Angelo Ferrari, Pietro Ragni, Andrea Del Bon
 A. Ferrari, P. Ragni, E. Burri, G. Vannini
 
 **2013 Indagini sugli ipogei artificiali nel castello di Shawbak e nelle aree limitrofe (Giordania meridionale)**\
-Temporis Signa, Editore: Fondazione Centro Italiano di Studi sull'Alto Medioevo -- Spoleto \
+Temporis Signa, Editore: Fondazione Centro Italiano di Studi sull'Alto Medioevo -- Spoleto \
 E. Burri, A. Ferrari, P. Ragni, A. Del Bon, M. Mancini, G. Albino, P. Di Paolo, M. Meneghini
 
 **2012 The rock dwellings of Shawbak and nearby area -- Jordan**\
@@ -60,12 +60,12 @@ G. Vannini, M. Nucciotti, E. Burri , A. Ferrari, P. Ragni
   Andrea del Bon, Idrogeologo, Roma                                                                                                                                                                                                                                                  Jessica Angelini, Univ. dell'Aquila                                                                                                                                                                                                                                                                            Mariangela Turchi, Univ. dell'Aquila
 
   [![Amelio Ferrari Istituto Tecnico Agrario \"E. Sereni\" - Roma](../www.qanatproject.com/public/wp-content/uploads/Amelio-150x150.jpg){.size-thumbnail .wp-image-583 width="150" height="150"}](../www.qanatproject.com/public/wp-content/uploads/Amelio.jpg)\                     [![Massimo Mancini Università del Molise Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Mancini-252x300.jpg){.wp-image-185 width="129" height="157"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Mancini.jpg)\                                         [![Giuseppe Albino Associazione Speleologi Molisani Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_-Albino.jpg){.wp-image-176 width="126" height="154"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_-Albino.jpg)\
-  Amelio Ferrari, Istituto Tecnico Agrario "E. Sereni", Roma                                                                                                                                                                                                                         Massimo Mancini,\                                                                                                                                                                                                                                                                                              Giuseppe Albino, Associazione Speleologi Molisani,\
+  Amelio Ferrari, Istituto Tecnico Agrario "E. Sereni", Roma                                                                                                                                                                                                                         Massimo Mancini,\                                                                                                                                                                                                                                                                                              Giuseppe Albino, Associazione Speleologi Molisani,\
                                                                                                                                                                                                                                                                                      Università del Molise\                                                                                                                                                                                                                                                                                         Campobasso
                                                                                                                                                                                                                                                                                      Campobasso
 
-  [![Pasquale Di Paolo Architetto Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg){.wp-image-183 width="132" height="145"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg)\                              [![Abu Ali Local Manager Shawbak](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali-251x300.jpg){.wp-image-182 width="132" height="149"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali.jpg)\                                                             [![](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg){width="132" height="159"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg)\
-  Pasquale Di Paolo, Architetto, Campobasso                                                                                                                                                                                                                                          Abu Ali, Local Manager, Showbak                                                                                                                                                                                                                                                                                Marco Meneghin, Speleologo, Trento
+  [![Pasquale Di Paolo Architetto Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg){.wp-image-183 width="132" height="145"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg)\                              [![Abu Ali Local Manager Shawbak](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali-251x300.jpg){.wp-image-182 width="132" height="149"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali.jpg)\                                                             [![](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg){width="132" height="159"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg)\
+  Pasquale Di Paolo, Architetto, Campobasso                                                                                                                                                                                                                                          Abu Ali, Local Manager, Showbak                                                                                                                                                                                                                                                                                Marco Meneghin, Speleologo, Trento
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Chat del 2 marzo 2017](indexd728.html?p=264 "Permalink a GIORDANIA – Team")[Progetti](index0b40.html?cat=9)[Giordania](index338b.html?tag=giordania), [Showbak](indexde02.html?tag=showbak)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
@@ -83,14 +83,14 @@ G. Vannini, M. Nucciotti, E. Burri , A. Ferrari, P. Ragni
 Dipartimento Patrimonio Culturale](http://www.cnr.it/dipartimenti/Dipartimento.html?id_dip=11)\
 [Istituto di Metodologie Chimiche](http://www.imc.cnr.it/)
 
-[UNIVERSITÁ DEGLI STUDI DI FIRENZE (Italia)\
+[UNIVERSITÁ DEGLI STUDI DI FIRENZE (Italia)\
 Dipartimento di Studi Storici e Geografici](http://www3.unifi.it/dpssge/mdswitch.html)
 
-[UNIVERSITà DEGLI STUDI DEL MOLISE (Italia)](http://www.unimol.it/unimolise/s2magazine/index1.jsp?idPagina=50001)
+[UNIVERSITà DEGLI STUDI DEL MOLISE (Italia)](http://www.unimol.it/unimolise/s2magazine/index1.jsp?idPagina=50001)
 
 [ISTITUTO TECNICO AGRARIO "EMILIO SERENI" -- Roma (Italia)](http://www.agrariosereni.it/as/index.php)
 
- 
+
 
 ***Altre collaborazioni***
 
@@ -98,6 +98,7 @@ Dipartimento di Studi Storici e Geografici](http://www3.unifi.it/dpssge/mdswitch
 
 [GRUPPO SPELEOLOGICO TRENTINO, Villazzano,Trento](http://gsttn.blogspot.com/)
 
-[CENTRO RICERCHE CARSICHE *"C. SEPPENHOFER",* Gorizia](http://www.seppenhofer.it/)
+[CENTRO RICERCHE CARSICHE *"C. SEPPENHOFER",* Gorizia](http://www.seppenhofer.it/)
 
 [Chat del 2 marzo 2017](indexd89d.html?p=261 "Permalink a GIORDANIA – Collaborazioni")[Progetti](index0b40.html?cat=9)[Giordania](index338b.html?tag=giordania), [Showbak](indexde02.html?tag=showbak)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

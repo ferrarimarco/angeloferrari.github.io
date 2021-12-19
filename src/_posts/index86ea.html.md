@@ -55,8 +55,9 @@ Progetti 2016-2020 {#progetti-2016-2020 .entry-title}
 
 &nbsp;
 
--   [Progetto CHEST Cultural and Natural Heritage: a base for a Sustainable Tourism](index4e02.html?p=1743 "Progetto CHEST Cultural and Natural Heritage: a base for a Sustainable Tourism") 2018
+-   [Progetto CHEST Cultural and Natural Heritage: a base for a Sustainable Tourism](index4e02.html?p=1743 "Progetto CHEST Cultural and Natural Heritage: a base for a Sustainable Tourism") 2018
 
 &nbsp;
 
--   [Progetto Marsica 2018-2020](indexc757.html?p=2151 "Progetto Marsica 2018 – 2020") 
+-   [Progetto Marsica 2018-2020](indexc757.html?p=2151 "Progetto Marsica 2018 – 2020")
+

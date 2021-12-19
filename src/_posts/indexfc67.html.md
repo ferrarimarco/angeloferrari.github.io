@@ -28,7 +28,7 @@ Anagrafe Nazionale delle Ricerche del Ministero dell'Università e della Ricerca
 Incarico Scientifico Nazionale 2009 -- 2016\
 **Membro del Collegio Docenti del Dottorato di Archeologia Medioevale**\
 Organizzazione seminari e assistenza agli esami.\
-Università degli Studi dell'Aquila, Dipartimento di Storia e Metodologie Comparate.
+Università degli Studi dell'Aquila, Dipartimento di Storia e Metodologie Comparate.
 
 Incarico Scientifico Nazionale 2013 -- 2019\
 **Membro del Comitato Scientifico del Centro Studi Arsenale -- Venezia**\
@@ -58,7 +58,7 @@ Ministero degli Affari Esteri, Direzione generale per la promozione e la coopera
 CNR Istituto di Metodologie Chimiche.
 
 Incarico Scientifico Internazionale 2014\
-**Member Scientific Committee**\
+**Member Scientific Committee**\
 RICH 2014 -- Robotics: innovation for cultural heritage, Venezia 2014.\
 CNR Istituto di Metodologie Chimiche, AIC Associazione Investire in Cultura.
 
@@ -77,20 +77,20 @@ Incarico Scientifico Internazionale 2013\
 6th International Congress on Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin.\
 CNR Istituto di Metodologie Chimiche, AIC Associazione Investire in Cultura, NTUA University Athens.
 
-Incarico Scientifico Nazionale 2012\
+Incarico Scientifico Nazionale 2012\
 **Member Organizing Committee**\
 5a Giornata su Immigrazione e Cittadinanza.\
 Roma 17 dicembre 2012, Camera dei Deputati -- Palazzo San Macuto.\
 CNR Istituto di Metodologie Chimiche, AIC Associazione Investire in Cultura.
 
 Incarico Scientifico Internazionale 2012\
-**Member Scientific Committee**\
+**Member Scientific Committee**\
 1^st^ Conference on RICH 2012 "Robotics: innovation for cultural heritage", Venezia 3-4 dicembre 2012.\
 CNR Istituto di Metodologie Chimiche, AIC Associazione Investire in Cultura.
 
 Incarico Scientifico Internazionale 2012\
 **Member Organizing Committee**\
-1^st^ Conference on RICH 2012 "Robotics: innovation for cultural heritage", Venezia 3-4 dicembre 2012.\
+1^st^ Conference on RICH 2012 "Robotics: innovation for cultural heritage", Venezia 3-4 dicembre 2012.\
 CNR Istituto di Metodologie Chimiche, AIC Associazione Investire in Cultura.
 
 Incarico Scientifico Internazionale 2011\
@@ -122,11 +122,11 @@ Showbak, un'archeologia di frontiera\
 Università degli Studi di Firenze, CNR Istituto di Metodologie Chimiche, Università degli Studi dell'Aquila, Dipartimento di Medicina clinica, sanità pubblica, scienze della vita e dell'ambiente.
 
 Incarico Scientifico Nazionale 2010\
-**Membro del  Comitato Scientifico** del VII Convegno Nazionale Speleologia in cavità artificiali.\
+**Membro del  Comitato Scientifico** del VII Convegno Nazionale Speleologia in cavità artificiali.\
 Università degli Studi di Urbino Carlo Bo, Dipartimento scienze della terra, della vita e dell'ambiente (DISTeVA).
 
 Incarico Scientifico Internazionale 2009\
-**Member Scientific Committee**\
+**Member Scientific Committee**\
 Scientific Committee of 4th International Congress on: Science and technology for the Safeguard of Cultural Heritage in the Mediterranean Basin Il Cairo, 2009.\
 CNR Istituto di Metodologie Chimiche, AIC Associazione Investire in Cultura, CIERA Italian and Egyptian Centre for Restoration and Archaeology.
 
@@ -144,43 +144,44 @@ Commissioni 2004\
 **Membro del Comitato Paritetico tra UNCEM** (Unione Nazionale Comuni Comunità Enti Montani) delle regioni Toscana, Umbria, Marche, Lazio, Abruzzo **e P.F. "Beni Culturali" del CNR**, per la collaborazione tecnico-scientifica in materia di definizione e realizzazione di progetti di interesse degli Appennini centrali e zone rurali adiacenti
 
 Commissioni 2004\
-**Membro della Commissione Valorizzazione del Patrimonio Culturale** nell'ambito del piano di riforma del CNR. Decr. n. 16603 del 29.04.2004.
+**Membro della Commissione Valorizzazione del Patrimonio Culturale** nell'ambito del piano di riforma del CNR. Decr. n. 16603 del 29.04.2004.
 
 Commissioni 2003\
 **Responsabile della Commissione di valutazione contratto CNR n. 01.00064.pf36**\
-Progetto: Nuove tecnologie per la diffusione delle informazioni nel settore dei beni culturali. SELFIN Caserta.
+Progetto: Nuove tecnologie per la diffusione delle informazioni nel settore dei beni culturali. SELFIN Caserta.
 
 Commissioni 2003\
 **Responsabile della** **Commissione di valutazione contratto CNR n. 01.00071,pf36**\
-Progetto: Rapporto tra investimento e occupazione nei beni cultural. Associazione per l'Economia della cultura.
+Progetto: Rapporto tra investimento e occupazione nei beni cultural. Associazione per l'Economia della cultura.
 
 Commissioni 2003\
-**Responsabile della** **Commissione di valutazione contratto CNR n. 01.00170.pf36**\
-Progetto: Censimento di archivi per la storia della scienza e della tecnica nell'Italia Unita, e recupero del patrimonio archivistico dell'Accademia dei XL. Accademia Nazionale delle Scienze, detta dei XL.
+**Responsabile della** **Commissione di valutazione contratto CNR n. 01.00170.pf36**\
+Progetto: Censimento di archivi per la storia della scienza e della tecnica nell'Italia Unita, e recupero del patrimonio archivistico dell'Accademia dei XL. Accademia Nazionale delle Scienze, detta dei XL.
 
 Commissioni 2002\
 **Responsabile della** **Commissione di valutazione contratto CNR n. 01.00064.pf36**\
-Progetto: Nuove metodologie per la gestione e la diffusione delle informazioni nel settore beni culturali mediante nuove tecnologie informatiche. SELFIN SpA Napoli.
+Progetto: Nuove metodologie per la gestione e la diffusione delle informazioni nel settore beni culturali mediante nuove tecnologie informatiche. SELFIN SpA Napoli.
 
 Commissioni 2002\
 **Responsabile della** **Commissione di valutazione contratto CNR n. 01.00070.pf36**\
-Progetto: Nuove metodologie per la gestione e la diffusione delle Informazioni nel settore beni culturali mediante nuove tecnologie su rete Internet. Bitmap snc Roma.
+Progetto: Nuove metodologie per la gestione e la diffusione delle Informazioni nel settore beni culturali mediante nuove tecnologie su rete Internet. Bitmap snc Roma.
 
 Commissioni 2002\
 **Responsabile della** **Commissione di valutazione contratto CNR n. 01.00069.pf36**\
-Progetto: Anagrafe ricercatori e imprese nel settore beni culturali, software di gestione. ES Progetti e Sistemi Napoli.
+Progetto: Anagrafe ricercatori e imprese nel settore beni culturali, software di gestione. ES Progetti e Sistemi Napoli.
 
 Commissioni 2002\
 **Responsabile della** **Commissione di valutazione contratto CNR n. 01.00067.pf36**\
-Progetto: Nuove metodologie per la gestione e la diffusione dell'informazioni nel settore dei beni culturali, mediante tecnologie avanzate e in particolare nel settore delle piccole e medie imprese. ABACO-MAC Forlì.
+Progetto: Nuove metodologie per la gestione e la diffusione dell'informazioni nel settore dei beni culturali, mediante tecnologie avanzate e in particolare nel settore delle piccole e medie imprese. ABACO-MAC Forlì.
 
 Commissioni 1999\
-**Responsabile della** **Commissione di valutazione contratto CNR n. 97.00773.36**\
-Progetto: Implementazione e archiviazione elettronica della documentazione relativa al centro storico Gugliemo Marconi su radio e telecomunicazioni. Fondazione Marconi, Pontecchio Marconi.
+**Responsabile della** **Commissione di valutazione contratto CNR n. 97.00773.36**\
+Progetto: Implementazione e archiviazione elettronica della documentazione relativa al centro storico Gugliemo Marconi su radio e telecomunicazioni. Fondazione Marconi, Pontecchio Marconi.
 
 Commissioni 1998\
-**Responsabile della** **Commissione di valutazione contratto CNR n. 96.01249.36**\
-Progetto: Implementazione e archiviazione elettronica della documentazione relativa al centro storico Gugliemo Marconi su radio e telecomunicazioni. Fondazione Marconi, Pontecchio Marconi.
+**Responsabile della** **Commissione di valutazione contratto CNR n. 96.01249.36**\
+Progetto: Implementazione e archiviazione elettronica della documentazione relativa al centro storico Gugliemo Marconi su radio e telecomunicazioni. Fondazione Marconi, Pontecchio Marconi.
 
 Incarico Internazionale 1998\
-**Membro dello staff della presidenza italiana dei Progetti europei  EUROCARE** nell'ambito dei programmi EUREKA, decreto del Ministero per l'Università e la Ricerca Scientifica e Tecnologica del 28/09/1998.
+**Membro dello staff della presidenza italiana dei Progetti europei  EUROCARE** nell'ambito dei programmi EUREKA, decreto del Ministero per l'Università e la Ricerca Scientifica e Tecnologica del 28/09/1998.
+

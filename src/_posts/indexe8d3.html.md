@@ -19,3 +19,4 @@ GIORDANIA 2009-2018 {#giordania-2009-2018 .entry-title}
     proveniente dal pozzo di Udhruh ed utilizzata per l'irrigazione.
 
 [← Progetto FIRB EuroMed Cooperation 2005](index9f0a.html?p=371) [IRAN 2008-2018 →](index1f38.html?p=381)
+

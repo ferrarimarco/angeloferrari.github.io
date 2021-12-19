@@ -3,7 +3,7 @@ Progetto Kepha 2004 {#progetto-kepha-2004 .entry-title}
 
 [16 ottobre 2018](index0d40.html?p=1652 "Permalink a Progetto Kepha 2004")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Beni Culturali](index883e.html?tag=beni-culturali), [Kepha](index724b.html?tag=kepha)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-**Progetto Kepha 2004**\
+**Progetto Kepha 2004**\
 Partner: CNR Progetto Finalizzato Beni Culturali\
 Fondazione KEPHA Onlus, Centro diagnostico formativo per la conservazione, il restauro e la manutenzione dei beni culturali della Chiesa nell'area latino- americana
 
@@ -15,3 +15,4 @@ Promuovere e sostenere progetti prestando collaborazione sia per le procedure ge
 Sostenere le attività per la valorizzazione dei risultati della ricerca attraverso la creazione di imprese e per mezzo delle attività autonome ad alto contenuto tecnologico e spin-off.
 
 [← Progetto Ninpha 2003](indexd21a.html?p=1648) [Progetto NESOI 2001 →](indexcf56.html?p=1657)
+

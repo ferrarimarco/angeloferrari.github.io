@@ -15,8 +15,9 @@ I partecipanti al dibattito sono:
 
 -   Umberto Baldini: Direttore dell'Università Internazionale dell'Arte, Firenze; Direttore del Progetto Finalizzato "Beni Culturali" CNR, Roma. "Il restauro del Crocifisso del Cimabue".
 -   Giorgio Croci: Università "La Sapienza", Facoltà di Ingegneria, Roma. "Il recupero delle basiliche di San Francesco d'Assisi e Santa Sofia a Costantinopoli.
--   Angelo Guarino:  Presidente del Progetto Finalizzato "Beni Culturali" del CNR, Roma. "Il Portale dei Beni Culturali: www.eachmed.com".
+-   Angelo Guarino:  Presidente del Progetto Finalizzato "Beni Culturali" del CNR, Roma. "Il Portale dei Beni Culturali: www.eachmed.com".
 
 [Chat del 17 marzo 2017](indexc61a.html?p=779 "Permalink a Progetto RAI Esplora 2002")[Progetti](index0b40.html?cat=9)[Esplora](index6937.html?tag=esplora), [RAI](index3ecf.html?tag=rai)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Progetto Vetrina Italia 2003](index1c40.html?p=760) [Progetto H2020 Our Identity 2015 →](index4ab5.html?p=786)
+

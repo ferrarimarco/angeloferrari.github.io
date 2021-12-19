@@ -10,3 +10,4 @@ Il progetto intende realizzare una mostra itinerante che possa permettere una co
 [Leggi Progetto CARISPAQ Emissario 2016 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CARISPAQ-Emissario-2016-RID.pdf)
 
 [← Progetto Archivio Antropologico 2012](index2487.html?p=846) [Progetto CARISPAQ Emissario Fucino 2017 →](index461a.html?p=854)
+

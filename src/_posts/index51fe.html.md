@@ -6,7 +6,7 @@ RTQ -- Repertorio Tematico dei Qanat 2016-2018 {#rtq-repertorio-tematico-dei-qan
     Il Repertorio Tematico dei Qanat (RTQ) prevede la selezione, tra gli oltre 7.000 qanat individuati in varie regioni, di quelli significativi, per caratteristiche geomorfologiche, per lunghezza, per superficie irrigata, per stato di conservazione, ecc.
 
   ---------------------- ------------------------------------- ---------------
-        **NATION**                  ** LOCAL NAME**             **No. QANAT**
+        **NATION**                  ** LOCAL NAME**             **No. QANAT**
        Afghanistan                    Afghanestan                   1,172
          Algeria                       Al Jaza'r                     527
         Azerbaijan                    Azarbaycan                     14
@@ -28,9 +28,10 @@ RTQ -- Repertorio Tematico dei Qanat 2016-2018 {#rtq-repertorio-tematico-dei-qan
    United Arab Emirates   Al Imarat al Arabiyah al Muttahidah         2
         Uzbekistan                    Uzbekiston                     27
           Yemen                        Al Yaman                       1
-                                 **Total  01/12/2014**            **7,137**
+                                 **Total  01/12/2014**            **7,137**
   ---------------------- ------------------------------------- ---------------
 
 [Chat del 8 marzo 2017](index51fe.html?p=394 "Permalink a RTQ – Repertorio Tematico dei Qanat 2016-2018")[Progetti](index0b40.html?cat=9)[Qanat](index339d.html?tag=qanat), [RTQ](index3c8c.html?tag=rtq)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Ambiente, uomo e territorio 2010-2016](index3f97.html?p=383) [Tecno\_Cult 2016-2017 →](indexae62.html?p=397)
+

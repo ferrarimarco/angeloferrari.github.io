@@ -43,7 +43,7 @@ Progetti 2006-2010 {#progetti-2006-2010 .entry-title}
 
 &nbsp;
 
--   [Progetto Sud ISESP Regione Calabria 2007](index16bc.html?p=523 "Progetto ISESP 2007")
+-   [Progetto Sud ISESP Regione Calabria 2007](index16bc.html?p=523 "Progetto ISESP 2007")
 
 &nbsp;
 
@@ -88,3 +88,4 @@ Progetti 2006-2010 {#progetti-2006-2010 .entry-title}
 &nbsp;
 
 -   [Progetto PON Smart Culture 2009](index39c5.html?p=700 "Progetto PON Smart Culture 2009")
+

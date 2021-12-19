@@ -8,3 +8,4 @@ La questione della fruizione dei beni culturali rappresenta un problema sempre d
 [Chat del 16 marzo 2017](index5d09.html?p=704 "Permalink a Progetto EUR Civiltà Italiana 2005")[Progetti](index0b40.html?cat=9)[EUR Civiltà italiana](index5e5f.html?tag=eur-civilta-italiana)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Progetto PON Smart Culture 2009](index39c5.html?p=700) [Progetto Tratturi 2015 →](indexd13e.html?p=719)
+

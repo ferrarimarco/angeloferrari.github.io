@@ -1,5 +1,5 @@
 Tutti gli articoli di [angelo](indexcd64.html?author=1 "angelo"){.url .fn .n} {#tutti-gli-articoli-di-angelo .archive-title}
-=============================================================================
+=======================
 
 [\_Sperone 2015-2018](index23ea.html?p=403) {#sperone-2015-2018 .entry-title}
 ===========================================
@@ -15,7 +15,7 @@ In costruzione
 
 Modello strategico/informatico per il coordinamento, la valorizzazione e il trasferimento tecnologico dei risultati della ricerca nel settore del patrimonio culturale.
 
-**Durata del Progetto:** è stata programmata in 18 mesi, dal 01/0172016 al 30/06/2017. **Soggetto esecutore:** CNR, Istituto di Metodologie Chimiche, Area della Ricerca Roma 1. **Referente: **Angelo Ferrari
+**Durata del Progetto:** è stata programmata in 18 mesi, dal 01/0172016 al 30/06/2017. **Soggetto esecutore:** CNR, Istituto di Metodologie Chimiche, Area della Ricerca Roma 1. **Referente: **Angelo Ferrari
 
 **Collaborazioni:** CNR-ITABC Ist. per le Tecnol. Applicate ai Beni Culturali (P. Mauriello) CNR-ISMN Istit. per lo Studio dei Materiali Nanostrutturati, (G. M. Ingo) CNR-ISMA Istituto di Studi sul Mediterraneo Antico, (Paola Moscati) CNR-ICVBC Istituto per la Conservazione e Valorizzazione dei Beni Culturali, (M. P. Colombini) MiBACT--ICR Istituto Centrale del Restauro (Contatti in corso) AIC Associazione Investire in Cultura, (Angelo Guarino) INBB, Istituto Nazionale Biostrutture e Biosistemi, (Giovanni Antonini)
 
@@ -23,19 +23,19 @@ Modello strategico/informatico per il coordinamento, la valorizzazione e il tras
 
 **Gruppo di verifica** GIOVANNA MANCINI CNR -- Istituto di Metodologie Chimiche, Direttore CARMELO CANNARELLA CNR -- Istituto di Metodologie Chimiche, Tecnologo ANGELO FERRARI CNR -- Istituto di Metodologie Chimiche, 1° Tecnologo PIETRO RAGNI CNR -- Istituto di Metodologie Chimiche, 1° Ricercatore
 
-**Abstract:  **TecnoCult è un contenitore informatico (banca dati relazionale), fruibile in rete, con obiettivi e funzioni specifici, dedicato alla valorizzazione delle ricerche nel settore del patrimonio culturale e può essere considerato un modello perché la sua struttura e il suo funzionamento sono applicabili anche ad altri settori di ricerca del CNR. TecnoCult è stato pensato per migliorare, attraverso un ricco bagaglio di informazioni messo a disposizione dell'Ente, la valorizzazione delle ricerche svolte in ambito CNR, fornendo alle Amministrazioni Centrali un valido strumento che contribuisca a soddisfare specifici fabbisogni.
+**Abstract:  **TecnoCult è un contenitore informatico (banca dati relazionale), fruibile in rete, con obiettivi e funzioni specifici, dedicato alla valorizzazione delle ricerche nel settore del patrimonio culturale e può essere considerato un modello perché la sua struttura e il suo funzionamento sono applicabili anche ad altri settori di ricerca del CNR. TecnoCult è stato pensato per migliorare, attraverso un ricco bagaglio di informazioni messo a disposizione dell'Ente, la valorizzazione delle ricerche svolte in ambito CNR, fornendo alle Amministrazioni Centrali un valido strumento che contribuisca a soddisfare specifici fabbisogni.
 
 [Chat del 8 marzo 2017](indexae62.html?p=397 "Permalink a Tecno_Cult 2016-2017")[Progetti](index0b40.html?cat=9)[Beni Culturali](index883e.html?tag=beni-culturali), [CNR](index47bd.html?tag=cnr), [Tecnocult](index39d0.html?tag=tecnocult)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [RTQ -- Repertorio Tematico dei Qanat 2016-2018](index51fe.html?p=394) {#rtq-repertorio-tematico-dei-qanat-2016-2018 .entry-title}
-======================================================================
+================
 
     RTQ Bozza di lavoro
 
     Il Repertorio Tematico dei Qanat (RTQ) prevede la selezione, tra gli oltre 7.000 qanat individuati in varie regioni, di quelli significativi, per caratteristiche geomorfologiche, per lunghezza, per superficie irrigata, per stato di conservazione, ecc.
 
   ---------------------- ------------------------------------- ---------------
-        **NATION**                  ** LOCAL NAME**             **No. QANAT**
+        **NATION**                  ** LOCAL NAME**             **No. QANAT**
        Afghanistan                    Afghanestan                   1,172
          Algeria                       Al Jaza'r                     527
         Azerbaijan                    Azarbaycan                     14
@@ -57,36 +57,36 @@ Modello strategico/informatico per il coordinamento, la valorizzazione e il tras
    United Arab Emirates   Al Imarat al Arabiyah al Muttahidah         2
         Uzbekistan                    Uzbekiston                     27
           Yemen                        Al Yaman                       1
-                                 **Total  01/12/2014**            **7,137**
+                                 **Total  01/12/2014**            **7,137**
   ---------------------- ------------------------------------- ---------------
 
 [Chat del 8 marzo 2017](index51fe.html?p=394 "Permalink a RTQ – Repertorio Tematico dei Qanat 2016-2018")[Progetti](index0b40.html?cat=9)[Qanat](index339d.html?tag=qanat), [RTQ](index3c8c.html?tag=rtq)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Ambiente, uomo e territorio 2010-2016](index3f97.html?p=383) {#ambiente-uomo-e-territorio-2010-2016 .entry-title}
-=============================================================
+=======
 
 [7 marzo 2017](index3f97.html?p=383 "Permalink a Ambiente, uomo e territorio 2010-2016")[Progetti](index0b40.html?cat=9)[Ambiente](indexa6a7.html?tag=ambiente), [CNR](index47bd.html?tag=cnr), [Commessa](index3b4b.html?tag=commessa), [Territorio](indexfff4.html?tag=territorio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-#### **Ambiente, uomo e territorio:** nuove metodologie per lo studio e la valorizzazione dei beni culturali in aree desertiche CNR -- INT.P10.011
+#### **Ambiente, uomo e territorio:** nuove metodologie per lo studio e la valorizzazione dei beni culturali in aree desertiche CNR -- INT.P10.011
 
     Progetto 2010-2016
     Angelo Ferrari - Ezio Burri
-      
+
     Consiglio Nazionale delle Ricerche
     Istituto di Metodologie Chimiche
-      
+
     Dipartimento
     Scienze umane e sociali, patrimonio culturale
-      
+
     Progetto Interdipartimentale
-    Cultura e Territorio (INT.P10)
+    Cultura e Territorio (INT.P10)
 
     CNR Commessa INT.P10.011
     Ambiente, uomo e territorio, nuove metodologie per lo studio e la   valorizzazione dei beni culturali in aree desertiche
-      
+
     CNR Modulo INT.P10.011.001
     Metodologie per lo studio, ai fini della valorizzazione, dei beni culturali in regioni aride, datazioni, rilevamento radon
-      
+
     CNR Modulo INT.P10.011.002
     Relazioni tra beni culturali e territorio in ambienti aridi: idrogeologi
 
@@ -143,11 +143,11 @@ Infine, non è stato trascurato, nel programma di studio, la possibilità di rec
     proveniente dal pozzo di Udhruh ed utilizzata per l'irrigazione.
 
 [Progetto FIRB EuroMed Cooperation 2005](index9f0a.html?p=371) {#progetto-firb-euromed-cooperation-2005 .entry-title}
-==============================================================
+========
 
-MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA Dipartimento per la Programmazione il Coordinamento e gli Affari Economici Servizio per lo sviluppo e il Potenziamento delle Attività di ricerca (SSPAR) FIRB RBNE03JZEY Programma Strategico: Scienze umane, economiche e sociali. Progetto Obiettivo: La cooperazione euromediterranea. Risultati attesi: Nuovi modelli e tecnologie inerenti il rapporto tra Pubblica Amministrazione, cittadini, imprese nei paesi del Mediterraneo.
+MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA Dipartimento per la Programmazione il Coordinamento e gli Affari Economici Servizio per lo sviluppo e il Potenziamento delle Attività di ricerca (SSPAR) FIRB RBNE03JZEY Programma Strategico: Scienze umane, economiche e sociali. Progetto Obiettivo: La cooperazione euromediterranea. Risultati attesi: Nuovi modelli e tecnologie inerenti il rapporto tra Pubblica Amministrazione, cittadini, imprese nei paesi del Mediterraneo.
 
-**Progetto** **EUROMED COOPERATION Pubblica Amministrazione, Impresa, Cittadino. **
+**Progetto** **EUROMED COOPERATION Pubblica Amministrazione, Impresa, Cittadino. **
 
 Il Progetto, nell'ambito della cooperazione Euromediterranea inerente i rapporti fra pubblica Amministrazione, imprese e cittadini si propone di studiare i seguenti aspetti: A) cittadinanza e immigrazione; B) nuove tecnologie di comunicazione; C) investimenti diretti esteri; D) valutazione delle risorse latenti ai fini dello sviluppo; E) documentazione dei risultati.
 
@@ -177,7 +177,7 @@ Ezio Burri, Angelo Ferrari, Pietro Ragni, Andrea Del Bon
 A. Ferrari, P. Ragni, E. Burri, G. Vannini
 
 **2013 Indagini sugli ipogei artificiali nel castello di Shawbak e nelle aree limitrofe (Giordania meridionale)**\
-Temporis Signa, Editore: Fondazione Centro Italiano di Studi sull'Alto Medioevo -- Spoleto \
+Temporis Signa, Editore: Fondazione Centro Italiano di Studi sull'Alto Medioevo -- Spoleto \
 E. Burri, A. Ferrari, P. Ragni, A. Del Bon, M. Mancini, G. Albino, P. Di Paolo, M. Meneghini
 
 **2012 The rock dwellings of Shawbak and nearby area -- Jordan**\
@@ -204,12 +204,12 @@ G. Vannini, M. Nucciotti, E. Burri , A. Ferrari, P. Ragni
   Andrea del Bon, Idrogeologo, Roma                                                                                                                                                                                                                                                  Jessica Angelini, Univ. dell'Aquila                                                                                                                                                                                                                                                                            Mariangela Turchi, Univ. dell'Aquila
 
   [![Amelio Ferrari Istituto Tecnico Agrario \"E. Sereni\" - Roma](../www.qanatproject.com/public/wp-content/uploads/Amelio-150x150.jpg){.size-thumbnail .wp-image-583 width="150" height="150"}](../www.qanatproject.com/public/wp-content/uploads/Amelio.jpg)\                     [![Massimo Mancini Università del Molise Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Mancini-252x300.jpg){.wp-image-185 width="129" height="157"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Mancini.jpg)\                                         [![Giuseppe Albino Associazione Speleologi Molisani Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_-Albino.jpg){.wp-image-176 width="126" height="154"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_-Albino.jpg)\
-  Amelio Ferrari, Istituto Tecnico Agrario "E. Sereni", Roma                                                                                                                                                                                                                         Massimo Mancini,\                                                                                                                                                                                                                                                                                              Giuseppe Albino, Associazione Speleologi Molisani,\
+  Amelio Ferrari, Istituto Tecnico Agrario "E. Sereni", Roma                                                                                                                                                                                                                         Massimo Mancini,\                                                                                                                                                                                                                                                                                              Giuseppe Albino, Associazione Speleologi Molisani,\
                                                                                                                                                                                                                                                                                      Università del Molise\                                                                                                                                                                                                                                                                                         Campobasso
                                                                                                                                                                                                                                                                                      Campobasso
 
-  [![Pasquale Di Paolo Architetto Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg){.wp-image-183 width="132" height="145"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg)\                              [![Abu Ali Local Manager Shawbak](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali-251x300.jpg){.wp-image-182 width="132" height="149"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali.jpg)\                                                             [![](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg){width="132" height="159"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg)\
-  Pasquale Di Paolo, Architetto, Campobasso                                                                                                                                                                                                                                          Abu Ali, Local Manager, Showbak                                                                                                                                                                                                                                                                                Marco Meneghin, Speleologo, Trento
+  [![Pasquale Di Paolo Architetto Campobasso](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg){.wp-image-183 width="132" height="145"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_DiPaolo.jpg)\                              [![Abu Ali Local Manager Shawbak](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali-251x300.jpg){.wp-image-182 width="132" height="149"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Abu_Ali.jpg)\                                                             [![](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg){width="132" height="159"}](../www.qanatproject.com/public/wp-content/uploads/Gruppo_Giordania_Menegini.jpg)\
+  Pasquale Di Paolo, Architetto, Campobasso                                                                                                                                                                                                                                          Abu Ali, Local Manager, Showbak                                                                                                                                                                                                                                                                                Marco Meneghin, Speleologo, Trento
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Chat del 2 marzo 2017](indexd728.html?p=264 "Permalink a GIORDANIA – Team")[Progetti](index0b40.html?cat=9)[Giordania](index338b.html?tag=giordania), [Showbak](indexde02.html?tag=showbak)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
@@ -227,14 +227,14 @@ G. Vannini, M. Nucciotti, E. Burri , A. Ferrari, P. Ragni
 Dipartimento Patrimonio Culturale](http://www.cnr.it/dipartimenti/Dipartimento.html?id_dip=11)\
 [Istituto di Metodologie Chimiche](http://www.imc.cnr.it/)
 
-[UNIVERSITÁ DEGLI STUDI DI FIRENZE (Italia)\
+[UNIVERSITÁ DEGLI STUDI DI FIRENZE (Italia)\
 Dipartimento di Studi Storici e Geografici](http://www3.unifi.it/dpssge/mdswitch.html)
 
-[UNIVERSITà DEGLI STUDI DEL MOLISE (Italia)](http://www.unimol.it/unimolise/s2magazine/index1.jsp?idPagina=50001)
+[UNIVERSITà DEGLI STUDI DEL MOLISE (Italia)](http://www.unimol.it/unimolise/s2magazine/index1.jsp?idPagina=50001)
 
 [ISTITUTO TECNICO AGRARIO "EMILIO SERENI" -- Roma (Italia)](http://www.agrariosereni.it/as/index.php)
 
- 
+
 
 ***Altre collaborazioni***
 
@@ -242,7 +242,7 @@ Dipartimento di Studi Storici e Geografici](http://www3.unifi.it/dpssge/mdswitch
 
 [GRUPPO SPELEOLOGICO TRENTINO, Villazzano,Trento](http://gsttn.blogspot.com/)
 
-[CENTRO RICERCHE CARSICHE *"C. SEPPENHOFER",* Gorizia](http://www.seppenhofer.it/)
+[CENTRO RICERCHE CARSICHE *"C. SEPPENHOFER",* Gorizia](http://www.seppenhofer.it/)
 
 [Chat del 2 marzo 2017](indexd89d.html?p=261 "Permalink a GIORDANIA – Collaborazioni")[Progetti](index0b40.html?cat=9)[Giordania](index338b.html?tag=giordania), [Showbak](indexde02.html?tag=showbak)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -252,3 +252,4 @@ Navigazione articoli {#navigazione-articoli .screen-reader-text}
 [← Articoli più vecchi](index37df.html?author=1&paged=10)
 
 [Articoli più recenti →](index5c99.html?author=1&paged=8)
+

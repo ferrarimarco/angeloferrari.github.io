@@ -3,7 +3,7 @@
 Presentazioni {#presentazioni .entry-title}
 =============
 
-**La discenderia dell'idrometro dell'emissario del Fucino **\
+**La discenderia dell'idrometro dell'emissario del Fucino **\
 Ezio Burri, Angelo Ferrari\
 Geological day 2019: Da lago a piana, il Fucino tra geologia e opere umane, Avezzano 29/06/2019
 
@@ -23,7 +23,7 @@ ICAJ, Firenze, 21/01/2019
 Ezio BURRI, Andrea DEL BON, Angelo FERRARI, Pietro RAGNI\
 Convegno Annuale ASIAC, Gorizia 05/12/2018
 
-** Analisi ambientali e valorizzazione culturale dei qanat di Yazd, patrimonio dell'Umanità (UNESCO), 2018**\
+** Analisi ambientali e valorizzazione culturale dei qanat di Yazd, patrimonio dell'Umanità (UNESCO), 2018**\
 Ezio BURRI, Andrea DEL BON, Angelo FERRARI, Pietro RAGNI\
 Convegno Annuale ASIAC, Gorizia 05/12/2018
 
@@ -51,11 +51,11 @@ Hypogeums Meeting, Roma, 11/12/2017.
 **Qanat project, 2017**\
 Iran-Italy Science, Technology & Innovation Forum, Teheran, 19/04/2017.
 
-**I beni culturali quale supporto per la valorizzazione del territorio, 2016**\
-L'emissario sotterraneo del Fucino e le cavità naturali abruzzesi tra esigenze di fruizione e di tutela, Avezzano, 29/10/2016.
+**I beni culturali quale supporto per la valorizzazione del territorio, 2016**\
+L'emissario sotterraneo del Fucino e le cavità naturali abruzzesi tra esigenze di fruizione e di tutela, Avezzano, 29/10/2016.
 
 **Le acque sotterranee dei qanat dell'Asia centrale, 2016**\
-Raduno internazionale di speleologia, Lettomanoppello (CH), 28/10-01/11/2016.
+Raduno internazionale di speleologia, Lettomanoppello (CH), 28/10-01/11/2016.
 
 **Acque sotterranee per l'agricoltura, 2015**\
 Open day: laboratori aperti -- Tecnologie per lo studio e la valorizzazione dell'ambiente e dei beni culturali, Area della Ricerca Roma 1, 03/12/2015.
@@ -64,19 +64,19 @@ Open day: laboratori aperti -- Tecnologie per lo studio e la valorizzazione dell
 Le aree protette regionali nella economia reale delle zone montane, Borrello (CH) 19(08/2015.
 
 **I qanat del deserto del Dash-Kavir in Iran: studio e analisi degli antichi sistemi idrici ai fini della valorizzazione del territorio, 2015**\
-Seminario CNR Istituto di Metodologie Chimiche, Area della Ricerca Roma 1, 25/06/2015.
+Seminario CNR Istituto di Metodologie Chimiche, Area della Ricerca Roma 1, 25/06/2015.
 
 **Il CNR e lo studio globale del collettore sotterraneo del Fucino, 2015**\
 Fucino, duemila anni di storia. Fucino, guida ai cunicoli di Claudio, Avezzano, 17/09/2015.
 
 **The area around Shawbak (Southern Jordan), 2015**\
-Poster First international Workshop on Photogrammetry Applied to Medieval Archaeology, Firenze, 03/05/2015.
+Poster First international Workshop on Photogrammetry Applied to Medieval Archaeology, Firenze, 03/05/2015.
 
 **Integrazione: realtà e difficoltà nella scuola, 2012**\
-5a Giornata su Immigrazione e Cittadinanza -- Scuola e cittadinanza dei figli degli immigrati, Roma, Camera dei Deputati, 17/12/2012.
+5a Giornata su Immigrazione e Cittadinanza -- Scuola e cittadinanza dei figli degli immigrati, Roma, Camera dei Deputati, 17/12/2012.
 
 **Robotic exploration of Jordan qanat of Udhruh, 2012**\
-Poster, RICH 2012,  Venezia, 3-4/12/2012, (PEOPLE).
+Poster, RICH 2012,  Venezia, 3-4/12/2012, (PEOPLE).
 
 **Samnite site in Montalto, Abruzzo, Italy, 2011**\
 5th International Congress on "Science and Technology for the safeguard of cultural heritage in the Mediterranean basin", Istanbul, 11/2011. (PEOPLE).
@@ -133,10 +133,11 @@ I beni culturali per una archeologia mediterranea, Ravenna, 2003.
 Culturalia: II Salone sulla valorizzazione del patrimonio e delle attività culturali. Gli interventi di protezione civile a tutela dei beni culturali. Roma 11.12.2001.
 
 **L'anagrafe dei ricercatori e delle imprese sui beni culturali, 1998**\
-Salone dei Beni Artistici e Culturali, Torino, 16-18/11/1998.
+Salone dei Beni Artistici e Culturali, Torino, 16-18/11/1998.
 
-**La ricerca chimica verso il 2000: attività ed iniziative del Comitato Scienze Chimiche, 1997**\
+**La ricerca chimica verso il 2000: attività ed iniziative del Comitato Scienze Chimiche, 1997**\
 Chimica e beni culturali. Roma 9-10/01/1997.
 
 **Indagine sulla partecipazione del CNR ai progetti europei, 1995**\
 Convegno: Norme per la tutela del patrimonio culturale e misure al servizio della società (IV Programma Quadro di RST&D dell'Unione Europea -- 1994 / 1998), Roma, 13/06/1995.
+

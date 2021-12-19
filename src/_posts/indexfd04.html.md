@@ -17,3 +17,4 @@
     La concentrazione di radon è risultata molto bassa, ovvero 37 Bq/m3, come era previsto a causa delle caratteristiche morfologiche della zona. Il secondo compito è stato quello di raccogliere e analizzare la concentrazione di radon in acqua; i campioni sono stati prelevati vicino castello di Showbak, in un settore posto in basso a sud-ovest della collina, e nei pressi Udhruh e delle sue rovine romane. Entrambi i campioni hanno un livello piuttosto basso di concentrazione.
     Riguardo la caratterizzazione dei parametri chimico-fisici delle acque (pH, temperatura e conducibilità elettrica), una prima indagine ha interessato le acque provenienti dalla sorgente sotterranea in fondo alla collina Shawbak. Analoghe misure sono state realizzate sull’acqua
     proveniente dal pozzo di Udhruh ed utilizzata per l'irrigazione.
+

@@ -6,15 +6,15 @@ Archivi tag: Marsica {#archivi-tag-marsica .archive-title}
 
 [26 febbraio 2018](index09e5.html?p=1576 "Permalink a Marsica")[Foto](index335b.html?cat=155)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Foto](index2e63.html?tag=foto), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-##### Piccoli borghi della Marsica
+##### Piccoli borghi della Marsica
 
 [**AIELLI**](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308)\
 Altitudine 1.045 m, popolazione 1.473 abitanti, provincia AQ.\
-Località: **[Aielli Stazione](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308), **[**Borgo Sardellino**.](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308)
+Località: **[Aielli Stazione](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308), **[**Borgo Sardellino**.](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308)
 
 AVEZZANO\
 Altitudine 695 m, popolazione 42.528, provincia AQ.\
-Località: **[Il castello](https://www.flickr.com/photos/112554745@N05/albums/72157653332815855), [Antrosano](https://www.flickr.com/photos/112554745@N05/albums/72157651156707272), [Caruscino,](https://www.flickr.com/photos/112554745@N05/albums/72157690873295312)[ Castel Nuovo](https://www.flickr.com/photos/112554745@N05/albums/72157652909235259), [Cese dei Marsi](https://www.flickr.com/photos/112554745@N05/albums/72157650710716487),  [Paterno](https://www.flickr.com/photos/112554745@N05/albums/72157650711040457), [San Pelino](https://www.flickr.com/photos/112554745@N05/albums/72157648846555393), [Borgo Incile](https://www.flickr.com/photos/112554745@N05/albums/72157650710776117), [Borgo Via Nuova](https://www.flickr.com/photos/112554745@N05/albums/72157648836570134).**
+Località: **[Il castello](https://www.flickr.com/photos/112554745@N05/albums/72157653332815855), [Antrosano](https://www.flickr.com/photos/112554745@N05/albums/72157651156707272), [Caruscino,](https://www.flickr.com/photos/112554745@N05/albums/72157690873295312)[ Castel Nuovo](https://www.flickr.com/photos/112554745@N05/albums/72157652909235259), [Cese dei Marsi](https://www.flickr.com/photos/112554745@N05/albums/72157650710716487),  [Paterno](https://www.flickr.com/photos/112554745@N05/albums/72157650711040457), [San Pelino](https://www.flickr.com/photos/112554745@N05/albums/72157648846555393), [Borgo Incile](https://www.flickr.com/photos/112554745@N05/albums/72157650710776117), [Borgo Via Nuova](https://www.flickr.com/photos/112554745@N05/albums/72157648836570134).**
 
 [**CAPPADOCIA**](https://www.flickr.com/photos/112554745@N05/albums/72157651173708832)\
 Altitudine 1.108 m, popolazione 533, provincia AQ.\
@@ -61,7 +61,7 @@ Altitudine m, popolazione , provincia AQ.\
 Località:
 
 [Progetto Caracciolo, Marsica 2017](index5d95.html?p=863) {#progetto-caracciolo-marsica-2017 .entry-title}
-=========================================================
+===
 
 [19 marzo 2017](index5d95.html?p=863 "Permalink a Progetto Caracciolo, Marsica 2017")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Caracciolo](index7669.html?tag=caracciolo), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -72,10 +72,10 @@ Ipotesi per lo studio e ricostruzione di antichi paesaggi della Marsica attraver
 
 [![Caracciolo Piani Palentini RIDb](wp-content/uploads/2017/03/Caracciolo-Piani-Palentini-RIDb.jpg){.alignnone .size-full .wp-image-861 width="1000" height="435"}](wp-content/uploads/2017/03/Caracciolo-Piani-Palentini-RIDb.jpg)
 
- 
+
 
 [Progetto CARISPAQ Emissario 2016](indexfe6b.html?p=850) {#progetto-carispaq-emissario-2016 .entry-title}
-========================================================
+==
 
 [19 marzo 2017](indexfe6b.html?p=850 "Permalink a Progetto CARISPAQ Emissario 2016")[Progetti](index0b40.html?cat=9)[Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -86,7 +86,7 @@ Il progetto intende realizzare una mostra itinerante che possa permettere una co
 [Leggi Progetto CARISPAQ Emissario 2016 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CARISPAQ-Emissario-2016-RID.pdf)
 
 [Progetto PON Smart Culture 2009](index39c5.html?p=700) {#progetto-pon-smart-culture-2009 .entry-title}
-=======================================================
+=
 
 **Progetto PON Smart Culture 2009**
 
@@ -102,7 +102,7 @@ La ricchezza culturale di un territorio nasce da una combinazione di elementi ta
     -   Messa a disposizione di informazioni derivate dal controllo e monitoraggio in grado di indirizzare gli interventi e di verificarne la efficacia;
 -   Applicazione di criteri di protezione e sicurezza dei beni esposti al pubblico;
     -   Identificazione e messa in opera di strumenti di protezione dei beni (non invasivi e nel rispetto di regole di privacy comune) da atti vandalici o furti in grado di generare allarmi convogliati in un centro di monitoraggio;
-    -   Educazione/formazione dei componenti delle comunità riguardo il valore ed il significato dei singoli beni culturali e loro responsabilizzazione riguardo le  diverse forme di condivisione alla loro protezione/tutela in modo partecipato e diffuso;
+    -   Educazione/formazione dei componenti delle comunità riguardo il valore ed il significato dei singoli beni culturali e loro responsabilizzazione riguardo le  diverse forme di condivisione alla loro protezione/tutela in modo partecipato e diffuso;
 -   Creazione di un modello di fruizione multimediale e multidisciplinare;
     -   Costruzione di una rappresentazione unitaria del patrimonio culturale di un territorio finalizzata alla possibilità di offrire una lettura contestualizzata e facilmente comprensibile di ciascun elemento che definisce la cultura della comunità;
     -   Aggregazione e ridistribuzione dei dati raccolti attraverso diversi canali di fruizione adattati alla tipologia e alla finalità delle diverse forme di comunicazione dei beni culturali anche in funzione della classe di destinatari, sempre mantenendo la coerenza della visione offerta del territorio;
@@ -114,13 +114,14 @@ La ricchezza culturale di un territorio nasce da una combinazione di elementi ta
 [Chat del 16 marzo 2017](index39c5.html?p=700 "Permalink a Progetto PON Smart Culture 2009")[Progetti](index0b40.html?cat=9)[Marsica](index6ce2.html?tag=marsica), [PON](index0011.html?tag=pon), [Smart Cities](index50a0.html?tag=smart-cities)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Progetto PREMIALE Marsica 2013](index1cc0.html?p=668) {#progetto-premiale-marsica-2013 .entry-title}
-======================================================
+
 
 **Progetto**\
 ** Patrimonio culturale e identità collettiva nel territorio della Marsica: valorizzazione, fruizione e gestione**
 
-La proposta prevede la realizzazione di un modello prototipale applicato su un territorio non eccessivamente esteso, la Marsica in Abruzzo, che presenta diverse notevoli  situazioni di interesse per la valorizzazione del patrimonio culturale. Si tratta di elementi che vanno dalle palafitte, agli insediamenti preistorici in grotta, alle città italiche e romane, all'incastellamento medioevale fino alle grandi opere idrauliche dell'Ottocento per il prosciugamento del lago del Fucino. Il progetto consentirebbe di mettere in stretta relazione lo studio di queste diverse fasi storico culturali con i differenti fenomeni territoriali, naturali e antropici, verificatisi nel corso del tempo con il differente utilizzo del suolo, il condizionamento dell'ambiente e lo sfruttamento delle risorse naturali. Inoltre lo studio, nella medesima area, di un altro elemento importante come quello dell'identità culturale, insieme a quelli prima citati, fornirebbe le basi per l'individuazione di elementi utili alla valorizzazione facilmente esportabili e applicabili ad altre realtà. L'interpretazione di tutto il complesso dei fattori considerati costituirebbero una solida base per comprendere settori e sinergie in un articolato programma per l'individuazione delle risorse, per gli studi di diagnostica e conservazione, per i progetti di fruizione collettiva e di gestione integrata da parte di soggetti diversi: quelli locali, le Istituzioni, Enti di ricerca e di studio, privati e aziende. Il tutto finalizzato allo sviluppo della conoscenza, alla diffusione delle tecnologie innovative e alla creazione di posti di lavoro.
+La proposta prevede la realizzazione di un modello prototipale applicato su un territorio non eccessivamente esteso, la Marsica in Abruzzo, che presenta diverse notevoli  situazioni di interesse per la valorizzazione del patrimonio culturale. Si tratta di elementi che vanno dalle palafitte, agli insediamenti preistorici in grotta, alle città italiche e romane, all'incastellamento medioevale fino alle grandi opere idrauliche dell'Ottocento per il prosciugamento del lago del Fucino. Il progetto consentirebbe di mettere in stretta relazione lo studio di queste diverse fasi storico culturali con i differenti fenomeni territoriali, naturali e antropici, verificatisi nel corso del tempo con il differente utilizzo del suolo, il condizionamento dell'ambiente e lo sfruttamento delle risorse naturali. Inoltre lo studio, nella medesima area, di un altro elemento importante come quello dell'identità culturale, insieme a quelli prima citati, fornirebbe le basi per l'individuazione di elementi utili alla valorizzazione facilmente esportabili e applicabili ad altre realtà. L'interpretazione di tutto il complesso dei fattori considerati costituirebbero una solida base per comprendere settori e sinergie in un articolato programma per l'individuazione delle risorse, per gli studi di diagnostica e conservazione, per i progetti di fruizione collettiva e di gestione integrata da parte di soggetti diversi: quelli locali, le Istituzioni, Enti di ricerca e di studio, privati e aziende. Il tutto finalizzato allo sviluppo della conoscenza, alla diffusione delle tecnologie innovative e alla creazione di posti di lavoro.
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-PREMIALE-Marsica-2013.pdf)
 
 [Chat del 16 marzo 2017](index1cc0.html?p=668 "Permalink a Progetto PREMIALE Marsica 2013")[Progetti](index0b40.html?cat=9)[Abruzzo](indexbf18.html?tag=abruzzo), [Fucino](index11b4.html?tag=fucino), [Marsica](index6ce2.html?tag=marsica), [Premiale](index29d2.html?tag=premiale)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

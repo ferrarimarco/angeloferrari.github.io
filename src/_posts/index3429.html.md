@@ -71,31 +71,31 @@ Progetti 2001-2005 {#progetti-2001-2005 .entry-title}
 
 &nbsp;
 
--   [Progetto EUROCARE AIRCARE (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE AIRCARE (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
--   [Progetto EUROCARE SURFACE MONITOR (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE SURFACE MONITOR (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
--   [Progetto EUROCARE MOIST (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE MOIST (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
--   [Progetto EUROCARE EU-ART (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE EU-ART (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
--   [Progetto EUROCARE SCANTED (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE SCANTED (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
--   [Progetto EUROCARE MOUSE (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE MOUSE (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
--   [Progetto EUROCARE DENEB (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
+-   [Progetto EUROCARE DENEB (Coordinamento) 2003](wp-content/uploads/2018/10/Eurocare-PROGETTI.pdf)
 
 &nbsp;
 
@@ -144,3 +144,4 @@ Progetti 2001-2005 {#progetti-2001-2005 .entry-title}
 &nbsp;
 
 -   [Progetto Finalizzato Beni Culturali 1996 2005](wp-content/uploads/2018/10/PFBC-Italiano-x-Web.pdf)
+

@@ -25,3 +25,4 @@ In particolare potrebbero essere tenuti in considerazione alcuni spunti di lavor
 -   Per poter valorizzare gli ulivi secolari della Sabina è necessario tutelare il loro ambiente, infatti questi ambienti, ad elevato grado di naturalità, possono fornire un contributo essenziale per la tutela della biodiversità. Si potrebbe quindi pensare a questi luoghi come a degli "hot spot" della biodiversità.
 
 [Chat del 11 marzo 2017](index87e8.html?p=491 "Permalink a Progetto OLEOSECOLA 2015")[Progetti](index0b40.html?cat=9)[Olio](index868f.html?tag=olio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

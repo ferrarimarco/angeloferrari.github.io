@@ -31,3 +31,4 @@ Infine, non è stato trascurato, nel programma di studio, la possibilità di rec
 ```
 
 [← GIORDANIA 2009-2018](indexe8d3.html?p=378) [Ambiente, uomo e territorio 2010-2016 →](index3f97.html?p=383)
+

@@ -2,11 +2,11 @@ Archivi tag: Pubblica Amministrazione {#archivi-tag-pubblica-amministrazione .ar
 =====================================
 
 [Progetto FIRB EuroMed Cooperation 2005](index9f0a.html?p=371) {#progetto-firb-euromed-cooperation-2005 .entry-title}
-==============================================================
+========
 
-MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA Dipartimento per la Programmazione il Coordinamento e gli Affari Economici Servizio per lo sviluppo e il Potenziamento delle Attività di ricerca (SSPAR) FIRB RBNE03JZEY Programma Strategico: Scienze umane, economiche e sociali. Progetto Obiettivo: La cooperazione euromediterranea. Risultati attesi: Nuovi modelli e tecnologie inerenti il rapporto tra Pubblica Amministrazione, cittadini, imprese nei paesi del Mediterraneo.
+MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA Dipartimento per la Programmazione il Coordinamento e gli Affari Economici Servizio per lo sviluppo e il Potenziamento delle Attività di ricerca (SSPAR) FIRB RBNE03JZEY Programma Strategico: Scienze umane, economiche e sociali. Progetto Obiettivo: La cooperazione euromediterranea. Risultati attesi: Nuovi modelli e tecnologie inerenti il rapporto tra Pubblica Amministrazione, cittadini, imprese nei paesi del Mediterraneo.
 
-**Progetto** **EUROMED COOPERATION Pubblica Amministrazione, Impresa, Cittadino. **
+**Progetto** **EUROMED COOPERATION Pubblica Amministrazione, Impresa, Cittadino. **
 
 Il Progetto, nell'ambito della cooperazione Euromediterranea inerente i rapporti fra pubblica Amministrazione, imprese e cittadini si propone di studiare i seguenti aspetti: A) cittadinanza e immigrazione; B) nuove tecnologie di comunicazione; C) investimenti diretti esteri; D) valutazione delle risorse latenti ai fini dello sviluppo; E) documentazione dei risultati.
 
@@ -23,3 +23,4 @@ Il Progetto, nell'ambito della cooperazione Euromediterranea inerente i rapporti
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/FIRB-EuroMed-Cooperation.pdf)
 
 [Chat del 7 marzo 2017](index9f0a.html?p=371 "Permalink a Progetto FIRB EuroMed Cooperation 2005")[Progetti](index0b40.html?cat=9)[FIRB](index7342.html?tag=firb), [Pubblica Amministrazione](index5b9b.html?tag=pubblica-amministrazione)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

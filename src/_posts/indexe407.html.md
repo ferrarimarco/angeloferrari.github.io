@@ -1,20 +1,20 @@
 [Progetto FIRB Portale Internet sui beni culturali cinesi e italiani 2007](index0ced.html?p=586) {#progetto-firb-portale-internet-sui-beni-culturali-cinesi-e-italiani-2007 .entry-title}
-================================================================================================
+==========================================
 
-Progetto FIRB Portale Internet sui beni culturali cinesi e italiani 2007
+Progetto FIRB Portale Internet sui beni culturali cinesi e italiani 2007
 
 Italiano\
-Una proposta di ricerca comune che utilizza l'esperienza ottenuta da ricercatori e tecnologici cinesi e italiani che operano sui Beni Culturali. In particolare da parte italiana è stato sviluppato un insieme di portali internet che può essere utile per questa attività in comune. E' utile osservare che i Partner cinese e italiano di questa proposta si sono già incontrati e hanno organizzato il lavoro comune in conformità al Memorandum of Understanding firmato a Pechino (2005) dal Presidente dell'Accademia delle Scienze Cinese e dal Ministro Italiano (MIUR). Un lavoro comune preliminare è stato fatto da entrambi i partner e poi fermato in attesa di decisioni riguardanti il finanziamento della parte italiana. Il partner cinese possiede già le strutture necessarie e il supporto finanziario per questo lavoro.
+Una proposta di ricerca comune che utilizza l'esperienza ottenuta da ricercatori e tecnologici cinesi e italiani che operano sui Beni Culturali. In particolare da parte italiana è stato sviluppato un insieme di portali internet che può essere utile per questa attività in comune. E' utile osservare che i Partner cinese e italiano di questa proposta si sono già incontrati e hanno organizzato il lavoro comune in conformità al Memorandum of Understanding firmato a Pechino (2005) dal Presidente dell'Accademia delle Scienze Cinese e dal Ministro Italiano (MIUR). Un lavoro comune preliminare è stato fatto da entrambi i partner e poi fermato in attesa di decisioni riguardanti il finanziamento della parte italiana. Il partner cinese possiede già le strutture necessarie e il supporto finanziario per questo lavoro.
 
 Inglese\
-A common research proposal exploiting experiences of Chinese and Italian scientists and technologists who work on Cultural Heritage. The Italian partners will supply their know how coming from a set of internet portals developed on this subject. It is worth observing that both Italian and Chinese partners dealing with this proposal met and organized their common work in compliance of the Memorandum of Understanding signed in Peking (2005) by the President of the Academy of Science and the Italian Minister (MIUR). A preliminary common work was carried out by both sides and then stopped waiting further decision about financing by Italy. The Chinese partner has the needed structures and financial support for this work.
+A common research proposal exploiting experiences of Chinese and Italian scientists and technologists who work on Cultural Heritage. The Italian partners will supply their know how coming from a set of internet portals developed on this subject. It is worth observing that both Italian and Chinese partners dealing with this proposal met and organized their common work in compliance of the Memorandum of Understanding signed in Peking (2005) by the President of the Academy of Science and the Italian Minister (MIUR). A preliminary common work was carried out by both sides and then stopped waiting further decision about financing by Italy. The Chinese partner has the needed structures and financial support for this work.
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-FIRB-PORTALE-ITALIA-CINA-2007.pdf)
 
 [Chat del 14 marzo 2017](index0ced.html?p=586 "Permalink a Progetto FIRB Portale Internet sui beni culturali cinesi e italiani 2007")[Progetti](index0b40.html?cat=9)[Beni Culturali](index883e.html?tag=beni-culturali), [Cina](index26c3.html?tag=cina), [Portale](index296c.html?tag=portale)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Progetto CULTURAL HERITAGE ITALIA CINA 2005](indexc74d.html?p=579) {#progetto-cultural-heritage-italia-cina-2005 .entry-title}
-===================================================================
+=============
 
 **Progetto CULTURAL HERITAGE ITALIA CINA 2005**
 
@@ -29,11 +29,11 @@ The proposed steps are the following:
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CULTURAL-HERITAGE-ITALIA-CINA-2005.pdf)
 
- 
 
-         中意两国文化遗产合作项目建议\
+
+         中意两国文化遗产合作项目建议\
 第一项建议\
-       建立中意两国文化遗产网站。.\
+       建立中意两国文化遗产网站。.\
 由中意两国技术和研究人员共同研究和利用双方在文化遗产领域方面取得的经验。尤其是意方在地中海区域已经开发的这类网站对双方将要展开的共同的活动颇有益处。\
 欧洲国家对文化遗产领域中运用的科学和技术投入了大量的人力、资金，这方面的投资来自中央政府、市政府和大区。\
 明智的投资方式意味着正确地进行分析并进行文物修复。\
@@ -47,11 +47,11 @@ The proposed steps are the following:
 
 1 全国性的资料\
 2 Hub 全国资料中心\
-B-  欧洲分布点\
+B-  欧洲分布点\
 欧洲分布点有威尼斯、意大利。\
 为了加强信息的传入，网站使用31种语言，它们是阿尔巴尼亚语、阿拉伯语、保加利亚语、克罗地亚语、捷克语、丹麦语、犹太语、爱沙尼亚语、芬兰语、法语、希腊语、英语、意大利语、拉丁语、拉脱维亚语、马耳他语、挪威语、荷兰语、波兰语、葡萄牙语、罗马尼亚语、俄语、塞尔维亚语、斯洛文尼亚语、斯洛伐克语、西班牙语、瑞典语、德语、土耳其语和匈牙利语。
 
- 这些网站目前正在试用阶段的有:\
+ 这些网站目前正在试用阶段的有:\
 Eachmed-General 备有文化遗产方面的信息。\
 Eachmed2 备有书面材料\
 Eachmed3 备有多媒体资料\
@@ -59,10 +59,10 @@ Eachmed4 正在筹备中，服务对象是年轻人\
 Eachmed5 正在筹备中，服务对象是残疾人。\
 在它第一年试用期间，有七十多万页资料被查阅，有一万九千人查询，其中50%是意大利人，22%是美国人，5%是中国人，5%是日本人，目前只有意文部分筹备完毕。
 
- 对中意两国开展共同研究的建议:\
+ 对中意两国开展共同研究的建议:\
 借鉴中意两国文化遗产领域的专家的经验，我们建议建立一个文化遗产领域的中意两国共同使用的网站:它包括两国在文化遗产方面的技术研究和发展，使用中、意、英三种文字。\
- \
-       第二项建议\
+ \
+       第二项建议\
 高空勘查古建筑\
 不仅要了解那些著名的考古资源并进行管理，同时要对那些还没有发现的考古资源进行辨别和管理，这是极为重要的。\
 传统的调查研究方式，无论从时间上还是成本上都具有很大的局限性。应此有必要进行考古项目的研究以及对已存在的考古项目的不勘测。\
@@ -71,13 +71,13 @@ Eachmed5 正在筹备中，服务对象是残疾人。\
 我们也不要低估在卫星上安装的越来越精细的制图仪器和照像仪器，通过智能软件，来进行分析阅读。Cosmo SkyMed 卫星上的扫描装置，它是以SAR的技术为基础，可以增加卫星勘测及对考古项目的辨别及监测。\
 雷达提供的数据也对这类勘测活动发挥了不少优势，它 在任何气候条件和夜晚都能具有良勘测的能力。
 
- 对中意两国开展共同研究的建议:\
+ 对中意两国开展共同研究的建议:\
 以中国和意大利经验为基础:
 
 -   发展新的卫星技术并不断地加以完善，辨别和检测双方考古项目和古建筑。这一技术的运用也将推广到使用中国和意大利发射的卫星的国家。
 -   采用新的信息系统技术来处理古代丰富的历史资料。
 
- 第三项建议\
+ 第三项建议\
 壁画\
 保存壁画是一种挑战: 壁画是由多孔的材料组成，含有可溶性的盐，如果没有气温控制，壁画的保存会十分困难的。\
 大部分壁画是由易分解的化合物如陶土和其它对湿度、对气候条件特别敏感的泥土物质组成。\
@@ -86,7 +86,7 @@ Eachmed5 正在筹备中，服务对象是残疾人。\
 在中国使用泥土来保存壁画，有许多国际机构对此方法进行了研究。\
 建议中意双方共同研究的项目
 
- 我们建议双方搞一个共同项目，利用我们在这一领域的知识和经验与我们的中国同事一起参与保护壁画的活动，互相提供宝贵的经验并和其它国际机构进行合作，找出保护中国珍贵文化遗产的恰当和可靠的办法。
+ 我们建议双方搞一个共同项目，利用我们在这一领域的知识和经验与我们的中国同事一起参与保护壁画的活动，互相提供宝贵的经验并和其它国际机构进行合作，找出保护中国珍贵文化遗产的恰当和可靠的办法。
 
 [Chat del 13 marzo 2017](indexc74d.html?p=579 "Permalink a Progetto CULTURAL HERITAGE ITALIA CINA 2005")[Progetti](index0b40.html?cat=9)[Beni Culturali](index883e.html?tag=beni-culturali), [Cina](index26c3.html?tag=cina), [FIRB](index7342.html?tag=firb)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -111,22 +111,22 @@ Particular attention will be devoted to the use of various languages. Special in
 [Chat del 13 marzo 2017](indexa1e2.html?p=573 "Permalink a Progetto FIRB VIDEOGAMES 2005")[Progetti](index0b40.html?cat=9)[FIRB](index7342.html?tag=firb), [Videogames](indexecbf.html?tag=videogames)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Progetto Regione Lazio DTC 2009](index03c9.html?p=563) {#progetto-regione-lazio-dtc-2009 .entry-title}
-=======================================================
+=
 
 **Progetto Regione Lazio DTC 2009**\
 DISTRETTO TECNOLOGICO PER I BENI E LE ATTIVITA' CULTURALI\
-TITOLO:** Competenze tecnologiche innovative di ricercatori e imprese per i beni culturali della Regione Lazio.**
+TITOLO:** Competenze tecnologiche innovative di ricercatori e imprese per i beni culturali della Regione Lazio.**
 
 Le competenze tecnologiche sono un aspetto importante per la conoscenza, il restauro, la conservazione e la fruizione dei beni culturali ed è fondamentale la conoscenza delle tecnologie realizzate dai ricercatori con lo scopo di renderle fruibili alle imprese laziali che operano nel settore del patrimonio culturale.\
-Questa iniziativa si propone di censire i dati relativi alle tecnologie per i beni culturali ai fini di una diffusione tra  le Soprintendenze e le Pubbliche Amministrazioni regionali e in particolare tra le imprese che, anche se numerose nel Lazio, spesso non riescono ad aggiornare tempestivamente le proprie competenze. Una approfondita conoscenza delle nuove tecnologie nel settore e la conseguente migliorata capacità di aggregazione delle imprese potranno consentire loro di partecipare attivamente a interventi di restauro complessi sul patrimonio culturale del Lazio e anche di esportare in ambito extraregionale ed europeo le conoscenze acquisite.\
-Inoltre una carta dei beni culturali del Lazio sarà supportata da un sistema informatico per l'individuazione, la diffusione e l'utilizzo  delle competenze relative alle Piccole e Medie Imprese del Lazio che operano nel settore del patrimonio culturale e quelle relative al campo della ricerca regionale per la salvaguardia dei beni culturali. In particolare saranno approntate due banche dati, una per le P.M.I e l'altra per la ricerca avanzata le quali, interagendo tra loro, potranno fornire agli operatori del settore, Regione, Provincie, Comuni, Fondazioni, privati ecc......, un valido strumento che consenta l'immediata individuazione di metodologie adeguate e capacità di intervento. Lo scopo è quello di fornire ai gestori del patrimonio regionale del Lazio uno strumento agevole per individuare rapidamente le competenze  adatte, sia  che si tratti di casi di monitoraggio preventivo, di manutenzione, di restauro o di vera e propria emergenza.
+Questa iniziativa si propone di censire i dati relativi alle tecnologie per i beni culturali ai fini di una diffusione tra  le Soprintendenze e le Pubbliche Amministrazioni regionali e in particolare tra le imprese che, anche se numerose nel Lazio, spesso non riescono ad aggiornare tempestivamente le proprie competenze. Una approfondita conoscenza delle nuove tecnologie nel settore e la conseguente migliorata capacità di aggregazione delle imprese potranno consentire loro di partecipare attivamente a interventi di restauro complessi sul patrimonio culturale del Lazio e anche di esportare in ambito extraregionale ed europeo le conoscenze acquisite.\
+Inoltre una carta dei beni culturali del Lazio sarà supportata da un sistema informatico per l'individuazione, la diffusione e l'utilizzo  delle competenze relative alle Piccole e Medie Imprese del Lazio che operano nel settore del patrimonio culturale e quelle relative al campo della ricerca regionale per la salvaguardia dei beni culturali. In particolare saranno approntate due banche dati, una per le P.M.I e l'altra per la ricerca avanzata le quali, interagendo tra loro, potranno fornire agli operatori del settore, Regione, Provincie, Comuni, Fondazioni, privati ecc......, un valido strumento che consenta l'immediata individuazione di metodologie adeguate e capacità di intervento. Lo scopo è quello di fornire ai gestori del patrimonio regionale del Lazio uno strumento agevole per individuare rapidamente le competenze  adatte, sia  che si tratti di casi di monitoraggio preventivo, di manutenzione, di restauro o di vera e propria emergenza.
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-Regione-Lazio-DTC-2009.pdf)
 
 [Chat del 12 marzo 2017](index03c9.html?p=563 "Permalink a Progetto Regione Lazio DTC 2009")[Progetti](index0b40.html?cat=9)[Distretto Tecnologico](index057d.html?tag=distretto-tecnologico), [Regione Lazio](indexc7c0.html?tag=regione-lazio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Progetti UE Eureca EUROCARE 2000](index5195.html?p=552) {#progetti-ue-eureca-eurocare-2000 .entry-title}
-========================================================
+==
 
 **[![Logo Eurocare](wp-content/uploads/2017/03/Logo-Eurocare-300x211.jpg){.alignnone .wp-image-551 width="161" height="113"}](wp-content/uploads/2017/03/Logo-Eurocare.jpg)**
 
@@ -137,7 +137,7 @@ Inoltre una carta dei beni culturali del Lazio sarà supportata da un sistema in
 **Sigma:** optical fibre sensors for pollutants within museum and art galleries.\
 Oldmovies: creation of film restoration technologies.\
 **Moist:** control and monitoring of moisture presence in buildings.\
-**Jewelcraft:** preservation of jewellery manufacturing techniques surface monitor.     **Surface Monitor:** Development of a portable X-Ray spectrometer for diffration and fluorescence analyses.\
+**Jewelcraft:** preservation of jewellery manufacturing techniques surface monitor.     **Surface Monitor:** Development of a portable X-Ray spectrometer for diffration and fluorescence analyses.\
 **Mouse:** mobile NMR for the diagnosis of superficial porosity and water infiltration in buildings.\
 **Eurojubilees:** individuation and reinterpretation of themes of the event with new multimedial systems.
 
@@ -150,9 +150,9 @@ Oldmovies: creation of film restoration technologies.\
 
 **Progetto UE EACH 2011**
 
-The motto of the European Union is *United in diversity*; European citizens want to preserve their identity, grounded on their cultural Heritage. However, such a Patrimony is fragile and Public Administrations spend yearly significant resources to save it. The purpose of the EACH Project is to show how crucial may prove the contribution of scientists and technologists saving our common Patrimony and saving public money often wasted for erroneous interventions. A special opportunity is offered by the next 8^th^ Framework Programme of the European Union for the years 2014-2020; even if it may seem a lot of time ahead, experts agree on stating that years 2010 -- 2011 are the right time to act. As clearly shown by the EACH Project logo, we are working for the years "*2010-2014*"  "*towards FP8*" and on "*Cultural Heritage*": i. e. any scientific and technological activity for the safeguard of our common Cultural Heritage. This deeply revised 2^nd^ Report contains the full text of the "*Preliminary Draft*" of the EACH Project approved by the delegates to the Congress on Cultural Heritage held in Cairo last December 2009 plus all the amendments and enrichments carried out by contributing scientists throughout year 2010. The Report is a bottom-up initiative supported by thousands of scientists and technologists of the 27 Member States and the 9 Mediterranean Partners, open to further suggestions. The Report contains a provisional list of  thousands of scientists the EACH Project was submitted to and a provisional list of scientists who made comments, suggestions and adjournments to the Project text: we deeply thank them for their contributions.
+The motto of the European Union is *United in diversity*; European citizens want to preserve their identity, grounded on their cultural Heritage. However, such a Patrimony is fragile and Public Administrations spend yearly significant resources to save it. The purpose of the EACH Project is to show how crucial may prove the contribution of scientists and technologists saving our common Patrimony and saving public money often wasted for erroneous interventions. A special opportunity is offered by the next 8^th^ Framework Programme of the European Union for the years 2014-2020; even if it may seem a lot of time ahead, experts agree on stating that years 2010 -- 2011 are the right time to act. As clearly shown by the EACH Project logo, we are working for the years "*2010-2014*"  "*towards FP8*" and on "*Cultural Heritage*": i. e. any scientific and technological activity for the safeguard of our common Cultural Heritage. This deeply revised 2^nd^ Report contains the full text of the "*Preliminary Draft*" of the EACH Project approved by the delegates to the Congress on Cultural Heritage held in Cairo last December 2009 plus all the amendments and enrichments carried out by contributing scientists throughout year 2010. The Report is a bottom-up initiative supported by thousands of scientists and technologists of the 27 Member States and the 9 Mediterranean Partners, open to further suggestions. The Report contains a provisional list of  thousands of scientists the EACH Project was submitted to and a provisional list of scientists who made comments, suggestions and adjournments to the Project text: we deeply thank them for their contributions.
 
-INDEX                                                                                                                                                     **Introduction** \
+INDEX                                                                                                                                                     **Introduction** \
 TOWARDS THE 8TH FRAMEWORK PROGRAMME\
 THE NEW RESEARCH COMMISSIONER\
 THE STRUCTURE OF FP8\
@@ -187,9 +187,9 @@ PREVIOUS ACTIVITY OF THE ORGANIZING TEAM
 **Servizi di Assistenza e Formazione alle Imprese**
 
 *MIUR Dipartimento per la Programmazione, il Coordinamento e gli Affari Econom**ici***\
-*Servizio per lo Sviluppo ed il Potenziamento dell'Attività di Ricerca -- Ufficio IV Misura II.2 Società dell'Informazione per il Sistema Scientifico Meridionale.*
+*Servizio per lo Sviluppo ed il Potenziamento dell'Attività di Ricerca -- Ufficio IV Misura II.2 Società dell'Informazione per il Sistema Scientifico Meridionale.*
 
- Il progetto **"EACHSAFI"** **E**uropean **A**gency for **C**ultural **H**eritage -- **S**ervizi di **A**ssistenza e **F**ormazione alle **I**mprese e Istituzioni, è finalizzato alla creazione di un Centro Servizi di Assistenza e Formazione nel campo dell'ICT applicate ai Beni Culturali, rivolto alle Imprese ed alle Istituzioni del Mezzogiorno, ed in particolare della regione Puglia. I servizi attivati consistono in un sistema informativo territoriale finalizzato all'assistenza ed all'accompagnamento alle imprese ed alle istituzioni del settore e all'alta formazione dei quadri dirigenti e del personale interno. Pertanto rappresenta il collegamento operativo sul territorio (in particolare la Regione Puglia) di un progetto europeo denominato EACH al quale come in seguito indicato partecipano circa dieci nazioni. Il Progetto EACHSAFI ha come specifici obiettivi lo sviluppo delle azioni di formazione culturale e di creazione di nuove realtà industriali. Le attività previste si possono sintetizzare nella realizzazione di un sistema informativo territoriale rivolto alle seguenti discipline dell'ICT: Web di seconda, di gestione delle banche dati e dei sistemi informativi territoriali su piattaforme GIS (GIS Application and Thematic Application for Sustainable Developement), di metodologie innovative di gestione e pianificazione territoriale delle risorse culturali (CHM Cultural Heritage Management), delle metodologie di marketing turistico-culturale (ICT Utility), ecc. 
+ Il progetto **"EACHSAFI"** **E**uropean **A**gency for **C**ultural **H**eritage -- **S**ervizi di **A**ssistenza e **F**ormazione alle **I**mprese e Istituzioni, è finalizzato alla creazione di un Centro Servizi di Assistenza e Formazione nel campo dell'ICT applicate ai Beni Culturali, rivolto alle Imprese ed alle Istituzioni del Mezzogiorno, ed in particolare della regione Puglia. I servizi attivati consistono in un sistema informativo territoriale finalizzato all'assistenza ed all'accompagnamento alle imprese ed alle istituzioni del settore e all'alta formazione dei quadri dirigenti e del personale interno. Pertanto rappresenta il collegamento operativo sul territorio (in particolare la Regione Puglia) di un progetto europeo denominato EACH al quale come in seguito indicato partecipano circa dieci nazioni. Il Progetto EACHSAFI ha come specifici obiettivi lo sviluppo delle azioni di formazione culturale e di creazione di nuove realtà industriali. Le attività previste si possono sintetizzare nella realizzazione di un sistema informativo territoriale rivolto alle seguenti discipline dell'ICT: Web di seconda, di gestione delle banche dati e dei sistemi informativi territoriali su piattaforme GIS (GIS Application and Thematic Application for Sustainable Developement), di metodologie innovative di gestione e pianificazione territoriale delle risorse culturali (CHM Cultural Heritage Management), delle metodologie di marketing turistico-culturale (ICT Utility), ecc.
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-MIUR-EACHSAFI-2002.pdf)
 
@@ -200,7 +200,7 @@ PREVIOUS ACTIVITY OF THE ORGANIZING TEAM
 
 **Immigrati: formazione e prevenzione incidenti sul lavoro**
 
-Il Progetto tocca due aspetti fondamentali per l'integrazione delle lavoratrici e dei lavoratori immigrati. Il Progetto si propone di aiutare in modo significativo gli immigrati mediante corsi di formazione sul lavoro e corsi di prevenzione di incidenti sul lavoro. In particolare, il progetto propone  particolari format di corsi brevi di istruzione che consentano un rapido apprendimento del know-how necessario per operare nelle fabbriche, in particolare del settore chimico, e in attività connesse con l'ambiente domestico. Tenendo conto che il livello culturale degli immigrati che giungono nel nostro paese è molto diversificato, affinché i corsi siano adeguati all'obiettivo che ci si prefigge sarà indispensabile che questi corsi prevedano tre livelli di difficoltà:
+Il Progetto tocca due aspetti fondamentali per l'integrazione delle lavoratrici e dei lavoratori immigrati. Il Progetto si propone di aiutare in modo significativo gli immigrati mediante corsi di formazione sul lavoro e corsi di prevenzione di incidenti sul lavoro. In particolare, il progetto propone  particolari format di corsi brevi di istruzione che consentano un rapido apprendimento del know-how necessario per operare nelle fabbriche, in particolare del settore chimico, e in attività connesse con l'ambiente domestico. Tenendo conto che il livello culturale degli immigrati che giungono nel nostro paese è molto diversificato, affinché i corsi siano adeguati all'obiettivo che ci si prefigge sarà indispensabile che questi corsi prevedano tre livelli di difficoltà:
 
 **1° livello** -- corsi per i quali si presume che l'immigrato abbia già raggiunto nel suo paese di origine un livello di istruzione equivalente alla nostra **licenza elementare**.
 
@@ -215,11 +215,11 @@ Il Progetto tocca due aspetti fondamentali per l'integrazione delle lavoratrici 
 [Progetto ISESP 2007](index16bc.html?p=523) {#progetto-isesp-2007 .entry-title}
 ===========================================
 
-Il Progetto ISESP si sviluppa nell'ambito della Formazione di eccellenza nel campo tecnologico / scientifico / economico (profit e no profit), dedicata ai giovani della regione Calabria.\
+Il Progetto ISESP si sviluppa nell'ambito della Formazione di eccellenza nel campo tecnologico / scientifico / economico (profit e no profit), dedicata ai giovani della regione Calabria.\
 Il Progetto è il risultato della volontà di una serie di soggetti, da tempo attivi nel settore della ricerca e dell'alta formazione, di offrire ai giovani che ne saranno beneficiari una serie di opportunità formative di alto profilo tutte inserite in un'unica proposta qualitativamente rilevante sia dal punto di vista culturale, sia rispetto ai possibili sbocchi professionali che si potranno aprire in seguito ad una preparazione specifica come quella prevista dalla progettualità.\
 La collaborazione tra diverse realtà, che si concretizzerà nella costituzione di quello che chiameremo di qui in seguito "Comitato Scientifico" composto da tutti gli Enti e le Istituzioni coinvolte, inoltre, consentirà ai giovani partecipanti di venire a contatto con diversi ambiti professionali e, quindi, di poter valutare al meglio le strade che vorranno intraprendere in futuro.\
- \
-Gli obiettivi di questo percorso sono: 1) Fornire opportunità di alta formazione a giovani laureati in cerca di occupazione. 2) Favorire l'aggregazione progettuale tra un gruppo di Enti già attivi nel settore della ricerca e formazione attraverso la costituzione di un "Comitato scientifico", al fine di offrire proposte formative complete e qualitativamente rilevanti. 3) Contribuire ad arginare l'emigrazione dei giovani laureati offrendo nuove opportunità professionali di alto profilo.
+ \
+Gli obiettivi di questo percorso sono: 1) Fornire opportunità di alta formazione a giovani laureati in cerca di occupazione. 2) Favorire l'aggregazione progettuale tra un gruppo di Enti già attivi nel settore della ricerca e formazione attraverso la costituzione di un "Comitato scientifico", al fine di offrire proposte formative complete e qualitativamente rilevanti. 3) Contribuire ad arginare l'emigrazione dei giovani laureati offrendo nuove opportunità professionali di alto profilo.
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-Sud-ISESP-2007.pdf)
 
@@ -229,13 +229,13 @@ Gli obiettivi di questo percorso sono: 1) Fornire opportunità di alta formazion
 ===================================================
 
 **[![Asso01](wp-content/uploads/2017/03/Asso01-135x300.jpg){.alignnone .size-medium .wp-image-511 width="135" height="300"}](wp-content/uploads/2017/03/Asso01.jpg)[![Assofonditalia Logo](wp-content/uploads/2017/03/Assofonditalia-Logo-300x94.jpg){.alignnone .size-medium .wp-image-509 width="300" height="94"}](wp-content/uploads/2017/03/Assofonditalia-Logo.jpg)**\
-**AssoFondItalia** è un progetto per il censimento delle Fondazioni italiane non bancarie che dedicano, anche in parte, la loro attività al settore del patrimonio culturale del nostro Paese. Lo scopo del Progetto è costruire un portale internet per favorire uno scambio proficuo all'interno di una rete di Soggetti interessati a finanziare, a diversi livelli, azioni di studio, restauro e valorizzazione dei beni culturali italiani.
+**AssoFondItalia** è un progetto per il censimento delle Fondazioni italiane non bancarie che dedicano, anche in parte, la loro attività al settore del patrimonio culturale del nostro Paese. Lo scopo del Progetto è costruire un portale internet per favorire uno scambio proficuo all'interno di una rete di Soggetti interessati a finanziare, a diversi livelli, azioni di studio, restauro e valorizzazione dei beni culturali italiani.
 
- [![Asso6](wp-content/uploads/2017/03/Asso6-1024x640.jpg){.alignnone .size-large .wp-image-512 width="604" height="378"}](wp-content/uploads/2017/03/Asso6.jpg)
+ [![Asso6](wp-content/uploads/2017/03/Asso6-1024x640.jpg){.alignnone .size-large .wp-image-512 width="604" height="378"}](wp-content/uploads/2017/03/Asso6.jpg)
 
 [![Asso21](wp-content/uploads/2017/03/Asso21-1024x650.jpg){.alignnone .size-large .wp-image-513 width="604" height="383"}](wp-content/uploads/2017/03/Asso21.jpg)
 
-[Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-ASSOFONDITALIA-2011.pdf) 
+[Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-ASSOFONDITALIA-2011.pdf)
 
 [Chat del 12 marzo 2017](indexcfe8.html?p=507 "Permalink a Progetto AFI AssoFondItalia")[Progetti](index0b40.html?cat=9)[AFI](index31da.html?tag=afi), [Assofonditalia](index162a.html?tag=assofonditalia), [Fondazioni](index4645.html?tag=fondazioni)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -245,3 +245,4 @@ Navigazione articoli {#navigazione-articoli .screen-reader-text}
 [← Articoli più vecchi](index3937.html?cat=9&paged=8)
 
 [Articoli più recenti →](index5f91.html?cat=9&paged=6)
+

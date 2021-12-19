@@ -6,20 +6,20 @@ Consiglio Nazionale delle Ricerche\
 Progetto Finalizzato Beni Culturali
 
 **ARCHAEO SURVEY**\
-Individuazione di siti e manufatti archeologici mediante tecniche di telerilevamento integrate con GIS e modelli multivariati di predittività.\
-* (Unsolicited Proposal -- Roma, febbraio 2005)*
+Individuazione di siti e manufatti archeologici mediante tecniche di telerilevamento integrate con GIS e modelli multivariati di predittività.\
+* (Unsolicited Proposal -- Roma, febbraio 2005)*
 
 [![Alba Fucens Scavi](wp-content/uploads/2017/03/Alba-Fucens-Scavi.jpg){.alignnone .size-full .wp-image-500 width="1000" height="662"}](wp-content/uploads/2017/03/Alba-Fucens-Scavi.jpg)
 
-**Earth Observation.                                                                                                                                            ** La conoscenza del patrimonio culturale di un territorio, comprendente non solo le risorse archeologiche note, ma anche quelle non ancora individuate, rappresenta una necessità di primaria importanza sia per quanto riguarda la loro tutela mediante adeguate politiche di controllo e gestione, che di valorizzazione e quindi di fruizione da parte della comunità. L'individuazione di siti e manufatti di interesse archeologico e, di conseguenza, la compilazione di mappe di "previsione o rischio archeologico" relativamente a vaste estensioni di territorio quali quelle a scala provinciale e/o regionale, apre agli studiosi del settore nuove prospettive di analisi e di ricostruzione storico-archeologica e quindi della sua valorizzazione culturale, importante per la valorizzazione di un territorio. I metodi tradizionali di investigazione volti all'individuazione dei siti archeologici ancora sconosciuti trovano, d'altra parte, la loro principale limitazione nei costi e nei tempi necessari per effettuare il rilevamento di aree molto estese, nel caso si operi senza una plausibile indicazione delle aree a maggiore probabilità di insediamento. Ne consegue quindi l'utilità di sviluppare e mettere a punto metodologie di indagine volte alla valutazione della predisposizione di un luogo alla presenza di un insediamento umano del passato, in modo da determinare punto per punto la *suscettibilità* del territorio all'insediamento e la probabilità di presenza di un sito sconosciuto. La compilazione di tali mappe di predittività della presenza di siti archeologici, consente quindi la definizione di opportune strategie di indagine e verifiche sul campo che accertino l'effettiva presenza di tracce del passato e la compilazione di mappe della realtà archeologica.
+**Earth Observation.                                                                                                                                            ** La conoscenza del patrimonio culturale di un territorio, comprendente non solo le risorse archeologiche note, ma anche quelle non ancora individuate, rappresenta una necessità di primaria importanza sia per quanto riguarda la loro tutela mediante adeguate politiche di controllo e gestione, che di valorizzazione e quindi di fruizione da parte della comunità. L'individuazione di siti e manufatti di interesse archeologico e, di conseguenza, la compilazione di mappe di "previsione o rischio archeologico" relativamente a vaste estensioni di territorio quali quelle a scala provinciale e/o regionale, apre agli studiosi del settore nuove prospettive di analisi e di ricostruzione storico-archeologica e quindi della sua valorizzazione culturale, importante per la valorizzazione di un territorio. I metodi tradizionali di investigazione volti all'individuazione dei siti archeologici ancora sconosciuti trovano, d'altra parte, la loro principale limitazione nei costi e nei tempi necessari per effettuare il rilevamento di aree molto estese, nel caso si operi senza una plausibile indicazione delle aree a maggiore probabilità di insediamento. Ne consegue quindi l'utilità di sviluppare e mettere a punto metodologie di indagine volte alla valutazione della predisposizione di un luogo alla presenza di un insediamento umano del passato, in modo da determinare punto per punto la *suscettibilità* del territorio all'insediamento e la probabilità di presenza di un sito sconosciuto. La compilazione di tali mappe di predittività della presenza di siti archeologici, consente quindi la definizione di opportune strategie di indagine e verifiche sul campo che accertino l'effettiva presenza di tracce del passato e la compilazione di mappe della realtà archeologica.
 
 Oltre ai metodi standard di esplorazione del terreno per l'identificazione di siti di interesse archeologico, l'unica informazione telerilevata effettivamente impiegata al giorno d'oggi, è fornita dalla foto aerea tradizionale. Riprese aereofotografiche sia verticali che oblique, vengono generalmente utilizzate per studi sistematici a media e grande scala di fenomeni e processi sia naturali (forme del rilievo, natura del suolo, processi di instabilità, ecc.), che storico-archeologici. Ad oggi, la ricerca archeologica sul territorio si è avvalsa quasi esclusivamente di fotografie aeree recenti ma soprattutto storiche, quale strumento fondamentale per la conoscenza, la valorizzazione, la tutela e la gestione dei beni culturali, nel settore storico, archeologico, monumentale ed ambientale.
 
-Non altrettanto sviluppate, e tantomeno operative, appaiono le metodologie basate sull'impiego del telerilevamento ambientale da satellite e da aereo (satelliti, scanner multispettrali, iperspettrali, sensori a microonde, ecc.), e sulle tecniche di elaborazione numerica delle immagini telerilevate (multispettrale e multitemporale, data fusion, analisi contestuale, ecc.)  anche se si ricorre spesso a metodi, tecniche e strumenti resi disponibili dal progresso scientifico per la contestualizzazione di siti noti o per la ricerca di siti nuovi nell'ambito della "landscape archaeology". In particolare, hanno trovato applicazione il telerilevamento per la raccolta delle informazioni di base sul contesto e/o sui siti stessi ed i Sistemi Informativi Geografici (GIS) per la gestione, analisi, elaborazione e visualizzazione delle informazioni raccolte. Più raramente sono stati utilizzati modelli multivariati (statistici o meno) per l'analisi dei dati e per la costruzione di modelli predittivi o esplicativi. Appare in ogni caso promettente il fatto  che, in situazioni difficili dal punto di vista cartografico e della documentazione aerea, si possa ricorrere ad immagini satellitari per usi a vari livelli di definizione, ma soprattutto per letture di macroscala.
+Non altrettanto sviluppate, e tantomeno operative, appaiono le metodologie basate sull'impiego del telerilevamento ambientale da satellite e da aereo (satelliti, scanner multispettrali, iperspettrali, sensori a microonde, ecc.), e sulle tecniche di elaborazione numerica delle immagini telerilevate (multispettrale e multitemporale, data fusion, analisi contestuale, ecc.)  anche se si ricorre spesso a metodi, tecniche e strumenti resi disponibili dal progresso scientifico per la contestualizzazione di siti noti o per la ricerca di siti nuovi nell'ambito della "landscape archaeology". In particolare, hanno trovato applicazione il telerilevamento per la raccolta delle informazioni di base sul contesto e/o sui siti stessi ed i Sistemi Informativi Geografici (GIS) per la gestione, analisi, elaborazione e visualizzazione delle informazioni raccolte. Più raramente sono stati utilizzati modelli multivariati (statistici o meno) per l'analisi dei dati e per la costruzione di modelli predittivi o esplicativi. Appare in ogni caso promettente il fatto  che, in situazioni difficili dal punto di vista cartografico e della documentazione aerea, si possa ricorrere ad immagini satellitari per usi a vari livelli di definizione, ma soprattutto per letture di macroscala.
 
-Non si conoscono invece formulazioni e applicazioni di sistemi conoscitivi complessi basati sull'uso integrato di tutti gli "strumenti" menzionati sopra. Similmente al caso delle realtà archeologiche non ancora scoperte, anche nel caso delle risorse culturali conosciute, le tecnologie di telerilevamento da aereo e sopratutto da satellite non sono impiegate né per scopi di caratterizzazione dei siti né per  attività di monitoraggio periodico della realtà ambientale e del contesto archeologico con lo scopo di evidenziare eventuali cambiamenti delle zone protette, indotti da cause naturali o antropiche. Anche in questo settore, il telerilevamento EO ottico non risulta a tutt'oggi adeguatamente valutato ed utilizzato ed inoltre non sono conosciuti neanche casi in cui l'informazione telerilevata venga utilizzata in maniera sistematica a livello operativo.
+Non si conoscono invece formulazioni e applicazioni di sistemi conoscitivi complessi basati sull'uso integrato di tutti gli "strumenti" menzionati sopra. Similmente al caso delle realtà archeologiche non ancora scoperte, anche nel caso delle risorse culturali conosciute, le tecnologie di telerilevamento da aereo e sopratutto da satellite non sono impiegate né per scopi di caratterizzazione dei siti né per  attività di monitoraggio periodico della realtà ambientale e del contesto archeologico con lo scopo di evidenziare eventuali cambiamenti delle zone protette, indotti da cause naturali o antropiche. Anche in questo settore, il telerilevamento EO ottico non risulta a tutt'oggi adeguatamente valutato ed utilizzato ed inoltre non sono conosciuti neanche casi in cui l'informazione telerilevata venga utilizzata in maniera sistematica a livello operativo.
 
-L'obiettivo è pertanto: **Definizione del contributo potenziale ed applicativo che i dati EO ottico da satellite e da aereo possono dare in base ai requisiti utente ed agli scenari applicativi definiti nell'ambito della modellistica e delle metodologie di indagine, conoscenza e gestione delle risorse archeologiche.**
+L'obiettivo è pertanto: **Definizione del contributo potenziale ed applicativo che i dati EO ottico da satellite e da aereo possono dare in base ai requisiti utente ed agli scenari applicativi definiti nell'ambito della modellistica e delle metodologie di indagine, conoscenza e gestione delle risorse archeologiche.**
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-Archaeo-Survey-2005.pdf)
 
@@ -58,7 +58,7 @@ In costruzione
 [Chat del 8 marzo 2017](indexffa6.html?p=407 "Permalink a _Montalto 2010-2018")[Progetti](index0b40.html?cat=9)[Borrello](index4869.html?tag=borrello), [Montalto](indexda06.html?tag=montalto)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [\_Emissario del Fucino 2011-2018](index4efb.html?p=405) {#emissario-del-fucino-2011-2018 .entry-title}
-========================================================
+==
 
 In Costruzione
 
@@ -78,7 +78,7 @@ In costruzione
 
 Modello strategico/informatico per il coordinamento, la valorizzazione e il trasferimento tecnologico dei risultati della ricerca nel settore del patrimonio culturale.
 
-**Durata del Progetto:** è stata programmata in 18 mesi, dal 01/0172016 al 30/06/2017. **Soggetto esecutore:** CNR, Istituto di Metodologie Chimiche, Area della Ricerca Roma 1. **Referente: **Angelo Ferrari
+**Durata del Progetto:** è stata programmata in 18 mesi, dal 01/0172016 al 30/06/2017. **Soggetto esecutore:** CNR, Istituto di Metodologie Chimiche, Area della Ricerca Roma 1. **Referente: **Angelo Ferrari
 
 **Collaborazioni:** CNR-ITABC Ist. per le Tecnol. Applicate ai Beni Culturali (P. Mauriello) CNR-ISMN Istit. per lo Studio dei Materiali Nanostrutturati, (G. M. Ingo) CNR-ISMA Istituto di Studi sul Mediterraneo Antico, (Paola Moscati) CNR-ICVBC Istituto per la Conservazione e Valorizzazione dei Beni Culturali, (M. P. Colombini) MiBACT--ICR Istituto Centrale del Restauro (Contatti in corso) AIC Associazione Investire in Cultura, (Angelo Guarino) INBB, Istituto Nazionale Biostrutture e Biosistemi, (Giovanni Antonini)
 
@@ -86,19 +86,19 @@ Modello strategico/informatico per il coordinamento, la valorizzazione e il tras
 
 **Gruppo di verifica** GIOVANNA MANCINI CNR -- Istituto di Metodologie Chimiche, Direttore CARMELO CANNARELLA CNR -- Istituto di Metodologie Chimiche, Tecnologo ANGELO FERRARI CNR -- Istituto di Metodologie Chimiche, 1° Tecnologo PIETRO RAGNI CNR -- Istituto di Metodologie Chimiche, 1° Ricercatore
 
-**Abstract:  **TecnoCult è un contenitore informatico (banca dati relazionale), fruibile in rete, con obiettivi e funzioni specifici, dedicato alla valorizzazione delle ricerche nel settore del patrimonio culturale e può essere considerato un modello perché la sua struttura e il suo funzionamento sono applicabili anche ad altri settori di ricerca del CNR. TecnoCult è stato pensato per migliorare, attraverso un ricco bagaglio di informazioni messo a disposizione dell'Ente, la valorizzazione delle ricerche svolte in ambito CNR, fornendo alle Amministrazioni Centrali un valido strumento che contribuisca a soddisfare specifici fabbisogni.
+**Abstract:  **TecnoCult è un contenitore informatico (banca dati relazionale), fruibile in rete, con obiettivi e funzioni specifici, dedicato alla valorizzazione delle ricerche nel settore del patrimonio culturale e può essere considerato un modello perché la sua struttura e il suo funzionamento sono applicabili anche ad altri settori di ricerca del CNR. TecnoCult è stato pensato per migliorare, attraverso un ricco bagaglio di informazioni messo a disposizione dell'Ente, la valorizzazione delle ricerche svolte in ambito CNR, fornendo alle Amministrazioni Centrali un valido strumento che contribuisca a soddisfare specifici fabbisogni.
 
 [Chat del 8 marzo 2017](indexae62.html?p=397 "Permalink a Tecno_Cult 2016-2017")[Progetti](index0b40.html?cat=9)[Beni Culturali](index883e.html?tag=beni-culturali), [CNR](index47bd.html?tag=cnr), [Tecnocult](index39d0.html?tag=tecnocult)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [RTQ -- Repertorio Tematico dei Qanat 2016-2018](index51fe.html?p=394) {#rtq-repertorio-tematico-dei-qanat-2016-2018 .entry-title}
-======================================================================
+================
 
     RTQ Bozza di lavoro
 
     Il Repertorio Tematico dei Qanat (RTQ) prevede la selezione, tra gli oltre 7.000 qanat individuati in varie regioni, di quelli significativi, per caratteristiche geomorfologiche, per lunghezza, per superficie irrigata, per stato di conservazione, ecc.
 
   ---------------------- ------------------------------------- ---------------
-        **NATION**                  ** LOCAL NAME**             **No. QANAT**
+        **NATION**                  ** LOCAL NAME**             **No. QANAT**
        Afghanistan                    Afghanestan                   1,172
          Algeria                       Al Jaza'r                     527
         Azerbaijan                    Azarbaycan                     14
@@ -120,36 +120,36 @@ Modello strategico/informatico per il coordinamento, la valorizzazione e il tras
    United Arab Emirates   Al Imarat al Arabiyah al Muttahidah         2
         Uzbekistan                    Uzbekiston                     27
           Yemen                        Al Yaman                       1
-                                 **Total  01/12/2014**            **7,137**
+                                 **Total  01/12/2014**            **7,137**
   ---------------------- ------------------------------------- ---------------
 
 [Chat del 8 marzo 2017](index51fe.html?p=394 "Permalink a RTQ – Repertorio Tematico dei Qanat 2016-2018")[Progetti](index0b40.html?cat=9)[Qanat](index339d.html?tag=qanat), [RTQ](index3c8c.html?tag=rtq)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Ambiente, uomo e territorio 2010-2016](index3f97.html?p=383) {#ambiente-uomo-e-territorio-2010-2016 .entry-title}
-=============================================================
+=======
 
 [7 marzo 2017](index3f97.html?p=383 "Permalink a Ambiente, uomo e territorio 2010-2016")[Progetti](index0b40.html?cat=9)[Ambiente](indexa6a7.html?tag=ambiente), [CNR](index47bd.html?tag=cnr), [Commessa](index3b4b.html?tag=commessa), [Territorio](indexfff4.html?tag=territorio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-#### **Ambiente, uomo e territorio:** nuove metodologie per lo studio e la valorizzazione dei beni culturali in aree desertiche CNR -- INT.P10.011
+#### **Ambiente, uomo e territorio:** nuove metodologie per lo studio e la valorizzazione dei beni culturali in aree desertiche CNR -- INT.P10.011
 
     Progetto 2010-2016
     Angelo Ferrari - Ezio Burri
-      
+
     Consiglio Nazionale delle Ricerche
     Istituto di Metodologie Chimiche
-      
+
     Dipartimento
     Scienze umane e sociali, patrimonio culturale
-      
+
     Progetto Interdipartimentale
-    Cultura e Territorio (INT.P10)
+    Cultura e Territorio (INT.P10)
 
     CNR Commessa INT.P10.011
     Ambiente, uomo e territorio, nuove metodologie per lo studio e la   valorizzazione dei beni culturali in aree desertiche
-      
+
     CNR Modulo INT.P10.011.001
     Metodologie per lo studio, ai fini della valorizzazione, dei beni culturali in regioni aride, datazioni, rilevamento radon
-      
+
     CNR Modulo INT.P10.011.002
     Relazioni tra beni culturali e territorio in ambienti aridi: idrogeologi
 
@@ -211,3 +211,4 @@ Navigazione articoli {#navigazione-articoli .screen-reader-text}
 [← Articoli più vecchi](index018a.html?cat=9&paged=9)
 
 [Articoli più recenti →](indexe407.html?cat=9&paged=7)
+

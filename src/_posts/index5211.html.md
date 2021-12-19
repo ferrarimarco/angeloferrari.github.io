@@ -27,3 +27,4 @@ TEMATICHE (Ipotesi)
 -   Proposte per la valorizzazione culturale degli antichi percorsi, attraversati da nuovi itinerari di fruizione, e della archeologia tratturale: vie, macereti, ponti, luoghi di sosta, stazi, chiese, locande, mercati, fiere, ecc.
 
 [Chat del 16 marzo 2017](indexd13e.html?p=719 "Permalink a Progetto Tratturi 2015")[Progetti](index0b40.html?cat=9)[Tratturo](index5211.html?tag=tratturo)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

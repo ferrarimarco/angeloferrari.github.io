@@ -5,7 +5,7 @@ Archivi tag: SMI {#archivi-tag-smi .archive-title}
 ===============================================
 
 **Progetto Bando SMI 2006**\
-I dati attualmente contenuti nella banca dati per tutta l'Italia riferita a ricercatori ed Imprese sono 13.513 e si riferiscono al periodo 1997 --  2001. La presente proposta tende ad aggiornare la situazione delle Imprese nel Lazio e nello stesso tempo a introdurre dati che in quel periodo non erano disponibili: l'aggiornamento principale riguarderà l'indicazione del numero dei dipendenti, il fatturato medio degli ultimi tre anni e la liberatoria per il trattamento dei dati sensibili delle Imprese. Inoltre verranno aggiunti dati utili quali posta elettronica, siti web  ed ogni altro dato che indica le attività attualmente in corso.
+I dati attualmente contenuti nella banca dati per tutta l'Italia riferita a ricercatori ed Imprese sono 13.513 e si riferiscono al periodo 1997 --  2001. La presente proposta tende ad aggiornare la situazione delle Imprese nel Lazio e nello stesso tempo a introdurre dati che in quel periodo non erano disponibili: l'aggiornamento principale riguarderà l'indicazione del numero dei dipendenti, il fatturato medio degli ultimi tre anni e la liberatoria per il trattamento dei dati sensibili delle Imprese. Inoltre verranno aggiunti dati utili quali posta elettronica, siti web  ed ogni altro dato che indica le attività attualmente in corso.
 
 Piano di lavoro:
 
@@ -34,3 +34,4 @@ Proposta per le caratteristiche del Bando:
 [Leggi il Progettp \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-SMI-2006-.pdf)
 
 [Chat del 16 marzo 2017](indexca55.html?p=696 "Permalink a Progetto Bando SMI 2006")[Progetti](index0b40.html?cat=9)[Imprese](index514c.html?tag=imprese), [Portale Anagrafe](indexe42c.html?tag=portale-anagrafe), [SMI](index2560.html?tag=smi)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

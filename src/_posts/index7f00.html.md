@@ -27,3 +27,4 @@ Preparazione di una figura tecnico professionale superiore per la ristorazione e
 Corso di formazione post laurea 2004 -- 2005\
 **Te.S.C.He.T. (A Technology System for Cultural Heritage in Tourism)** \
 Studio di tecnologie innovative per la valorizzazione, la gestione, l'organizzazione e la fruizione dei beni culturali. PON Ricerca MIUR, Settore: Beni Culturali, Tema 9, misura 1.3
+

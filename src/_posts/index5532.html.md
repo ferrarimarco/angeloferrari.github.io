@@ -1,3 +1,4 @@
+
 ![Fucino (30)](wp-content/uploads/2018/11/Fucino-30-604x270.jpg){.attachment-post-thumbnail .wp-post-image width="604" height="270"}
 
 Progetti 1993-2000 {#progetti-1993-2000 .entry-title}
@@ -47,7 +48,7 @@ Progetti 1993-2000 {#progetti-1993-2000 .entry-title}
 
 &nbsp;
 
--   [Progetto Parco di Gabi, 1999; *Soprintendenza archeologica del Comune di Roma*](wp-content/uploads/2018/10/Gabi.pdf)
+-   [Progetto Parco di Gabi, 1999; *Soprintendenza archeologica del Comune di Roma*](wp-content/uploads/2018/10/Gabi.pdf)
 
 &nbsp;
 
@@ -84,3 +85,4 @@ Progetti 1993-2000 {#progetti-1993-2000 .entry-title}
 &nbsp;
 
 -   [Progetto Valorizzazione del Patrimonio Culturale della Regione Calabria 2000](wp-content/uploads/2018/10/CALABRIA-2000.docx)
+

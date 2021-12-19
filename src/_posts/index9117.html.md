@@ -9,3 +9,4 @@ Promozione e nello sviluppo di iniziative di collaborazione tecnico-scientifiche
 Realizzazione di Progetti concernenti l'impiego delle nano tecnologie e dei sistemi robotici nella salvaguardia del patrimonio culturale, con particolare riferimento all'8° Programma Quadro della Commissione Europea Horizon 2020.
 
 [← Progetto CARISPAQ Emissario Fucino 2017](index461a.html?p=854) [Progetto Caracciolo, Marsica 2017 →](index5d95.html?p=863)
+

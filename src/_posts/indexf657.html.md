@@ -1,8 +1,9 @@
+
 Archivi tag: Our Identity {#archivi-tag-our-identity .archive-title}
 =========================
 
 [Progetto H2020 Our Identity 2015](index4ab5.html?p=786) {#progetto-h2020-our-identity-2015 .entry-title}
-========================================================
+==
 
 [![H2020 Our Identity Logo](wp-content/uploads/2017/03/H2020-Our-Identity-Logo-300x191.jpg){.alignnone .size-medium .wp-image-789 width="300" height="191"}](wp-content/uploads/2017/03/H2020-Our-Identity-Logo.jpg)
 
@@ -22,3 +23,4 @@ European integration is not only an economic and political process, but a socio-
 [Leggi Progetto H2020 Our Identity 2015 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-H2020-Our-Identity-2015.pdf)
 
 [Chat del 18 marzo 2017](index4ab5.html?p=786 "Permalink a Progetto H2020 Our Identity 2015")[Progetti](index0b40.html?cat=9)[Europa](index4779.html?tag=europa), [H2020](index3914.html?tag=h2020), [Immigrazione](index32ae.html?tag=immigrazione), [Our Identity](indexf657.html?tag=our-identity), [UE](index3f45.html?tag=ue)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

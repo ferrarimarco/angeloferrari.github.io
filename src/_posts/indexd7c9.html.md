@@ -17,13 +17,13 @@ IRAN -- Collaborazioni {#iran-collaborazioni .entry-title}
 [MINISTERO DEGLI AFFARI ESTERI (Italia)](http://www.esteri.it/mae/it/)\
 [Ambasciata d'Italia a Teheran](http://www.ambteheran.esteri.it/ambasciata_teheran)
 
-** **
+** **
 
 ***Altre collaborazioni***
 
-[UNIVERSITÁ DI MILANO BICOCCA (Italia), Dipartimento di Scienza dei Materiali](http://www.mater.unimib.it/it/index.html)
+[UNIVERSITÁ DI MILANO BICOCCA (Italia), Dipartimento di Scienza dei Materiali](http://www.mater.unimib.it/it/index.html)
 
-[UNIVERSITÁ SAPIENZA ROMA, Dipartimento di Scienze della Terra](http://www.dst.uniroma1.it/)
+[UNIVERSITÁ SAPIENZA ROMA, Dipartimento di Scienze della Terra](http://www.dst.uniroma1.it/)
 
 PROVINCIA DI SHAHROOD (Iran)
 
@@ -40,3 +40,4 @@ COMUNE DI IBRAIM ABAD (Iran)
 [Chat del 2 marzo 2017](indexd7c9.html?p=215 "Permalink a IRAN – Collaborazioni")[Progetti](index0b40.html?cat=9)[Iran](index4241.html?tag=iran), [Qanat](index339d.html?tag=qanat)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← IRAN -- Team](indexcb89.html?p=204) [IRAN -- Pubblicazioni →](index0133.html?p=236)
+

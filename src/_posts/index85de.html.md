@@ -3,7 +3,7 @@
 Mostre {#mostre .entry-title}
 ======
 
--   **[The qanats in North-East Iran and in the Middle-East areas](wp-content/uploads/2018/11/MOSTRA-2009-Qanat-Iran.pdf)**, 2009. *45 poster riguardanti il confronto tra le diverse tipologie di qanat dell'area medio orientale e iraniana. E' stata esposta presso l'Università Tecnologica di Shahrood in Iran e presso la sede del Comune della stessa città.*
+-   **[The qanats in North-East Iran and in the Middle-East areas](wp-content/uploads/2018/11/MOSTRA-2009-Qanat-Iran.pdf)**, 2009. *45 poster riguardanti il confronto tra le diverse tipologie di qanat dell'area medio orientale e iraniana. E' stata esposta presso l'Università Tecnologica di Shahrood in Iran e presso la sede del Comune della stessa città.*
 
 &nbsp;
 
@@ -44,3 +44,4 @@ Mostre {#mostre .entry-title}
 &nbsp;
 
 -   [**Settimana per i beni culturali e ambientali**, Roma, 1995](wp-content/uploads/2018/10/Mostra-Settimana-BC.docx)
+

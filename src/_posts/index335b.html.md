@@ -6,7 +6,7 @@ Archivi categoria: Foto {#archivi-categoria-foto .archive-title}
 
 [27 febbraio 2018](index95d2.html?p=1587 "Permalink a Valle Roveto")[Foto](index335b.html?cat=155)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Foto](index2e63.html?tag=foto), [Valle Roveto](index79f1.html?tag=valle-roveto)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-##### Piccoli borghi della Valle Roveto
+##### Piccoli borghi della Valle Roveto
 
 [**BALSORANO**](https://www.flickr.com/photos/112554745@N05/albums/72157651157537632)\
 Altitudine 340 m, popolazione 3.484, provincia AQ.\
@@ -14,11 +14,11 @@ Località: [**Balsorano Vecchio**](https://www.flickr.com/photos/112554745@N05/a
 
 [**CANISTRO**](https://www.flickr.com/photos/112554745@N05/albums/72157651177301175/with/16717093242/)\
 Altitudine 554 m, (Canistro Superiore 865 m), popolazione 982, provincia AQ.\
-Località: [**Canistro Superiore**](https://www.flickr.com/photos/112554745@N05/albums/72157651177301175/with/16717093242/).
+Località: [**Canistro Superiore**](https://www.flickr.com/photos/112554745@N05/albums/72157651177301175/with/16717093242/).
 
 [**CAPISTRELLO**](https://www.flickr.com/photos/112554745@N05/albums/72157651172970662)\
 Altitudine 734 m, popolazione 5.168, provincia AQ.\
-Località: [**Corcumello**](https://www.flickr.com/photos/112554745@N05/albums/72157648862212153), [**Pescocanale**](https://www.flickr.com/photos/112554745@N05/albums/72157650768547049).
+Località: [**Corcumello**](https://www.flickr.com/photos/112554745@N05/albums/72157648862212153), [**Pescocanale**](https://www.flickr.com/photos/112554745@N05/albums/72157650768547049).
 
 [**CIVITA D'ANTINO**](https://www.flickr.com/photos/112554745@N05/albums/72157650730014127)\
 Altitudine 940 m, popolazione 1.011, provincia AQ.\
@@ -28,22 +28,22 @@ Località: Case Mattei, Civita d'Antino Scalo, Capone, Pero dei Santi, Triano.
 Altitudine 528 m, popolazione 3.181, provincia AQ.\
 Località: Meta.
 
- 
+
 
 [Marsica](index09e5.html?p=1576) {#marsica .entry-title}
 ================================
 
 [26 febbraio 2018](index09e5.html?p=1576 "Permalink a Marsica")[Foto](index335b.html?cat=155)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Foto](index2e63.html?tag=foto), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-##### Piccoli borghi della Marsica
+##### Piccoli borghi della Marsica
 
 [**AIELLI**](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308)\
 Altitudine 1.045 m, popolazione 1.473 abitanti, provincia AQ.\
-Località: **[Aielli Stazione](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308), **[**Borgo Sardellino**.](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308)
+Località: **[Aielli Stazione](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308), **[**Borgo Sardellino**.](https://www.flickr.com/photos/112554745@N05/albums/72157650760109308)
 
 AVEZZANO\
 Altitudine 695 m, popolazione 42.528, provincia AQ.\
-Località: **[Il castello](https://www.flickr.com/photos/112554745@N05/albums/72157653332815855), [Antrosano](https://www.flickr.com/photos/112554745@N05/albums/72157651156707272), [Caruscino,](https://www.flickr.com/photos/112554745@N05/albums/72157690873295312)[ Castel Nuovo](https://www.flickr.com/photos/112554745@N05/albums/72157652909235259), [Cese dei Marsi](https://www.flickr.com/photos/112554745@N05/albums/72157650710716487),  [Paterno](https://www.flickr.com/photos/112554745@N05/albums/72157650711040457), [San Pelino](https://www.flickr.com/photos/112554745@N05/albums/72157648846555393), [Borgo Incile](https://www.flickr.com/photos/112554745@N05/albums/72157650710776117), [Borgo Via Nuova](https://www.flickr.com/photos/112554745@N05/albums/72157648836570134).**
+Località: **[Il castello](https://www.flickr.com/photos/112554745@N05/albums/72157653332815855), [Antrosano](https://www.flickr.com/photos/112554745@N05/albums/72157651156707272), [Caruscino,](https://www.flickr.com/photos/112554745@N05/albums/72157690873295312)[ Castel Nuovo](https://www.flickr.com/photos/112554745@N05/albums/72157652909235259), [Cese dei Marsi](https://www.flickr.com/photos/112554745@N05/albums/72157650710716487),  [Paterno](https://www.flickr.com/photos/112554745@N05/albums/72157650711040457), [San Pelino](https://www.flickr.com/photos/112554745@N05/albums/72157648846555393), [Borgo Incile](https://www.flickr.com/photos/112554745@N05/albums/72157650710776117), [Borgo Via Nuova](https://www.flickr.com/photos/112554745@N05/albums/72157648836570134).**
 
 [**CAPPADOCIA**](https://www.flickr.com/photos/112554745@N05/albums/72157651173708832)\
 Altitudine 1.108 m, popolazione 533, provincia AQ.\
@@ -88,3 +88,4 @@ Località:
 X\
 Altitudine m, popolazione , provincia AQ.\
 Località:
+

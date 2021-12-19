@@ -26,3 +26,4 @@ TEMATICHE (Ipotesi)
 [Chat del 16 marzo 2017](indexd13e.html?p=719 "Permalink a Progetto Tratturi 2015")[Progetti](index0b40.html?cat=9)[Tratturo](index5211.html?tag=tratturo)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Progetto EUR Civiltà Italiana 2005](index5d09.html?p=704) [Progetto IUAV Venezia 2003 →](index66f9.html?p=729)
+

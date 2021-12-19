@@ -2,7 +2,7 @@ Archivi tag: FIRB {#archivi-tag-firb .archive-title}
 =================
 
 [Progetto CULTURAL HERITAGE ITALIA CINA 2005](indexc74d.html?p=579) {#progetto-cultural-heritage-italia-cina-2005 .entry-title}
-===================================================================
+=============
 
 **Progetto CULTURAL HERITAGE ITALIA CINA 2005**
 
@@ -17,11 +17,11 @@ The proposed steps are the following:
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CULTURAL-HERITAGE-ITALIA-CINA-2005.pdf)
 
- 
 
-         中意两国文化遗产合作项目建议\
+
+         中意两国文化遗产合作项目建议\
 第一项建议\
-       建立中意两国文化遗产网站。.\
+       建立中意两国文化遗产网站。.\
 由中意两国技术和研究人员共同研究和利用双方在文化遗产领域方面取得的经验。尤其是意方在地中海区域已经开发的这类网站对双方将要展开的共同的活动颇有益处。\
 欧洲国家对文化遗产领域中运用的科学和技术投入了大量的人力、资金，这方面的投资来自中央政府、市政府和大区。\
 明智的投资方式意味着正确地进行分析并进行文物修复。\
@@ -35,11 +35,11 @@ The proposed steps are the following:
 
 1 全国性的资料\
 2 Hub 全国资料中心\
-B-  欧洲分布点\
+B-  欧洲分布点\
 欧洲分布点有威尼斯、意大利。\
 为了加强信息的传入，网站使用31种语言，它们是阿尔巴尼亚语、阿拉伯语、保加利亚语、克罗地亚语、捷克语、丹麦语、犹太语、爱沙尼亚语、芬兰语、法语、希腊语、英语、意大利语、拉丁语、拉脱维亚语、马耳他语、挪威语、荷兰语、波兰语、葡萄牙语、罗马尼亚语、俄语、塞尔维亚语、斯洛文尼亚语、斯洛伐克语、西班牙语、瑞典语、德语、土耳其语和匈牙利语。
 
- 这些网站目前正在试用阶段的有:\
+ 这些网站目前正在试用阶段的有:\
 Eachmed-General 备有文化遗产方面的信息。\
 Eachmed2 备有书面材料\
 Eachmed3 备有多媒体资料\
@@ -47,10 +47,10 @@ Eachmed4 正在筹备中，服务对象是年轻人\
 Eachmed5 正在筹备中，服务对象是残疾人。\
 在它第一年试用期间，有七十多万页资料被查阅，有一万九千人查询，其中50%是意大利人，22%是美国人，5%是中国人，5%是日本人，目前只有意文部分筹备完毕。
 
- 对中意两国开展共同研究的建议:\
+ 对中意两国开展共同研究的建议:\
 借鉴中意两国文化遗产领域的专家的经验，我们建议建立一个文化遗产领域的中意两国共同使用的网站:它包括两国在文化遗产方面的技术研究和发展，使用中、意、英三种文字。\
- \
-       第二项建议\
+ \
+       第二项建议\
 高空勘查古建筑\
 不仅要了解那些著名的考古资源并进行管理，同时要对那些还没有发现的考古资源进行辨别和管理，这是极为重要的。\
 传统的调查研究方式，无论从时间上还是成本上都具有很大的局限性。应此有必要进行考古项目的研究以及对已存在的考古项目的不勘测。\
@@ -59,13 +59,13 @@ Eachmed5 正在筹备中，服务对象是残疾人。\
 我们也不要低估在卫星上安装的越来越精细的制图仪器和照像仪器，通过智能软件，来进行分析阅读。Cosmo SkyMed 卫星上的扫描装置，它是以SAR的技术为基础，可以增加卫星勘测及对考古项目的辨别及监测。\
 雷达提供的数据也对这类勘测活动发挥了不少优势，它 在任何气候条件和夜晚都能具有良勘测的能力。
 
- 对中意两国开展共同研究的建议:\
+ 对中意两国开展共同研究的建议:\
 以中国和意大利经验为基础:
 
 -   发展新的卫星技术并不断地加以完善，辨别和检测双方考古项目和古建筑。这一技术的运用也将推广到使用中国和意大利发射的卫星的国家。
 -   采用新的信息系统技术来处理古代丰富的历史资料。
 
- 第三项建议\
+ 第三项建议\
 壁画\
 保存壁画是一种挑战: 壁画是由多孔的材料组成，含有可溶性的盐，如果没有气温控制，壁画的保存会十分困难的。\
 大部分壁画是由易分解的化合物如陶土和其它对湿度、对气候条件特别敏感的泥土物质组成。\
@@ -74,7 +74,7 @@ Eachmed5 正在筹备中，服务对象是残疾人。\
 在中国使用泥土来保存壁画，有许多国际机构对此方法进行了研究。\
 建议中意双方共同研究的项目
 
- 我们建议双方搞一个共同项目，利用我们在这一领域的知识和经验与我们的中国同事一起参与保护壁画的活动，互相提供宝贵的经验并和其它国际机构进行合作，找出保护中国珍贵文化遗产的恰当和可靠的办法。
+ 我们建议双方搞一个共同项目，利用我们在这一领域的知识和经验与我们的中国同事一起参与保护壁画的活动，互相提供宝贵的经验并和其它国际机构进行合作，找出保护中国珍贵文化遗产的恰当和可靠的办法。
 
 [Chat del 13 marzo 2017](indexc74d.html?p=579 "Permalink a Progetto CULTURAL HERITAGE ITALIA CINA 2005")[Progetti](index0b40.html?cat=9)[Beni Culturali](index883e.html?tag=beni-culturali), [Cina](index26c3.html?tag=cina), [FIRB](index7342.html?tag=firb)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -99,11 +99,11 @@ Particular attention will be devoted to the use of various languages. Special in
 [Chat del 13 marzo 2017](indexa1e2.html?p=573 "Permalink a Progetto FIRB VIDEOGAMES 2005")[Progetti](index0b40.html?cat=9)[FIRB](index7342.html?tag=firb), [Videogames](indexecbf.html?tag=videogames)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Progetto FIRB EuroMed Cooperation 2005](index9f0a.html?p=371) {#progetto-firb-euromed-cooperation-2005 .entry-title}
-==============================================================
+========
 
-MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA Dipartimento per la Programmazione il Coordinamento e gli Affari Economici Servizio per lo sviluppo e il Potenziamento delle Attività di ricerca (SSPAR) FIRB RBNE03JZEY Programma Strategico: Scienze umane, economiche e sociali. Progetto Obiettivo: La cooperazione euromediterranea. Risultati attesi: Nuovi modelli e tecnologie inerenti il rapporto tra Pubblica Amministrazione, cittadini, imprese nei paesi del Mediterraneo.
+MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITÀ E DELLA RICERCA Dipartimento per la Programmazione il Coordinamento e gli Affari Economici Servizio per lo sviluppo e il Potenziamento delle Attività di ricerca (SSPAR) FIRB RBNE03JZEY Programma Strategico: Scienze umane, economiche e sociali. Progetto Obiettivo: La cooperazione euromediterranea. Risultati attesi: Nuovi modelli e tecnologie inerenti il rapporto tra Pubblica Amministrazione, cittadini, imprese nei paesi del Mediterraneo.
 
-**Progetto** **EUROMED COOPERATION Pubblica Amministrazione, Impresa, Cittadino. **
+**Progetto** **EUROMED COOPERATION Pubblica Amministrazione, Impresa, Cittadino. **
 
 Il Progetto, nell'ambito della cooperazione Euromediterranea inerente i rapporti fra pubblica Amministrazione, imprese e cittadini si propone di studiare i seguenti aspetti: A) cittadinanza e immigrazione; B) nuove tecnologie di comunicazione; C) investimenti diretti esteri; D) valutazione delle risorse latenti ai fini dello sviluppo; E) documentazione dei risultati.
 
@@ -120,3 +120,4 @@ Il Progetto, nell'ambito della cooperazione Euromediterranea inerente i rapporti
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/FIRB-EuroMed-Cooperation.pdf)
 
 [Chat del 7 marzo 2017](index9f0a.html?p=371 "Permalink a Progetto FIRB EuroMed Cooperation 2005")[Progetti](index0b40.html?cat=9)[FIRB](index7342.html?tag=firb), [Pubblica Amministrazione](index5b9b.html?tag=pubblica-amministrazione)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

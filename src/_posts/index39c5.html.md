@@ -15,7 +15,7 @@ La ricchezza culturale di un territorio nasce da una combinazione di elementi ta
     -   Messa a disposizione di informazioni derivate dal controllo e monitoraggio in grado di indirizzare gli interventi e di verificarne la efficacia;
 -   Applicazione di criteri di protezione e sicurezza dei beni esposti al pubblico;
     -   Identificazione e messa in opera di strumenti di protezione dei beni (non invasivi e nel rispetto di regole di privacy comune) da atti vandalici o furti in grado di generare allarmi convogliati in un centro di monitoraggio;
-    -   Educazione/formazione dei componenti delle comunità riguardo il valore ed il significato dei singoli beni culturali e loro responsabilizzazione riguardo le  diverse forme di condivisione alla loro protezione/tutela in modo partecipato e diffuso;
+    -   Educazione/formazione dei componenti delle comunità riguardo il valore ed il significato dei singoli beni culturali e loro responsabilizzazione riguardo le  diverse forme di condivisione alla loro protezione/tutela in modo partecipato e diffuso;
 -   Creazione di un modello di fruizione multimediale e multidisciplinare;
     -   Costruzione di una rappresentazione unitaria del patrimonio culturale di un territorio finalizzata alla possibilità di offrire una lettura contestualizzata e facilmente comprensibile di ciascun elemento che definisce la cultura della comunità;
     -   Aggregazione e ridistribuzione dei dati raccolti attraverso diversi canali di fruizione adattati alla tipologia e alla finalità delle diverse forme di comunicazione dei beni culturali anche in funzione della classe di destinatari, sempre mantenendo la coerenza della visione offerta del territorio;
@@ -27,3 +27,4 @@ La ricchezza culturale di un territorio nasce da una combinazione di elementi ta
 [Chat del 16 marzo 2017](index39c5.html?p=700 "Permalink a Progetto PON Smart Culture 2009")[Progetti](index0b40.html?cat=9)[Marsica](index6ce2.html?tag=marsica), [PON](index0011.html?tag=pon), [Smart Cities](index50a0.html?tag=smart-cities)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Progetto Bando SMI 2006](indexca55.html?p=696) [Progetto EUR Civiltà Italiana 2005 →](index5d09.html?p=704)
+

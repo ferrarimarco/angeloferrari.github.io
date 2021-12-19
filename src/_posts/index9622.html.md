@@ -3,7 +3,7 @@
 
 [16 ottobre 2018](indexd21a.html?p=1648 "Permalink a Progetto Ninpha 2003")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Beni Culturali](index883e.html?tag=beni-culturali), [Ninpha](indexe9a6.html?tag=ninpha)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-**Progetto Ninpha 2003**\
+**Progetto Ninpha 2003**\
 Accordo Tecnico -- Scientifico\
 Partner:\
 CNR, Progetto Finalizzato beni Culturali\
@@ -12,20 +12,20 @@ Obiettivi:\
 Promuovere modelli innovativi di intervento nel settore dei beni culturali, sia per quanto riguarda le iniziative che i contenuti. Migliorare il raccordo programmatico con quegli Enti che hanno competenza in materia di politiche culturali. Realizzare sistemi informativi integrati che consentano di allargare la propria sfera di azione per migliorare la valorizzazione di culture e identità locali. promuovere e sostenere la realizzazione di progetti, nazionali ed internazionali, prestando collaborazione alle procedure gestionali e per il trasferimento tecnologico. Sostenere le attività per la creazione di inprese con particolare riferimento a iniziative di spin-off.
 
 [Progetto San Servolo Venezia 2004](index52fb.html?p=1644) {#progetto-san-servolo-venezia-2004 .entry-title}
-==========================================================
+====
 
 [16 ottobre 2018](index52fb.html?p=1644 "Permalink a Progetto San Servolo Venezia 2004")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Mestieri](index49dd.html?tag=mestieri), [San Servolo](indexb899.html?tag=san-servolo), [Venezia](index05f5.html?tag=venezia)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-**Progetto San Servolo Venezia 2004**
+**Progetto San Servolo Venezia 2004**
 
-Accordo tra Il Progetto Finalizzato Beni Culturali del CNR, L'Università di  Venezia IUAV e il Centro Europeo di Venezia per i Mestieri della Conservazione del Patrimonio Architettonico. La finalià dell'intesa consiste nella istallazione nei locali del Centro europeo di San Servolo dell'European Hub Center del portale Eachmed di proprietà del PFNC-CNR.
+Accordo tra Il Progetto Finalizzato Beni Culturali del CNR, L'Università di  Venezia IUAV e il Centro Europeo di Venezia per i Mestieri della Conservazione del Patrimonio Architettonico. La finalià dell'intesa consiste nella istallazione nei locali del Centro europeo di San Servolo dell'European Hub Center del portale Eachmed di proprietà del PFNC-CNR.
 
 [Progetto Palazzo Grassi Venezia 2001](indexe10c.html?p=1640) {#progetto-palazzo-grassi-venezia-2001 .entry-title}
-=============================================================
+=======
 
 [16 ottobre 2018](indexe10c.html?p=1640 "Permalink a Progetto Palazzo Grassi Venezia 2001")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Beni Culturali](index883e.html?tag=beni-culturali), [Formazione](index52c4.html?tag=formazione), [Multimediale](indexff77.html?tag=multimediale), [Palazzo Grassi](indexc2b6.html?tag=palazzo-grassi), [Venezia](index05f5.html?tag=venezia)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-**Progetto Palazzo Grassi Venezia 2001**
+**Progetto Palazzo Grassi Venezia 2001**
 
 PROPOSTA di costituzione di un CENTRO EUROPEO SUL PATRIMONIO CULTURALE.
 
@@ -41,18 +41,18 @@ Università di Padova\
 CNR Progetto Finalizzato Beni Culturali
 
 [Progetto San Giorgio, Venezia 2001](indexe49d.html?p=1636) {#progetto-san-giorgio-venezia-2001 .entry-title}
-===========================================================
+=====
 
 [16 ottobre 2018](indexe49d.html?p=1636 "Permalink a Progetto San Giorgio, Venezia 2001")[Progetti](index0b40.html?cat=9)[Acustica](indexa1b9.html?tag=acustica), [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Beni Culturali](index883e.html?tag=beni-culturali), [San Giorgio](index4a7a.html?tag=san-giorgio), [Venezia](index05f5.html?tag=venezia)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 **Progetto San Giorgio, Venezia 2001**
 
-L'accordo tra il CNR, la Fondazione Scuola di San Giorgio, la Fondazione Cini, la Fondazione Casa di Risparmio di Venezia  e il Comune di Venezia prevede la costituzione di un laboratorio di restauro acustico e di rilievi acustico architettonici presso la sede della Scuola nell'isola di San Giorgio a Venezia.
+L'accordo tra il CNR, la Fondazione Scuola di San Giorgio, la Fondazione Cini, la Fondazione Casa di Risparmio di Venezia  e il Comune di Venezia prevede la costituzione di un laboratorio di restauro acustico e di rilievi acustico architettonici presso la sede della Scuola nell'isola di San Giorgio a Venezia.
 
 Le attività principali previste sono: 1) Lo sviluppo di tecniche e metodologie acustiche applicate ai beni musicali attraverso lo svolgimento di studi teorici e sperimentali sia sugli spazi musicali che sugli strumenti a partire dagli organi e dagli strumenti ad arco. 2) Lo sviluppo di tecniche di elaborazione non lineare su base percettiva del segnale audio e elaborazione di sistemi hardware e software innovativi. 3) L'organizzazione di moduli didattici accreditati per formazione universitaria e professionale. 4) Il trasferimento di conoscenza nel campo della progettazione acustica architettonica e del rilievo acustico dei beni musicali, con l'utilizzo delle tecniche che permettono di integrare la progettazione architettonica con l'acustica. 5) L valorizzazione acustica del restauro di colonne sonore.
 
 [Progetto EACHMED: un sistema di portali interconnessi 2003](index6f5e.html?p=919) {#progetto-eachmed-un-sistema-di-portali-interconnessi-2003 .entry-title}
-==================================================================================
+============================
 
 [20 marzo 2017](index6f5e.html?p=919 "Permalink a Progetto EACHMED: un sistema di portali interconnessi 2003")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Eachmed](indexcf6e.html?tag=eachmed)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -66,7 +66,7 @@ I Portali EACHMED sono stati concepiti, realizzati dal CNR e messi in rete (www.
 [19 marzo 2017](indexbefb.html?p=867 "Permalink a Progetto MIUR AgriCult 2015")[Progetti](index0b40.html?cat=9)[AgriCult](index688d.html?tag=agricult), [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [MIUR](index0aa1.html?tag=miur)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 **Progetto MIUR AgriCult 2015**\
-L'obiettivo principale del progetto è diffondere fra gli studenti la conoscenza di tecnologie e metodologie scientifiche di avanguardia nel settore agroalimentare e in quello della valorizzazione del territorio. Si intende inoltre favorire l'incontro fra i giovani e il mondo della ricerca sia per permettere l'acquisizione di conoscenze avanzate ed innovative, sia per poter apprezzare opportunamente l'approccio scientifico e le soluzioni tecniche impiegate per raggiungere i risultati d'investigazione scientifica. Entrambi gli approcci, integrati da opportune attività di formazione, consentiranno l'acquisizione di conoscenze e competenze in grado di valorizzare la qualificazione degli studenti coinvolti nell'attività, per favorire il loro successivo inserimento nel mondo del lavoro.\
+L'obiettivo principale del progetto è diffondere fra gli studenti la conoscenza di tecnologie e metodologie scientifiche di avanguardia nel settore agroalimentare e in quello della valorizzazione del territorio. Si intende inoltre favorire l'incontro fra i giovani e il mondo della ricerca sia per permettere l'acquisizione di conoscenze avanzate ed innovative, sia per poter apprezzare opportunamente l'approccio scientifico e le soluzioni tecniche impiegate per raggiungere i risultati d'investigazione scientifica. Entrambi gli approcci, integrati da opportune attività di formazione, consentiranno l'acquisizione di conoscenze e competenze in grado di valorizzare la qualificazione degli studenti coinvolti nell'attività, per favorire il loro successivo inserimento nel mondo del lavoro.\
 A riguardo è opportuno considerare che il "made in Italy" agroalimentare è uno dei settori più produttivi e dinamici dell'economia italiana, rappresentando circa il 15% del PIL ed anche che l'esportazione di prodotti alimentari italiani all'estero ha registrato negli ultimi anni un netto aumento. All'interno del macro settore agro-alimentare, trovano spazio diversi segmenti operativi come la lavorazione dei prodotti alimentari e dei loro derivati. Il controllo delle produzioni agroalimentari si riflettono sulla tutela della qualità dell'ambiente e sulla valorizzazione turistica. E' chiaro che in questo ambito potranno trovare interesse ed utilità le azioni proposte dagli Istituti Agrari inclusi nel progetto, che dispongono di adeguata cultura tecnico scientifica. La scopo del seguente progetto mira ad esaltare l'importanza della diffusione della cultura tecnico scientifica quale fattore fondamentale nello sviluppo delle società più avanzate. L'utilizzo sempre più vasto di strumenti e tecniche derivanti dalla ricerca scientifica, guida e condiziona la produzione di beni quali quelle agroalimentari, attività fondamentali che no il profilo professionale del perito agrario. Si cercherà di porre in risalto come scelte fatte all'interno di un ristretto numero di specialisti comportino una più ampia ricaduta sia sullo stato di salute dell'ambiente, sia su quello dei consumatori di tali prodotti sottolineando quindi una funzione "etica" collegata ai processi produttivi apparentemente aridi e meccanicistici e collegandosi alle buone pratiche sviluppate nei paesi più progrediti, ma anche in alcune aree italiane, che si inquadrano nel cluster del "Corporate Social Responsibility". Tali attività sono importanti non solo per l'ovvio valore culturale e civico, ma anche per le immediate ricadute commerciali ed economiche sulle aziende che le implementano.\
 Il progetto studierà come attraverso l'utilizzo di tecnologie complesse si possano:\
 1. Realizzare produzioni di qualità nella filiera agroalimentare.\
@@ -74,12 +74,12 @@ Il progetto studierà come attraverso l'utilizzo di tecnologie complesse si poss
 3. Contribuire a diffondere la cultura della legalità nei processi produttivi di alimenti,\
 fondamentali nel benessere dei consumatori.\
 Si vuole promuovere un'esperienza innovativa che possa integrarsi opportunamente con i\
-tradizionali sistemi didattici, in modo da fornire un effettivo valore aggiunto alle competenze e conoscenze che delineano la qualificazione degli studenti coinvolti nel progetto. Il progetto dedica, fin dall'inizio, un'attenzione particolare alla divulgazione dei risultati. Non si ha alcun interesse a realizzare un'attività sporadica, al contrario l'ambizione è quella di operare insieme per mettere a punto una buona pratica di cui fruiranno nell'immediato gli studenti ed i docenti che vi parteciperanno attivamente, ma che sarà a disposizione sia metodologicamente, sia contenutisticamente per altre esperienze consimili.
+tradizionali sistemi didattici, in modo da fornire un effettivo valore aggiunto alle competenze e conoscenze che delineano la qualificazione degli studenti coinvolti nel progetto. Il progetto dedica, fin dall'inizio, un'attenzione particolare alla divulgazione dei risultati. Non si ha alcun interesse a realizzare un'attività sporadica, al contrario l'ambizione è quella di operare insieme per mettere a punto una buona pratica di cui fruiranno nell'immediato gli studenti ed i docenti che vi parteciperanno attivamente, ma che sarà a disposizione sia metodologicamente, sia contenutisticamente per altre esperienze consimili.
 
 [Leggi Progetto MIUR AgriCult 2015 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-MIUR-AgriCult-2015.pdf)
 
 [Progetto Caracciolo, Marsica 2017](index5d95.html?p=863) {#progetto-caracciolo-marsica-2017 .entry-title}
-=========================================================
+===
 
 [19 marzo 2017](index5d95.html?p=863 "Permalink a Progetto Caracciolo, Marsica 2017")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Caracciolo](index7669.html?tag=caracciolo), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -90,7 +90,7 @@ Ipotesi per lo studio e ricostruzione di antichi paesaggi della Marsica attraver
 
 [![Caracciolo Piani Palentini RIDb](wp-content/uploads/2017/03/Caracciolo-Piani-Palentini-RIDb.jpg){.alignnone .size-full .wp-image-861 width="1000" height="435"}](wp-content/uploads/2017/03/Caracciolo-Piani-Palentini-RIDb.jpg)
 
- 
+
 
 [Progetto AIC 2013](index9117.html?p=858) {#progetto-aic-2013 .entry-title}
 =========================================
@@ -103,7 +103,7 @@ Promozione e nello sviluppo di iniziative di collaborazione tecnico-scientifiche
 Realizzazione di Progetti concernenti l'impiego delle nano tecnologie e dei sistemi robotici nella salvaguardia del patrimonio culturale, con particolare riferimento all'8° Programma Quadro della Commissione Europea Horizon 2020.
 
 [Progetto CARISPAQ Emissario Fucino 2017](index461a.html?p=854) {#progetto-carispaq-emissario-fucino-2017 .entry-title}
-===============================================================
+=========
 
 [19 marzo 2017](index461a.html?p=854 "Permalink a Progetto CARISPAQ Emissario Fucino 2017")[Progetti](index0b40.html?cat=9)[Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -113,7 +113,7 @@ L'aspetto principale dell'iniziativa sarà la conoscenza visiva di una straordin
 [Leggi Progetto CARISPAQ Emissario Fucino 2017 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CARISPAQ-Emissario-Fucino-2017-RID.pdf)
 
 [Progetto CARISPAQ Emissario 2016](indexfe6b.html?p=850) {#progetto-carispaq-emissario-2016 .entry-title}
-========================================================
+==
 
 [19 marzo 2017](indexfe6b.html?p=850 "Permalink a Progetto CARISPAQ Emissario 2016")[Progetti](index0b40.html?cat=9)[Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino), [Marsica](index6ce2.html?tag=marsica)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -129,3 +129,4 @@ Navigazione articoli {#navigazione-articoli .screen-reader-text}
 [← Articoli più vecchi](index3c19.html?cat=9&paged=3)
 
 [Articoli più recenti →](index0b40.html?cat=9)
+

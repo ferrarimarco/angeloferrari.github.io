@@ -3,10 +3,10 @@
 Missioni principali {#missioni-principali .entry-title}
 ===================
 
-• 2019, Firenze, Convegno ICHAJ Italia-Giordania   \
-• 2019, Giordania, Insediamenti romani oltre il fiume Giordano\
-• 2019, Fucino, Piante spontanee di supporto all'agricoltura\
-• 2019, Avezzano, Studio dello stato delle pareti dell'emissario Claudio-Torlonia
+• 2019, Firenze, Convegno ICHAJ Italia-Giordania   \
+• 2019, Giordania, Insediamenti romani oltre il fiume Giordano\
+• 2019, Fucino, Piante spontanee di supporto all'agricoltura\
+• 2019, Avezzano, Studio dello stato delle pareti dell'emissario Claudio-Torlonia
 
 • 2018, Gorizia, Conferenza annuale ASIAC, Studio dell'Asia centrale e del Causaso\
 • 2018, Borrello (CH), Insediamenti arcaici del Montalto\
@@ -79,7 +79,7 @@ Missioni principali {#missioni-principali .entry-title}
 • 2009, L'aquila, Corso di formazione universitaria\
 • 2009, Giordania, Forra di Abu Maktub\
 • 2009, Iran, Qanat del deserto del Kabvir\
-• 2009, Cairo, 4th International Congress on: Science and technology for the safeguard of        cultural heritage
+• 2009, Cairo, 4th International Congress on: Science and technology for the safeguard of        cultural heritage
 
 • 2008, Bari, Presentazione portale immigrazione\
 • 2008, Iran, Università Tecnologica di Shahrood
@@ -177,3 +177,4 @@ Missioni principali {#missioni-principali .entry-title}
 • 1996, Vienna, Progetto UE Eurocare
 
 • 1995, Catania, 1st International Congress on: Science and technology for the safeguard of cultural heritage in the Mediterranean basin
+

@@ -12,3 +12,4 @@ Le attività dell'AIC e del Progetto MNEMO saranno svolte da specialisti informa
 [Chat del 14 marzo 2017](index4494.html?p=612 "Permalink a Progetto AIC ISMU 2007")[Progetti](index0b40.html?cat=9)[AIC](indexfd92.html?tag=aic), [Immigrazione](index32ae.html?tag=immigrazione), [ISMU](index152b.html?tag=ismu), [MNEMO](index7027.html?tag=mnemo)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Progetto IAEA Radon 2008](indexce2e.html?p=606) [Progetto ISPESL 2007 →](index8372.html?p=616)
+

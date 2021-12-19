@@ -2,7 +2,7 @@ Archivi tag: Salute {#archivi-tag-salute .archive-title}
 ===================
 
 [Progetto ALTERNANZA SCUOLA LAVORO 2017](index08ac.html?p=1686) {#progetto-alternanza-scuola-lavoro-2017 .entry-title}
-===============================================================
+=========
 
 [17 ottobre 2018](index08ac.html?p=1686 "Permalink a Progetto ALTERNANZA SCUOLA LAVORO 2017")[Progetti](index0b40.html?cat=9)[Ambiente](indexa6a7.html?tag=ambiente), [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Beni Culturali](index883e.html?tag=beni-culturali), [Salute](index5a90.html?tag=salute), [Scuola](index2953.html?tag=scuola)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
@@ -49,3 +49,4 @@ Ciascun gruppo di lavoro
 Ciascun gruppo di lavoro illustra a compagni e docenti i risultati della visita dell'approfondimento del gruppo di lavoro.\
 Saranno invitati i ricercatori del IMC -- CNR (Pietro Ragni, Piero Ciccioli e Paolo Ciccioli) a partecipare ed illustrare alcuni loro progetti in essere.\
 Al termine delle presentazioni i gruppi mostreranno i loro elaborati che raccontano l'intera esperienza.
+

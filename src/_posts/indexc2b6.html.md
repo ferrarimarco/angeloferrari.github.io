@@ -2,11 +2,11 @@ Archivi tag: Palazzo Grassi {#archivi-tag-palazzo-grassi .archive-title}
 ===========================
 
 [Progetto Palazzo Grassi Venezia 2001](indexe10c.html?p=1640) {#progetto-palazzo-grassi-venezia-2001 .entry-title}
-=============================================================
+=======
 
 [16 ottobre 2018](indexe10c.html?p=1640 "Permalink a Progetto Palazzo Grassi Venezia 2001")[Progetti](index0b40.html?cat=9)[Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [Beni Culturali](index883e.html?tag=beni-culturali), [Formazione](index52c4.html?tag=formazione), [Multimediale](indexff77.html?tag=multimediale), [Palazzo Grassi](indexc2b6.html?tag=palazzo-grassi), [Venezia](index05f5.html?tag=venezia)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
-**Progetto Palazzo Grassi Venezia 2001**
+**Progetto Palazzo Grassi Venezia 2001**
 
 PROPOSTA di costituzione di un CENTRO EUROPEO SUL PATRIMONIO CULTURALE.
 
@@ -20,3 +20,4 @@ Università di Venezia IUAV\
 Università di Venezia Ca' Foscari\
 Università di Padova\
 CNR Progetto Finalizzato Beni Culturali
+

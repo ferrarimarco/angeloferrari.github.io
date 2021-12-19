@@ -48,3 +48,4 @@ Saranno invitati i ricercatori del IMC -- CNR (Pietro Ragni, Piero Ciccioli e Pa
 Al termine delle presentazioni i gruppi mostreranno i loro elaborati che raccontano l'intera esperienza.
 
 [← Progetto ARTE DEL RESTAURO 2004](index3f68.html?p=1681) [Progetto CHEST Cultural and Natural Heritage: a base for a Sustainable Tourism →](index4e02.html?p=1743)
+

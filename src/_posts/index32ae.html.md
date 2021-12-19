@@ -2,7 +2,7 @@ Archivi tag: Immigrazione {#archivi-tag-immigrazione .archive-title}
 =========================
 
 [Progetto H2020 Our Identity 2015](index4ab5.html?p=786) {#progetto-h2020-our-identity-2015 .entry-title}
-========================================================
+==
 
 [![H2020 Our Identity Logo](wp-content/uploads/2017/03/H2020-Our-Identity-Logo-300x191.jpg){.alignnone .size-medium .wp-image-789 width="300" height="191"}](wp-content/uploads/2017/03/H2020-Our-Identity-Logo.jpg)
 
@@ -24,17 +24,17 @@ European integration is not only an economic and political process, but a socio-
 [Chat del 18 marzo 2017](index4ab5.html?p=786 "Permalink a Progetto H2020 Our Identity 2015")[Progetti](index0b40.html?cat=9)[Europa](index4779.html?tag=europa), [H2020](index3914.html?tag=h2020), [Immigrazione](index32ae.html?tag=immigrazione), [Our Identity](indexf657.html?tag=our-identity), [UE](index3f45.html?tag=ue)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [Progetto PRIN Immigrazione 2009](indexff9b.html?p=684) {#progetto-prin-immigrazione-2009 .entry-title}
-=======================================================
+=
 
 **Progetto PRIN Immigrazione 2009**
 
-**Progetto per la realizzazione di un portale internet dedicato alle problematiche economico giuridiche su cittadinanza e immigrazione.**\
+**Progetto per la realizzazione di un portale internet dedicato alle problematiche economico giuridiche su cittadinanza e immigrazione.**\
 **Preparation of an Internet portal devoted to economic and legal problems**\
 **concerning citizenship and immigration.**
 
-Creare uno portale internet quale strumento informatico flessibile che consenta di facilitare l'accesso alle informazioni fra le varie Unità di Ricerca su cittadinanza, diritto degli stranieri e immigrazione rendendo pubblici i risultati degli studi in modo da consentire a cittadini italiani e immigrati di conoscere lo sviluppo delle problematiche. Pubblicare i dati economici relativi al fenomeno migratorio e consentire uno scambio pubblico di informazione mediante un Forum sul portale.
+Creare uno portale internet quale strumento informatico flessibile che consenta di facilitare l'accesso alle informazioni fra le varie Unità di Ricerca su cittadinanza, diritto degli stranieri e immigrazione rendendo pubblici i risultati degli studi in modo da consentire a cittadini italiani e immigrati di conoscere lo sviluppo delle problematiche. Pubblicare i dati economici relativi al fenomeno migratorio e consentire uno scambio pubblico di informazione mediante un Forum sul portale.
 
-To elaborate an internet portal as a flexible tool to facilitate access to information among the other Research Units on citizenship, immigration, foreigners Rights and to inform public opinion on the results of these studies in order to give access to everybody to follow the development of the research. To issue economic data concerning the migration phenomena with a specific Forum.
+To elaborate an internet portal as a flexible tool to facilitate access to information among the other Research Units on citizenship, immigration, foreigners Rights and to inform public opinion on the results of these studies in order to give access to everybody to follow the development of the research. To issue economic data concerning the migration phenomena with a specific Forum.
 
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-PRIN-Immigrazione-2009.pdf)
 
@@ -62,3 +62,4 @@ Le attività dell'AIC e del Progetto MNEMO saranno svolte da specialisti informa
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-AIC-ISMU-2007.pdf)
 
 [Chat del 14 marzo 2017](index4494.html?p=612 "Permalink a Progetto AIC ISMU 2007")[Progetti](index0b40.html?cat=9)[AIC](indexfd92.html?tag=aic), [Immigrazione](index32ae.html?tag=immigrazione), [ISMU](index152b.html?tag=ismu), [MNEMO](index7027.html?tag=mnemo)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

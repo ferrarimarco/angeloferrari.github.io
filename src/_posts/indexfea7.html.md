@@ -47,7 +47,7 @@ Report {#report .entry-title}
 
 &nbsp;
 
--   *2^a^ Relazione Annuale 1998:  Progetto Finalizzato Beni Culturali*\
+-   *2^a^ Relazione Annuale 1998:  Progetto Finalizzato Beni Culturali*\
     Volume 1° "Individuazione delle risorse nello spazio e nel tempo"\
     Volume 2° "Diagnosi dello stato di conservazione e metodologie di intervento"\
     Volume 3° "Patrimonio documentale e librario -- Archivio biologico e antropologico"\
@@ -59,7 +59,7 @@ Report {#report .entry-title}
 
 &nbsp;
 
--   *1^a^ Relazione Annuale 1997:  Progetto Finalizzato Beni Culturali* Volume 1° "Individuazione delle risorse nello spazio e nel tempo"\
+-   *1^a^ Relazione Annuale 1997:  Progetto Finalizzato Beni Culturali* Volume 1° "Individuazione delle risorse nello spazio e nel tempo"\
     Volume 2° "Diagnosi dello stato di conservazione e metodologie di intervento"\
     Volume 3° "Patrimonio documentale e librario -- Archivio biologico e antropologico"\
     Volume 4° "Museologia e Museografia"
@@ -82,7 +82,7 @@ Report {#report .entry-title}
 
 &nbsp;
 
--   Indagine sulla partecipazione del CNR ai progetti UE, 1995
+-   Indagine sulla partecipazione del CNR ai progetti UE, 1995
 
 &nbsp;
 
@@ -107,3 +107,4 @@ Report {#report .entry-title}
 &nbsp;
 
 -   Metodologie computerizzate relative ai GIS sui beni culturali, 1994
+

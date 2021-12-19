@@ -24,3 +24,4 @@ In particolare potrebbero essere tenuti in considerazione alcuni spunti di lavor
 [Chat del 11 marzo 2017](index87e8.html?p=491 "Permalink a Progetto OLEOSECOLA 2015")[Progetti](index0b40.html?cat=9)[Olio](index868f.html?tag=olio)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← \_Montalto 2010-2018](indexffa6.html?p=407) [Progetto ARCHAEO SURVEY 2005 →](index5b8d.html?p=498)
+

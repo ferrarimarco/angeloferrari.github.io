@@ -12,3 +12,4 @@ La valorizzazione del patrimonio culturale è uno sforzo complessivo che coinvol
 [Leggi il Progetto \>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CSA-Venezia-2007.pdf)
 
 [Chat del 17 marzo 2017](index00c2.html?p=741 "Permalink a Progetto CSA Venezia 2007")[Progetti](index0b40.html?cat=9)[CSA](index06df.html?tag=csa), [Venezia](index05f5.html?tag=venezia)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+

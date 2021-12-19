@@ -9,3 +9,4 @@ Elaborazione di corsi di formazione a distanza per l'infortunistica e la tutela 
 [Chat del 14 marzo 2017](index8372.html?p=616 "Permalink a Progetto ISPESL 2007")[Progetti](index0b40.html?cat=9)[AIC](indexfd92.html?tag=aic), [Immigrazione](index32ae.html?tag=immigrazione), [ISPESL](indexa287.html?tag=ispesl), [MNEMO](index7027.html?tag=mnemo)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
 
 [← Progetto AIC ISMU 2007](index4494.html?p=612) [Progetto CNR INBC 2008 →](index2c3d.html?p=620)
+

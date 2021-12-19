@@ -9,3 +9,4 @@ L'aspetto principale dell'iniziativa sarà la conoscenza visiva di una straordin
 [Leggi Progetto CARISPAQ Emissario Fucino 2017 \>\>\>\>\>\>\>\>](wp-content/uploads/2017/03/Progetto-CARISPAQ-Emissario-Fucino-2017-RID.pdf)
 
 [← Progetto CARISPAQ Emissario 2016](indexfe6b.html?p=850) [Progetto AIC 2013 →](index9117.html?p=858)
+
