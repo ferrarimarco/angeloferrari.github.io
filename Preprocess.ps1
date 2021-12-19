@@ -8,6 +8,4 @@ Foreach-Object {
     $updatedContent = $From + $content
 
     Set-Content -Path $_.FullName -Value $updatedContent
-
-    Exit
 }

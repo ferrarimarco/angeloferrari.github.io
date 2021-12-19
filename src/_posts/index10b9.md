@@ -1,0 +1,17 @@
+---
+layout: post
+date: 9999-01-01
+title:
+description:
+cat:
+tag:
+    - cnr
+    - angelo ferrari
+    - beni culturali
+---
+AF.54 » Ninpha
+
+Progetto Ninpha 2003
+
+http://www.angeloferrari.it/?p=1648 http://www.angeloferrari.it/?p=1648\#comments Tue, 16 Oct 2018 17:18:14 +0000 angelo Progetti Angelo Ferrari Beni Culturali Ninpha http://www.angeloferrari.it/?p=1648 Progetto Ninpha 2003 Accordo Tecnico &\#8211; Scientifico Partner: CNR, Progetto Finalizzato beni Culturali Ninpha Onlus, Associazione Nazionale Ecologia Ambientale, Scientifica, Culturale Obiettivi: Promuovere modelli innovativi di intervento nel settore dei beni culturali, sia per quanto riguarda le iniziative che i contenuti. Migliorare il raccordo programmatico con quegli Enti che hanno competenza in materia di politiche culturali. &\#8230; \<a href=\"http://www.angeloferrari.it/?p=1648\" class=\"more-link\"\>Continua la lettura di \<span class=\"screen-reader-text\"\>Progetto Ninpha 2003\</span\> \<span class=\"meta-nav\"\>&\#8594;\</span\>\</a\> \<p\>\<span style=\"color: \#993300;\"\>\<strong\>Progetto Ninpha 2003\</strong\>\</span\>\<br /\> \<span style=\"color: \#993300;\"\> Accordo Tecnico &\#8211; Scientifico\</span\>\<br /\> \<span style=\"color: \#993300;\"\> Partner:\</span\>\<br /\> \<span style=\"color: \#993300;\"\> CNR, Progetto Finalizzato beni Culturali\</span\>\<br /\> \<span style=\"color: \#993300;\"\> Ninpha Onlus, Associazione Nazionale Ecologia Ambientale, Scientifica, Culturale\</span\>\<br /\> \<span style=\"color: \#993300;\"\> Obiettivi:\</span\>\<br /\> \<span style=\"color: \#993300;\"\> Promuovere modelli innovativi di intervento nel settore dei beni culturali, sia per quanto riguarda le iniziative che i contenuti. Migliorare il raccordo programmatico con quegli Enti che hanno competenza in materia di politiche culturali. Realizzare sistemi informativi integrati che consentano di allargare la propria sfera di azione per migliorare la valorizzazione di culture e identità locali. promuovere e sostenere la realizzazione di progetti, nazionali ed internazionali, prestando collaborazione alle procedure gestionali e per il trasferimento tecnologico. Sostenere le attività per la creazione di inprese con particolare riferimento a iniziative di spin-off.\</span\>\</p\> http://www.angeloferrari.it/?feed=rss2&p=1648 0
+

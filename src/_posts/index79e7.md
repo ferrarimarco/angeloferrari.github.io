@@ -1,0 +1,17 @@
+---
+layout: post
+date: 9999-01-01
+title:
+description:
+cat:
+tag:
+    - cnr
+    - angelo ferrari
+    - beni culturali
+---
+AF.54 » IMC
+
+Progetto Marsica 2018 -- 2020
+
+http://www.angeloferrari.it/?p=2151 http://www.angeloferrari.it/?p=2151\#comments Wed, 28 Nov 2018 14:01:57 +0000 angelo Progetti Abruzzo Angelo Ferrari CNR Emissario Fucino IGAG IMC http://www.angeloferrari.it/?p=2151 L&\#8217;Emissario del Fucino sarà oggetto di nuove indagini che contribuiranno allo studio delle strutture ipogee dell&\#8217;opera idraulica e al miglioramento della gestione delle acque irrigue. Queste due linee guida sono alla base dell&\#8217;accordo, tra il Consorzio di Bonifica Ovest / Bacino Liri Garigliano e il CNR, in particolare l&\#8217;Istituto di Metodologie Chimiche (IMC) e l&\#8217;Istituto &\#8230; \<a href=\"http://www.angeloferrari.it/?p=2151\" class=\"more-link\"\>Continua la lettura di \<span class=\"screen-reader-text\"\>Progetto Marsica 2018 &\#8211; 2020\</span\> \<span class=\"meta-nav\"\>&\#8594;\</span\>\</a\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>L&\#8217;Emissario del Fucino sarà oggetto di nuove indagini che contribuiranno allo studio delle strutture ipogee dell&\#8217;opera idraulica e al miglioramento della gestione delle acque irrigue. Queste due linee guida sono alla base dell&\#8217;accordo, tra il Consorzio di Bonifica Ovest / Bacino Liri Garigliano e il CNR, in particolare l&\#8217;Istituto di Metodologie Chimiche (IMC) e l&\#8217;Istituto di Geologia Ambientale e Geoingegneria (IGAG), entrambi con una pluriennale esperienza nel settore delle nuove metodologie applicate allo studio, alla conservazione e alla valorizzazione dei beni culturali e ambientali. L&\#8217;antica struttura idraulica, realizzata 150 anni fa su una precedente, articolata opera di epoca romana e oggi affidata in gestione dalla Regione Abruzzo al Consorzio di Bonifica Ovest,  consente l&\#8217;irrigazione dei terreni agricoli della pianura del Fucino e sarà monitorata sotto diversi aspetti che verranno via via concordati tra i Soggetti interessati e con la Soprintendenza per i Beni Architettonici e Paesaggistici per l&\#8217;Abruzzo. Tra le numerose attività in programma vi sono: i rilievi topografici e fotografici relativi all'emissario; la misurazione della concentrazione del gas radon, in aria e in acqua, negli ambienti sotterranei di drenaggio delle acque; la misurazione, nel tempo, della temperatura e dell'umidità degli ambienti sotterranei del collettore principale del Fucino e delle sue pertinenze significative; le analisi di sostanze biologicamente attive (polifenoli, vitamine, fitosteroli) ed il loro recupero dagli scarti agricoli; l&\#8217;implementazione di un Sistema Informativo Geografico (GIS) dedicato;  la raccolta di informazioni di tipo geologico e idrologico-idrogeologico, quali ad esempio: rete di canali, sorgenti, pozzi, misure piezometriche, misure chimico fisiche; la elaborazione di informazioni sulla pericolosità sismica e sulla presenza e caratterizzazione delle faglie attive presenti nell'area.\</span\>\</p\> http://www.angeloferrari.it/?feed=rss2&p=2151 0
+

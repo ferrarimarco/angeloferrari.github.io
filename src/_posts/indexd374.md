@@ -1,0 +1,17 @@
+---
+layout: post
+date: 9999-01-01
+title:
+description:
+cat:
+tag:
+    - cnr
+    - angelo ferrari
+    - beni culturali
+---
+AF.54 » Cittadinanza
+
+Progetto PRIN Immigrazione 2009
+
+http://www.angeloferrari.it/?p=684 http://www.angeloferrari.it/?p=684\#comments Thu, 16 Mar 2017 13:47:46 +0000 angelo Progetti Cittadinanza Immigrazione PRIN http://www.angeloferrari.it/?p=684 Progetto PRIN Immigrazione 2009 Progetto per la realizzazione di un portale internet dedicato alle problematiche economico giuridiche su cittadinanza e immigrazione. Preparation of an Internet portal devoted to economic and legal problems concerning citizenship and immigration. Creare uno portale internet quale strumento informatico flessibile che consenta di facilitare l'accesso alle informazioni fra le varie Unità di Ricerca su &\#8230; \<a href=\"http://www.angeloferrari.it/?p=684\" class=\"more-link\"\>Continua la lettura di \<span class=\"screen-reader-text\"\>Progetto PRIN Immigrazione 2009\</span\> \<span class=\"meta-nav\"\>&\#8594;\</span\>\</a\> \<p\>\<span style=\"color: \#993300;\"\>\<strong\>Progetto PRIN Immigrazione 2009\</strong\>\</span\>\</p\> \<p\>\<span style=\"color: \#993300;\"\>\<strong\>Progetto per la realizzazione di un portale internet dedicato alle problematiche economico giuridiche su cittadinanza e immigrazione.\</strong\>\</span\>\<br /\> \<span style=\"color: \#993300;\"\>\<strong\> Preparation of an Internet portal devoted to economic and legal problems\</strong\>\</span\>\<br /\> \<span style=\"color: \#993300;\"\>\<strong\> concerning citizenship and immigration.\</strong\>\</span\>\</p\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>Creare uno portale internet quale strumento informatico flessibile che \</span\>\<span style=\"color: \#993300;\"\>consenta di facilitare l'accesso alle informazioni fra le varie Unità di Ricerca \</span\>\<span style=\"color: \#993300;\"\>su cittadinanza, diritto degli stranieri e immigrazione rendendo pubblici i \</span\>\<span style=\"color: \#993300;\"\>risultati degli studi in modo da consentire a cittadini italiani e immigrati di \</span\>\<span style=\"color: \#993300;\"\>conoscere lo sviluppo delle problematiche. \</span\>\<span style=\"color: \#993300;\"\>Pubblicare i dati economici relativi al fenomeno migratorio e consentire uno \</span\>\<span style=\"color: \#993300;\"\>scambio pubblico di informazione mediante un Forum sul portale.\</span\>\</p\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>To elaborate an internet portal as a flexible tool to facilitate access to \</span\>\<span style=\"color: \#993300;\"\>information among the other Research Units on citizenship, immigration, \</span\>\<span style=\"color: \#993300;\"\>foreigners Rights and to inform public opinion on the results of these studies \</span\>\<span style=\"color: \#993300;\"\>in order to give access to everybody to follow the development of the \</span\>\<span style=\"color: \#993300;\"\>research. \</span\>\<span style=\"color: \#993300;\"\>To issue economic data concerning the migration phenomena with a specific \</span\>\<span style=\"color: \#993300;\"\>Forum.\</span\>\</p\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>\<a style=\"color: \#993300;\" href=\"http://www.angeloferrari.it/wp-content/uploads/2017/03/Progetto-PRIN-Immigrazione-2009.pdf\"\>Leggi il Progetto &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\</a\>\</span\>\</p\> http://www.angeloferrari.it/?feed=rss2&p=684 0
+

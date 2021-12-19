@@ -1,0 +1,17 @@
+---
+layout: post
+date: 9999-01-01
+title:
+description:
+cat:
+tag:
+    - cnr
+    - angelo ferrari
+    - beni culturali
+---
+AF.54 » IAEA
+
+Progetto IAEA Radon 2008
+
+http://www.angeloferrari.it/?p=606 http://www.angeloferrari.it/?p=606\#comments Tue, 14 Mar 2017 17:57:16 +0000 angelo Progetti IAEA Iran Qanat Radon http://www.angeloferrari.it/?p=606 IAEA International Atomic Energy Agency Progetto IAEA Radon content in Qanats of Shahrood County in Iran This Project takes into account the previous work carried out by this Institute in order to assess the content of radon  and thoron  inside  many  buildings  of Rome due to the construction materials used in the past centuries. Particularly, &\#8230; \<a href=\"http://www.angeloferrari.it/?p=606\" class=\"more-link\"\>Continua la lettura di \<span class=\"screen-reader-text\"\>Progetto IAEA Radon 2008\</span\> \<span class=\"meta-nav\"\>&\#8594;\</span\>\</a\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>IAEA International Atomic Energy Agency\</span\>\</p\> \<p style=\"text-align: justify;\"\>\<span style=\"color: \#993300;\"\>\<strong\>Progetto IAEA Radon content in Qanats of Shahrood County in Iran\</strong\>\</span\>\<br /\> \<span style=\"color: \#993300;\"\> This Project takes into account the previous work carried out by this Institute in order to assess the content of radon  and thoron  inside  many  buildings  of Rome due to the construction materials used in the past centuries. Particularly, important Palaces of the center of Rome suffer this problem.\</span\>\<br /\> \<span style=\"color: \#993300;\"\> Starting from the most recent techniques developed inside this Institute and the proposed research will examine and monitor the radon content inside a certain number of Qanats (ancient management systems used to provide a reliable supply of water to human settlements in arid and semi-arid climates, which are still in function in many semi-arid areas in Iran) and in particularly the Qanats of Shahrood, Torud and Biarjomand. This project will be carried out in collaboration with the University of Technology of Shahrood, Department of Earth Sciences, Iran,  according to the alleged Memorandum of Understanding signed on June 16, 2008.\</span\>\</p\> \<p style=\"text-align: justify;\"\>\<a href=\"http://www.angeloferrari.it/wp-content/uploads/2017/03/Progetto-IAEA-Radon-2008.pdf\"\>Leggi il Progetto &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\</a\>\</p\> http://www.angeloferrari.it/?feed=rss2&p=606 0
+

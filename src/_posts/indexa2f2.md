@@ -1,0 +1,21 @@
+---
+layout: post
+date: 9999-01-01
+title:
+description:
+cat:
+tag:
+    - cnr
+    - angelo ferrari
+    - beni culturali
+---
+Archivi tag: IMC {#archivi-tag-imc .archive-title}
+================
+
+[Progetto Marsica 2018 -- 2020](indexc757.html?p=2151) {#progetto-marsica-2018-2020 .entry-title}
+
+
+[28 novembre 2018](indexc757.html?p=2151 "Permalink a Progetto Marsica 2018 – 2020")[Progetti](index0b40.html?cat=9)[Abruzzo](indexbf18.html?tag=abruzzo), [Angelo Ferrari](indexdddd.html?tag=angelo-ferrari), [CNR](index47bd.html?tag=cnr), [Emissario](index7457.html?tag=emissario), [Fucino](index11b4.html?tag=fucino), [IGAG](index1e12.html?tag=igag), [IMC](indexa2f2.html?tag=imc)[angelo](indexcd64.html?author=1 "Vedi tutti gli articoli di angelo"){.url .fn .n}
+
+L'Emissario del Fucino sarà oggetto di nuove indagini che contribuiranno allo studio delle strutture ipogee dell'opera idraulica e al miglioramento della gestione delle acque irrigue. Queste due linee guida sono alla base dell'accordo, tra il Consorzio di Bonifica Ovest / Bacino Liri Garigliano e il CNR, in particolare l'Istituto di Metodologie Chimiche (IMC) e l'Istituto di Geologia Ambientale e Geoingegneria (IGAG), entrambi con una pluriennale esperienza nel settore delle nuove metodologie applicate allo studio, alla conservazione e alla valorizzazione dei beni culturali e ambientali. L'antica struttura idraulica, realizzata 150 anni fa su una precedente, articolata opera di epoca romana e oggi affidata in gestione dalla Regione Abruzzo al Consorzio di Bonifica Ovest,  consente l'irrigazione dei terreni agricoli della pianura del Fucino e sarà monitorata sotto diversi aspetti che verranno via via concordati tra i Soggetti interessati e con la Soprintendenza per i Beni Architettonici e Paesaggistici per l'Abruzzo. Tra le numerose attività in programma vi sono: i rilievi topografici e fotografici relativi all'emissario; la misurazione della concentrazione del gas radon, in aria e in acqua, negli ambienti sotterranei di drenaggio delle acque; la misurazione, nel tempo, della temperatura e dell'umidità degli ambienti sotterranei del collettore principale del Fucino e delle sue pertinenze significative; le analisi di sostanze biologicamente attive (polifenoli, vitamine, fitosteroli) ed il loro recupero dagli scarti agricoli; l'implementazione di un Sistema Informativo Geografico (GIS) dedicato;  la raccolta di informazioni di tipo geologico e idrologico-idrogeologico, quali ad esempio: rete di canali, sorgenti, pozzi, misure piezometriche, misure chimico fisiche; la elaborazione di informazioni sulla pericolosità sismica e sulla presenza e caratterizzazione delle faglie attive presenti nell'area.
+

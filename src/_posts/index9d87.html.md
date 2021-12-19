@@ -1,5 +1,0 @@
-
-[](index7f00.html?page_id=422)
-
-### Click here\...
-
