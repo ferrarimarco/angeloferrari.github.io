@@ -13,8 +13,7 @@ date_format_month: "%m"
 date_format_year: "%Y"
 date_format_year_month: "%Y-%m"
 
-# TODO: update this
-author_id: ferrarimarco
+author_id: angeloferrari
 
 # Google analytics ID
 google_analytics: G-T8ZSKNJ309
