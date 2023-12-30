@@ -4,10 +4,8 @@ title: Angelo Ferrari
 description: Personal website of Angelo Ferrari
 url: https://angeloferrari.it
 
-# Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: .tmp/jekyll-preprocessed-src
-destination: .tmp/jekyll-built
-exclude: ['assets']
+destination: docs
 
 date_format: "%Y-%m-%d"
 date_format_day: "%d"
@@ -15,16 +13,7 @@ date_format_month: "%m"
 date_format_year: "%Y"
 date_format_year_month: "%Y-%m"
 
-# Same as the title etc for your site but can instead be
-# called by using 'site.author.name' and so on
-# NOTE: Don't use @ in front of your Twitter username
-author:
-  name: Angelo Ferrari
-  email: angeloferrari54@gmail.com
-  uri: https://angeloferrari.it
-  cv_urls:
-    - language: ENG
-      url: "#"
+author_id: angeloferrari
 
 # Google analytics ID
 google_analytics: G-T8ZSKNJ309

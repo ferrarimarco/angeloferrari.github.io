@@ -1,0 +1,10 @@
+{
+  "reporters": [
+    "consoleFull"
+  ],
+  "ignore": [
+    "**/.tmp/**",
+    "**/docs/**"
+  ],
+  "threshold": 5
+}
