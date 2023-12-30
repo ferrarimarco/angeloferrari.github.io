@@ -58,7 +58,6 @@ module.exports = {
     }),
     // Inject webpack-managed assets in the head
     new HtmlWebpackPlugin({
-      favicon: './src/assets/favicon.ico',
       filename: './_includes/head.html',
       hash: true,
       template: './src/_includes/head.html'

@@ -3,7 +3,7 @@
 set -o errexit
 set -o nounset
 
-CONTAINER_IMAGE_ID=ferrarimarco/personal-website:latest
+CONTAINER_IMAGE_ID=angeloferrari/personal-website:latest
 TARGET_APP_DIR=/usr/src/app
 
 DOCKER_FLAGS=

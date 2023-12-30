@@ -138,7 +138,6 @@
 }
 
 @include media-query($on-laptop) {
-
   .footer-col-1,
   .footer-col-2 {
     width: calc(50% - (#{$spacing-unit} / 2));
