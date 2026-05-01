@@ -7,7 +7,7 @@
   "devDependencies": {
     "@babel/core": "^7.29.0",
     "@babel/preset-env": "^7.29.2",
-    "@babel/register": "^7.28.6",
+    "@babel/register": "^7.29.3",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^7.1.4",
     "html-webpack-plugin": "^5.6.7",
