@@ -5,7 +5,7 @@
   },
   "description": "Angelo Ferrari - Personal Website",
   "devDependencies": {
-    "@babel/core": "^7.29.7",
+    "@babel/core": "^8.0.1",
     "@babel/preset-env": "^7.29.7",
     "@babel/register": "^7.29.7",
     "copy-webpack-plugin": "^11.0.0",
